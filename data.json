@@ -1,0 +1,11525 @@
+[{
+    "word": "Bear",
+    "mean": "Con gấu"
+},
+{
+    "word": "Bird",
+    "mean": "Con chim"
+},
+{
+    "word": "Cat",
+    "mean": "Con mèo"
+},
+{
+    "word": "Chicken",
+    "mean": "Con gà"
+},
+{
+    "word": "Chimpanzee",
+    "mean": "con hắc tinh tinh"
+},
+{
+    "word": "Cow",
+    "mean": "Con bò"
+},
+{
+    "word": "Dog",
+    "mean": "Con chó"
+},
+{
+    "word": "Dolphin",
+    "mean": "cá heo"
+},
+{
+    "word": "Donkey",
+    "mean": "Con lừa"
+},
+{
+    "word": "Eel",
+    "mean": "lươn"
+},
+{
+    "word": "Elephant",
+    "mean": "Con voi"
+},
+{
+    "word": "Fish",
+    "mean": "Con cá"
+},
+{
+    "word": "Fox",
+    "mean": "con cáo"
+},
+{
+    "word": "Giraffe",
+    "mean": "con hươu cao cổ"
+},
+{
+    "word": "Goat",
+    "mean": "Con dê"
+},
+{
+    "word": "Hippopotamus",
+    "mean": "con hà mã"
+},
+{
+    "word": "Horse",
+    "mean": "Con ngựa"
+},
+{
+    "word": "Insect",
+    "mean": "Côn trùng"
+},
+{
+    "word": "Jaguar",
+    "mean": "con báo đốm"
+},
+{
+    "word": "Lion",
+    "mean": "Sư tử"
+},
+{
+    "word": "Monkey",
+    "mean": "Con khỉ"
+},
+{
+    "word": "Mouse",
+    "mean": "Con chuột"
+},
+{
+    "word": "Ox",
+    "mean": "Con bò đực"
+},
+{
+    "word": "Penguin",
+    "mean": "chim cánh cụt"
+},
+{
+    "word": "Pig",
+    "mean": "Con lợn/heo"
+},
+{
+    "word": "Porcupine",
+    "mean": "con nhím"
+},
+{
+    "word": "Rabbit",
+    "mean": "Con thỏ"
+},
+{
+    "word": "Raccoon",
+    "mean": "con gấu mèo"
+},
+{
+    "word": "Rhinoceros",
+    "mean": "con tê giác"
+},
+{
+    "word": "Shark",
+    "mean": "cá mập"
+},
+{
+    "word": "Sheep",
+    "mean": "Con cừu"
+},
+{
+    "word": "Squirrel",
+    "mean": "con sóc"
+},
+{
+    "word": "Swordfish",
+    "mean": "cá kiếm"
+},
+{
+    "word": "Tiger",
+    "mean": "Con hổ"
+},
+{
+    "word": "Turtle",
+    "mean": "rùa"
+},
+{
+    "word": "Walrus",
+    "mean": "hải mã"
+},
+{
+    "word": "Whale",
+    "mean": "cá voi"
+},
+{
+    "word": "Alder",
+    "mean": "Cây tổng quán sủi"
+},
+{
+    "word": "Ash",
+    "mean": "Cây tần bì"
+},
+{
+    "word": "Beech",
+    "mean": "Cây sồi"
+},
+{
+    "word": "Birch",
+    "mean": "Cây gỗ bu lô"
+},
+{
+    "word": "Bloom",
+    "mean": "Nở hoa"
+},
+{
+    "word": "Bluebell",
+    "mean": "Hoa chuông xanh"
+},
+{
+    "word": "Bracken",
+    "mean": "Cây dương xỉ diều hâu"
+},
+{
+    "word": "Branch",
+    "mean": "Cành cây"
+},
+{
+    "word": "Bud",
+    "mean": "Chồi, búp cây"
+},
+{
+    "word": "The",
+    "mean": "Bó hoa"
+},
+{
+    "word": "Bush",
+    "mean": "Bụi rậm"
+},
+{
+    "word": "Buttercup",
+    "mean": "Hoa mao lương vàng"
+},
+{
+    "word": "Cactus",
+    "mean": "Cây xương rồng"
+},
+{
+    "word": "Carnation",
+    "mean": "Hoa cẩm chướng"
+},
+{
+    "word": "Cedar",
+    "mean": "Cây tuyết tùng"
+},
+{
+    "word": "Cherry",
+    "mean": "Cây anh đào"
+},
+{
+    "word": "Chestnut",
+    "mean": "Cây dẻ"
+},
+{
+    "word": "Chrysanthemum",
+    "mean": "Hoa cúc"
+},
+{
+    "word": "Coconut",
+    "mean": "Cây dừa"
+},
+{
+    "word": "Corn",
+    "mean": "Cây ngô"
+},
+{
+    "word": "Crocus",
+    "mean": "Hoa nghệ tây"
+},
+{
+    "word": "Daffodil",
+    "mean": "Hoa thủy tiên vàng"
+},
+{
+    "word": "Dahlia",
+    "mean": "Hoa thược dược"
+},
+{
+    "word": "Daisy",
+    "mean": "Hoa cúc"
+},
+{
+    "word": "Dandelion",
+    "mean": "Hoa bồ công anh"
+},
+{
+    "word": "Elm",
+    "mean": "Cây đu"
+},
+{
+    "word": "Fern",
+    "mean": "Cây dương xỉ"
+},
+{
+    "word": "Fig",
+    "mean": "Cây sung"
+},
+{
+    "word": "Fir",
+    "mean": "Cây Linh sam"
+},
+{
+    "word": "Flower",
+    "mean": "Hoa"
+},
+{
+    "word": "Forget-me-not",
+    "mean": "Hoa lưu ly"
+},
+{
+    "word": "Foxglove",
+    "mean": "Hoa mao địa hoàng"
+},
+{
+    "word": "Geranium",
+    "mean": "Hoa phong lữ"
+},
+{
+    "word": "Grass",
+    "mean": "trồng cỏ"
+},
+{
+    "word": "Grass",
+    "mean": "Cỏ"
+},
+{
+    "word": "Grow",
+    "mean": "Mọc lên, lớn lên, phát triển"
+},
+{
+    "word": "Hawthorn",
+    "mean": "Cây táo gai"
+},
+{
+    "word": "Hazel",
+    "mean": "Cây phỉ"
+},
+{
+    "word": "Heather",
+    "mean": "Cây thạch nam"
+},
+{
+    "word": "Herb",
+    "mean": "Thảo mộc"
+},
+{
+    "word": "Holly",
+    "mean": "Cây nhựa ruồi"
+},
+{
+    "word": "Horse",
+    "mean": "Cây dẻ ngựa"
+},
+{
+    "word": "Ivy",
+    "mean": "Cây thường xuân"
+},
+{
+    "word": "Leaf",
+    "mean": "Lá cây"
+},
+{
+    "word": "Lily",
+    "mean": "Hoa loa kèn"
+},
+{
+    "word": "Lime",
+    "mean": "Cây đoan"
+},
+{
+    "word": "Maple",
+    "mean": "Cây thích"
+},
+{
+    "word": "Moss",
+    "mean": "Rêu"
+},
+{
+    "word": "Mushroom",
+    "mean": "Nấm"
+},
+{
+    "word": "Nettle",
+    "mean": "Cây tầm ma"
+},
+{
+    "word": "Oak",
+    "mean": "Cây sồi"
+},
+{
+    "word": "Olive",
+    "mean": "Cây ô liu"
+},
+{
+    "word": "Orchid",
+    "mean": "Hoa Lan"
+},
+{
+    "word": "Pansy",
+    "mean": "Hoa păng xê"
+},
+{
+    "word": "Pear",
+    "mean": "Cây lê"
+},
+{
+    "word": "Pine",
+    "mean": "Cây thông"
+},
+{
+    "word": "Plane",
+    "mean": "Cây tiêu huyền"
+},
+{
+    "word": "Plum",
+    "mean": "Cây mận"
+},
+{
+    "word": "Poplar",
+    "mean": "Cây bạch dương"
+},
+{
+    "word": "Poppy",
+    "mean": "Hoa anh túc"
+},
+{
+    "word": "Primrose",
+    "mean": "Hoa anh thảo"
+},
+{
+    "word": "Root",
+    "mean": "Rễ cây"
+},
+{
+    "word": "Rose",
+    "mean": "Hoa hồng"
+},
+{
+    "word": "Seed",
+    "mean": "Hạt giống, hạt"
+},
+{
+    "word": "Shrub",
+    "mean": "Cây bụi"
+},
+{
+    "word": "Snowdrop",
+    "mean": "Hoa giọt tuyết"
+},
+{
+    "word": "Sycamore",
+    "mean": "Cây sung dâu"
+},
+{
+    "word": "Thorn",
+    "mean": "Gai"
+},
+{
+    "word": "Tree",
+    "mean": "Cây cối"
+},
+{
+    "word": "Trunk",
+    "mean": "Thân cây"
+},
+{
+    "word": "Tulip",
+    "mean": "Hoa tulip"
+},
+{
+    "word": "Waterlily",
+    "mean": "Hoa súng"
+},
+{
+    "word": "Weeping",
+    "mean": "Cây liễu rủ"
+},
+{
+    "word": "Wheat",
+    "mean": "Lúa mì"
+},
+{
+    "word": "Willow",
+    "mean": "Cây liễu"
+},
+{
+    "word": "Wood",
+    "mean": "Gỗ"
+},
+{
+    "word": "Yew",
+    "mean": "Cây thủy tùng"
+},
+{
+    "word": "Cherry",
+    "mean": "Quả anh đào"
+},
+{
+    "word": "Coconut",
+    "mean": "Quả dừa"
+},
+{
+    "word": "Juice",
+    "mean": "Nước quả, nước ép"
+},
+{
+    "word": "Juicy",
+    "mean": "Mọng nước"
+},
+{
+    "word": "Lemon",
+    "mean": "Quả chanh vàng"
+},
+{
+    "word": "Lime",
+    "mean": "Quả chanh xanh"
+},
+{
+    "word": "Orange",
+    "mean": "Quả cam"
+},
+{
+    "word": "Peel",
+    "mean": "Vỏ ngoài của trái cây"
+},
+{
+    "word": "Ripe",
+    "mean": "Chín (trái cây)"
+},
+{
+    "word": "Sugar",
+    "mean": "Mía"
+},
+{
+    "word": "cherry",
+    "mean": "nh đào"
+},
+{
+    "word": "Basil",
+    "mean": "cây húng quế"
+},
+{
+    "word": "Bay",
+    "mean": "lá nguyệt quế"
+},
+{
+    "word": "Bean",
+    "mean": "Đậu (quả)"
+},
+{
+    "word": "Beet",
+    "mean": "/biːt/ củ dền"
+},
+{
+    "word": "Bell",
+    "mean": "Ớt chuông"
+},
+{
+    "word": "Bitter",
+    "mean": "/ˌbɪt.ə hɜːb/ Rau Đắng"
+},
+{
+    "word": "avocado",
+    "mean": "Bơ "
+},
+{
+    "word": "Pomelo",
+    "mean": "Bưởi"
+},
+{
+    "word": "Cabbage",
+    "mean": "bắp cải"
+},
+{
+    "word": "Orange",
+    "mean": "cam"
+},
+{
+    "word": "Carrot",
+    "mean": "Cà rốt"
+},
+{
+    "word": "Celery",
+    "mean": "Cần tây"
+},
+{
+    "word": "lemon",
+    "mean": "Chanh vàng"
+},
+{
+    "word": "lime",
+    "mean": "Chanh xanh"
+},
+{
+    "word": "Chili",
+    "mean": "Ớt"
+},
+{
+    "word": "rambutan",
+    "mean": "Chôm chôm"
+},
+{
+    "word": "Banana",
+    "mean": "chuối"
+},
+{
+    "word": "Cilantro",
+    "mean": "ngò rí"
+},
+{
+    "word": "Cilantro",
+    "mean": "/sɪˈlæn.trəʊ/ Ngò Gai"
+},
+{
+    "word": "Cilantro",
+    "mean": "/sɪˈlæn.trəʊ/ Ngò Mùi"
+},
+{
+    "word": "Coconut",
+    "mean": "dừa"
+},
+{
+    "word": "Corn",
+    "mean": "Ngô"
+},
+{
+    "word": "Cucumber",
+    "mean": "Dưa chuột"
+},
+{
+    "word": "Peach",
+    "mean": "Đào"
+},
+{
+    "word": "red",
+    "mean": "đậu đỏ"
+},
+{
+    "word": "soybean",
+    "mean": "Đậu nành"
+},
+{
+    "word": "strawberry",
+    "mean": "Dâu tây"
+},
+{
+    "word": "mung",
+    "mean": "Đậu xanh"
+},
+{
+    "word": "Dill",
+    "mean": "cây thì là"
+},
+{
+    "word": "Dứa",
+    "mean": "pineapple"
+},
+{
+    "word": "Dưa",
+    "mean": "watermelon"
+},
+{
+    "word": "Eggplant",
+    "mean": "Cà tím"
+},
+{
+    "word": "Fish",
+    "mean": "/ˈfɪʃ mɪnt/ Diếp Cá"
+},
+{
+    "word": "Garlic",
+    "mean": "Tỏi"
+},
+{
+    "word": "Ginger",
+    "mean": "Gừng"
+},
+{
+    "word": "Green",
+    "mean": "hành lá"
+},
+{
+    "word": "Marrow",
+    "mean": "/ˈmærəʊ/ Bí xanh"
+},
+{
+    "word": "Me",
+    "mean": "tamarind"
+},
+{
+    "word": "Mít",
+    "mean": "jackfruit"
+},
+{
+    "word": "Mơ",
+    "mean": "apricot"
+},
+{
+    "word": "Mushroom",
+    "mean": "Nấm"
+},
+{
+    "word": "Mustard",
+    "mean": "/ˈmʌstəd liːvz/ Cải Xanh"
+},
+{
+    "word": "Nhãn",
+    "mean": "longan"
+},
+{
+    "word": "Nho",
+    "mean": "Grape"
+},
+{
+    "word": "Ổi",
+    "mean": "guava"
+},
+{
+    "word": "Onion",
+    "mean": "Hành tây"
+},
+{
+    "word": "Papaya",
+    "mean": "đu đủ"
+},
+{
+    "word": "Passion",
+    "mean": "chanh dây"
+},
+{
+    "word": "Pea",
+    "mean": "Đậu (hạt)"
+},
+{
+    "word": "Pennywort",
+    "mean": "/ˈpen.i.wɜːt/ Rau Má"
+},
+{
+    "word": "Pepper",
+    "mean": "/ˈpepə ˈeldə(r)/ Rau càng Cua"
+},
+{
+    "word": "Pepper",
+    "mean": "/ˈpepə(r)/ ớt chuông"
+},
+{
+    "word": "Peppermint",
+    "mean": "/ˈpepəmɪnt/ Húng Cây"
+},
+{
+    "word": "Potato",
+    "mean": "Khoai tây"
+},
+{
+    "word": "Pumpkin",
+    "mean": "Bí ngô"
+},
+{
+    "word": "Rice",
+    "mean": "/ˈraɪs ˌpæd.i/ Ngò ôm"
+},
+{
+    "word": "Rosemary",
+    "mean": "cây hương thảo"
+},
+{
+    "word": "Sapôchê",
+    "mean": "sapota"
+},
+{
+    "word": "Spearmint",
+    "mean": "/ˈspɪəmɪnt/ Húng Lủi"
+},
+{
+    "word": "apple",
+    "mean": "Táo"
+},
+{
+    "word": "Thai",
+    "mean": "/taɪ ˈbæz.əl/ Húng Quế"
+},
+{
+    "word": "Tomato",
+    "mean": "Cà chua"
+},
+{
+    "word": "Turmeric",
+    "mean": "nghệ"
+},
+{
+    "word": "Lychee",
+    "mean": "Vải"
+},
+{
+    "word": "Vietnamese",
+    "mean": "/ˌvjet.nəˈmiːz bɑːm/ Kinh Giới"
+},
+{
+    "word": "Vietnamese",
+    "mean": "/ˌvjet.nəˈmiːz ˌkɒr.iˈæn.dər/ Rau Răm"
+},
+{
+    "word": "Water",
+    "mean": "/ˈwɔːtə(r) ˈspɪnɪtʃ/ Rau Muống"
+},
+{
+    "word": "Watercress",
+    "mean": "/ˈwɔːtəkres/ Xà Lách Son"
+},
+{
+    "word": "mango",
+    "mean": "Xoài"
+},
+{
+    "word": "Yam",
+    "mean": "/jæm/ khoai mỡ"
+},
+{
+    "word": "A",
+    "mean": "một ngôi làng"
+},
+{
+    "word": "A",
+    "mean": "Đường làng"
+},
+{
+    "word": "Agriculture",
+    "mean": "Nông nghiệp"
+},
+{
+    "word": "An",
+    "mean": "một khu vực hẻo lánh"
+},
+{
+    "word": "Bay",
+    "mean": "Vịnh"
+},
+{
+    "word": "Boat",
+    "mean": "Con đò"
+},
+{
+    "word": "Buffalo",
+    "mean": "Con trâu"
+},
+{
+    "word": "Canal",
+    "mean": "Kênh, mương"
+},
+{
+    "word": "Cloud",
+    "mean": "Mây"
+},
+{
+    "word": "Coast",
+    "mean": "Bờ biển"
+},
+{
+    "word": "Cottage",
+    "mean": "Mái nhà tranh"
+},
+{
+    "word": "Desert",
+    "mean": "Sa mạc"
+},
+{
+    "word": "Farming",
+    "mean": "Làm ruộng"
+},
+{
+    "word": "Fields",
+    "mean": "Cánh đồng"
+},
+{
+    "word": "Fish",
+    "mean": " Ao cá"
+},
+{
+    "word": "Folk",
+    "mean": "Trò chơi dân gian"
+},
+{
+    "word": "Forest",
+    "mean": "Rừng"
+},
+{
+    "word": "Highland",
+    "mean": "Cao nguyên"
+},
+{
+    "word": "Hill",
+    "mean": "Đồi"
+},
+{
+    "word": "Horizon",
+    "mean": "Đường chân trời"
+},
+{
+    "word": "Island",
+    "mean": "Hòn đảo"
+},
+{
+    "word": "Lake",
+    "mean": "Hồ"
+},
+{
+    "word": "Land",
+    "mean": "Đất liền"
+},
+{
+    "word": "Mountain",
+    "mean": "Núi"
+},
+{
+    "word": "Ocean",
+    "mean": "Đại dương"
+},
+{
+    "word": "Peace",
+    "mean": "yên bình"
+},
+{
+    "word": "quiet",
+    "mean": "yên tĩnh"
+},
+{
+    "word": "Peaceful",
+    "mean": "Yên bình"
+},
+{
+    "word": "Port",
+    "mean": "Cảng"
+},
+{
+    "word": "River",
+    "mean": "Con sông"
+},
+{
+    "word": "Sand",
+    "mean": "Cát"
+},
+{
+    "word": "Scenery",
+    "mean": "Phong cảnh, cảnh vật"
+},
+{
+    "word": "Sea",
+    "mean": "Biển"
+},
+{
+    "word": "Sky",
+    "mean": "Bầu trời"
+},
+{
+    "word": "Valley",
+    "mean": "Thung lũng"
+},
+{
+    "word": "Volcano",
+    "mean": "Núi lửa"
+},
+{
+    "word": "Waterfall",
+    "mean": "thác nước"
+},
+{
+    "word": "Well",
+    "mean": "Giếng nước"
+},
+{
+    "word": "Wild",
+    "mean": "Hoang dã"
+},
+{
+    "word": "Air",
+    "mean": "Không khí"
+},
+{
+    "word": "Bright",
+    "mean": "Nắng sáng, tươi sáng"
+},
+{
+    "word": "Chilly",
+    "mean": "Lạnh lẽo"
+},
+{
+    "word": "Alternative",
+    "mean": "lựa chọn thay thế (danh từ đếm được)"
+},
+{
+    "word": "Canyon",
+    "mean": "hẻm núi."
+},
+{
+    "word": "Clear",
+    "mean": "Trong xanh, không có mây"
+},
+{
+    "word": "Cliff",
+    "mean": "vách đá"
+},
+{
+    "word": "Climate",
+    "mean": "Khí hậu"
+},
+{
+    "word": "Cold",
+    "mean": "Lạnh"
+},
+{
+    "word": "Cool",
+    "mean": "Mát mẻ, mát trời"
+},
+{
+    "word": "Deforestation",
+    "mean": "ô nhiễm không khí"
+},
+{
+    "word": "Drought",
+    "mean": "Khô hạn, hạn hạn"
+},
+{
+    "word": "Dry",
+    "mean": "Khô ráo, khô hanh"
+},
+{
+    "word": "Energy",
+    "mean": "Năng lượng"
+},
+{
+    "word": "Fine",
+    "mean": "Đẹp trời"
+},
+{
+    "word": "Forecast",
+    "mean": "Dự báo (thời tiết)"
+},
+{
+    "word": "Forest",
+    "mean": "rừng."
+},
+{
+    "word": "Freezing",
+    "mean": "Rét run, lạnh cóng"
+},
+{
+    "word": "Greenhouse",
+    "mean": "Nhà kính"
+},
+{
+    "word": "Hot",
+    "mean": "Nóng"
+},
+{
+    "word": "Hurricane",
+    "mean": "Bão nhiệt đới"
+},
+{
+    "word": "Plastic",
+    "mean": "Nhựa, chất dẻo"
+},
+{
+    "word": "Preserve",
+    "mean": "Bảo tồn, giữ gìn"
+},
+{
+    "word": "Rainy",
+    "mean": "Có mưa"
+},
+{
+    "word": "Resource",
+    "mean": "Tài nguyên, nguồn lực"
+},
+{
+    "word": "Snowy",
+    "mean": "Có tuyết"
+},
+{
+    "word": "Sunny",
+    "mean": "Trời có nắng"
+},
+{
+    "word": "Tidal",
+    "mean": "Sóng thần"
+},
+{
+    "word": "Typhoon",
+    "mean": "Bão nhiệt đới – Tên gọi khi xảy ra tại Tây Bắc Thái Bình Dương"
+},
+{
+    "word": "Warm",
+    "mean": "Ấm áp"
+},
+{
+    "word": "Waste",
+    "mean": "Rác thải"
+},
+{
+    "word": "Black",
+    "mean": "Màu đen"
+},
+{
+    "word": "Blue",
+    "mean": "Màu xanh dương"
+},
+{
+    "word": "Bright",
+    "mean": "màu xanh lá cây tươi"
+},
+{
+    "word": "Bright",
+    "mean": "màu đỏ sáng"
+},
+{
+    "word": "Brown",
+    "mean": "Màu nâu"
+},
+{
+    "word": "Color",
+    "mean": "Màu sắc"
+},
+{
+    "word": "Colorful",
+    "mean": "Rực rỡ, nhiều màu sắc"
+},
+{
+    "word": "Dark",
+    "mean": "Tối (màu)"
+},
+{
+    "word": "Dark",
+    "mean": "màu xanh lá cây đậm"
+},
+{
+    "word": "Gold",
+    "mean": "Màu vàng óng"
+},
+{
+    "word": "Green",
+    "mean": "Màu xanh lá"
+},
+{
+    "word": "Grey",
+    "mean": "Màu xám"
+},
+{
+    "word": "Light",
+    "mean": "màu xanh da trời nhạt"
+},
+{
+    "word": "Light",
+    "mean": "màu nâu nhạt"
+},
+{
+    "word": "Light",
+    "mean": "màu xanh lá cây nhạt"
+},
+{
+    "word": "Light",
+    "mean": "Sáng (màu)"
+},
+{
+    "word": "Orange",
+    "mean": "Màu cam"
+},
+{
+    "word": "Paint",
+    "mean": "Sơn, màu vẽ"
+},
+{
+    "word": "Pink",
+    "mean": "Màu hồng"
+},
+{
+    "word": "Purple",
+    "mean": "Màu tím"
+},
+{
+    "word": "Red",
+    "mean": "Màu đỏ"
+},
+{
+    "word": "Shade",
+    "mean": "Sắc độ"
+},
+{
+    "word": "White",
+    "mean": "Màu trắng"
+},
+{
+    "word": "Yellow",
+    "mean": "Màu vàng"
+},
+{
+    "word": "A",
+    "mean": "tóc cắt ngang trán"
+},
+{
+    "word": "A",
+    "mean": "người có mái tóc ngắn"
+},
+{
+    "word": "Angular",
+    "mean": "mặt xương xương"
+},
+{
+    "word": "baby",
+    "mean": " em bé, trẻ con"
+},
+{
+    "word": "Bald",
+    "mean": "hói"
+},
+{
+    "word": "Beard",
+    "mean": "râu"
+},
+{
+    "word": "Beautiful",
+    "mean": "đẹp, xinh đẹp"
+},
+{
+    "word": "Birthmark",
+    "mean": "vết bớt"
+},
+{
+    "word": "Blonde",
+    "mean": "tóc vàng"
+},
+{
+    "word": "Bloodshot",
+    "mean": "mắt đỏ ngầu"
+},
+{
+    "word": "Body",
+    "mean": "thân hình, vóc dáng cơ thể"
+},
+{
+    "word": "Broad",
+    "mean": "mũi rộng"
+},
+{
+    "word": "Charming",
+    "mean": "thu hút, quyến rũ"
+},
+{
+    "word": "Chubby",
+    "mean": "phúng phính"
+},
+{
+    "word": "Curly",
+    "mean": "tóc xoăn"
+},
+{
+    "word": "Cute",
+    "mean": "dễ thương, đáng yêu"
+},
+{
+    "word": "Dark",
+    "mean": "da đen"
+},
+{
+    "word": "Dreamy",
+    "mean": "đôi mắt mộng mơ"
+},
+{
+    "word": "Dull",
+    "mean": "mắt lờ đờ"
+},
+{
+    "word": "Dyed",
+    "mean": "tóc nhuộm"
+},
+{
+    "word": "Fat",
+    "mean": "béo, thừa cân"
+},
+{
+    "word": "Feature",
+    "mean": "đặc điểm"
+},
+{
+    "word": "Fit",
+    "mean": "cân đối, gọn gàng"
+},
+{
+    "word": "Flashing",
+    "mean": "mắt sáng"
+},
+{
+    "word": "Flat",
+    "mean": "mũi tẹt"
+},
+{
+    "word": "Frail",
+    "mean": "yếu đuối, mỏng manh"
+},
+{
+    "word": "Fresh",
+    "mean": "khuôn mặt tươi tắn"
+},
+{
+    "word": "Frizzy",
+    "mean": "tóc uốn thành búp"
+},
+{
+    "word": "Frown",
+    "mean": "nhăn mặt"
+},
+{
+    "word": "Ginger",
+    "mean": "đỏ hoe"
+},
+{
+    "word": "Good-looking",
+    "mean": "sáng sủa, ưa nhìn"
+},
+{
+    "word": "Greasy",
+    "mean": "da nhờn"
+},
+{
+    "word": "Grimace",
+    "mean": "nhăn nhó"
+},
+{
+    "word": "Grin",
+    "mean": "cười nhăn răng"
+},
+{
+    "word": "Handsome",
+    "mean": "đẹp trai"
+},
+{
+    "word": "Heart-shaped",
+    "mean": "khuôn mặt hình trái tim"
+},
+{
+    "word": "Height",
+    "mean": "chiều cao"
+},
+{
+    "word": "High",
+    "mean": "gò má cao"
+},
+{
+    "word": "High",
+    "mean": "trán cao"
+},
+{
+    "word": "Hooked",
+    "mean": "mũi khoằm"
+},
+{
+    "word": "Inquisitive",
+    "mean": "ánh mắt tò mò"
+},
+{
+    "word": "Lank",
+    "mean": "tóc thẳng và rủ xuống"
+},
+{
+    "word": "Laugh",
+    "mean": "cười to"
+},
+{
+    "word": "Long",
+    "mean": "khuôn mặt dài"
+},
+{
+    "word": "Look",
+    "mean": "vẻ bề ngoài"
+},
+{
+    "word": "Lovely",
+    "mean": "đáng yêu"
+},
+{
+    "word": "Medium-height",
+    "mean": "chiều cao trung bình"
+},
+{
+    "word": "Middle-aged",
+    "mean": "trung niên"
+},
+{
+    "word": "Mole",
+    "mean": "nốt ruồi"
+},
+{
+    "word": "Moustache",
+    "mean": "ria mép"
+},
+{
+    "word": "Mousy",
+    "mean": "màu xám lông chuột"
+},
+{
+    "word": "Muscular",
+    "mean": "cơ bắp, lực lưỡng"
+},
+{
+    "word": "Muscular",
+    "mean": "nhiều cơ bắp"
+},
+{
+    "word": "Neat",
+    "mean": "tóc chải chuốt cẩn thận"
+},
+{
+    "word": "Obese",
+    "mean": "béo phì"
+},
+{
+    "word": "Of",
+    "mean": "chiều cao trung bình"
+},
+{
+    "word": "Of",
+    "mean": "hình thể trung bình"
+},
+{
+    "word": "Old",
+    "mean": "già"
+},
+{
+    "word": "Old",
+    "mean": "tuổi nghỉ hư"
+},
+{
+    "word": "Olive-skinned",
+    "mean": "da nâu, vàng nhạt"
+},
+{
+    "word": "Oriental",
+    "mean": "da vàng châu á"
+},
+{
+    "word": "Oval",
+    "mean": "khuôn mặt hình trái xoan"
+},
+{
+    "word": "Overweight",
+    "mean": "quá cân"
+},
+{
+    "word": "Pale",
+    "mean": "xanh xao, nhợt nhạt"
+},
+{
+    "word": "Pasty",
+    "mean": "xanh xao"
+},
+{
+    "word": "Plump",
+    "mean": "tròn trĩnh"
+},
+{
+    "word": "Pony-tail",
+    "mean": "cột tóc đuôi ngựa"
+},
+{
+    "word": "Pout",
+    "mean": "bĩu môi"
+},
+{
+    "word": "Pretty",
+    "mean": "xinh xắn"
+},
+{
+    "word": "Rosy",
+    "mean": "hồng hào"
+},
+{
+    "word": "Round",
+    "mean": "khuôn mặt tròn"
+},
+{
+    "word": "Sallow",
+    "mean": "vàng vọt"
+},
+{
+    "word": "Scar",
+    "mean": "sẹo"
+},
+{
+    "word": "Scowl",
+    "mean": "cau có"
+},
+{
+    "word": "senior",
+    "mean": "người cao tuổi"
+},
+{
+    "word": "Short",
+    "mean": "lùn"
+},
+{
+    "word": "Shortish",
+    "mean": "hơi lùn"
+},
+{
+    "word": "Skinny",
+    "mean": "ốm, gầy"
+},
+{
+    "word": "Slender",
+    "mean": "mảnh khảnh"
+},
+{
+    "word": "Slim",
+    "mean": "gầy, mảnh khảnh"
+},
+{
+    "word": "Smile",
+    "mean": "cười mỉm"
+},
+{
+    "word": "Snub",
+    "mean": "mũi hếch"
+},
+{
+    "word": "Sparkling",
+    "mean": "mắt lấp lánh"
+},
+{
+    "word": "Square",
+    "mean": "mặt vuông"
+},
+{
+    "word": "Stocky",
+    "mean": "chắc nịch"
+},
+{
+    "word": "Stout",
+    "mean": "hơi béo"
+},
+{
+    "word": "Straight",
+    "mean": "mũi thẳng"
+},
+{
+    "word": "Straight",
+    "mean": "tóc thẳng"
+},
+{
+    "word": "Sulk",
+    "mean": "phiền muộn"
+},
+{
+    "word": "Tall",
+    "mean": "cao"
+},
+{
+    "word": "Tallish",
+    "mean": "cao dong dỏng"
+},
+{
+    "word": "Thin",
+    "mean": "gầy"
+},
+{
+    "word": "Thin",
+    "mean": "khuôn mặt gầy"
+},
+{
+    "word": "toddler",
+    "mean": "trẻ em ở độ tuổi mới biết đi"
+},
+{
+    "word": "Turned",
+    "mean": "mũi cao"
+},
+{
+    "word": "Ugly",
+    "mean": "xấu xí"
+},
+{
+    "word": "Untidy",
+    "mean": "không chải chuốt, rối xù"
+},
+{
+    "word": "Wavy",
+    "mean": "tóc lượn sóng"
+},
+{
+    "word": "Weight",
+    "mean": "cân nặng"
+},
+{
+    "word": "Well-built",
+    "mean": "hình thể đẹp"
+},
+{
+    "word": "Well-proportioned",
+    "mean": "cân đối"
+},
+{
+    "word": "With",
+    "mean": "tóc được tết, bện"
+},
+{
+    "word": "Young",
+    "mean": "trẻ, trẻ tuổi"
+},
+{
+    "word": "Arm",
+    "mean": "Cánh tay"
+},
+{
+    "word": "Back",
+    "mean": "Lưng"
+},
+{
+    "word": "Belly",
+    "mean": "Bụng"
+},
+{
+    "word": "Body",
+    "mean": "Bộ phận cơ thể"
+},
+{
+    "word": "Bone",
+    "mean": "Xương"
+},
+{
+    "word": "Bottom",
+    "mean": "Mông"
+},
+{
+    "word": "Brain",
+    "mean": "Não"
+},
+{
+    "word": "Chest",
+    "mean": "Ngực, lồng ngực"
+},
+{
+    "word": "Ear",
+    "mean": "Tai"
+},
+{
+    "word": "Eyes",
+    "mean": "Mắt"
+},
+{
+    "word": "Face",
+    "mean": "Khuôn mặt"
+},
+{
+    "word": "Finger",
+    "mean": "Ngón tay"
+},
+{
+    "word": "Hair",
+    "mean": "Tóc, mái tóc"
+},
+{
+    "word": "Head",
+    "mean": "Đầu"
+},
+{
+    "word": "Heart",
+    "mean": "Trái tim"
+},
+{
+    "word": "Hip",
+    "mean": "Hông"
+},
+{
+    "word": "Kidney",
+    "mean": "Thận"
+},
+{
+    "word": "Leg",
+    "mean": "Chân"
+},
+{
+    "word": "Lip",
+    "mean": "Môi"
+},
+{
+    "word": "Liver",
+    "mean": "Gan"
+},
+{
+    "word": "Lung",
+    "mean": "Phổi"
+},
+{
+    "word": "Mouth",
+    "mean": "Miệng"
+},
+{
+    "word": "Nose",
+    "mean": "Mũi"
+},
+{
+    "word": "Skin",
+    "mean": "Làn da"
+},
+{
+    "word": "Stomach",
+    "mean": "Dạ dày"
+},
+{
+    "word": "Tooth",
+    "mean": "Răng"
+},
+{
+    "word": "Waist",
+    "mean": "Eo, vòng eo"
+},
+{
+    "word": "Bend",
+    "mean": "uốn cong, cúi, gập"
+},
+{
+    "word": "Carry",
+    "mean": "cầm, mang, vác"
+},
+{
+    "word": "Catch",
+    "mean": "đỡ lấy, bắt lấy"
+},
+{
+    "word": "Climb",
+    "mean": "leo, trèo"
+},
+{
+    "word": "Comb",
+    "mean": "chải tóc"
+},
+{
+    "word": "Crawl",
+    "mean": "bò, lê bước"
+},
+{
+    "word": "Crouch",
+    "mean": "khúm núm, luồn cúi"
+},
+{
+    "word": "Cry",
+    "mean": "khóc"
+},
+{
+    "word": "Dance",
+    "mean": "nhảy múa, khiêu vũ"
+},
+{
+    "word": "Dive",
+    "mean": "lặn"
+},
+{
+    "word": "Drag",
+    "mean": "kéo"
+},
+{
+    "word": "Drink",
+    "mean": "uống"
+},
+{
+    "word": "Drop",
+    "mean": "đánh rơi"
+},
+{
+    "word": "Eat",
+    "mean": "ăn"
+},
+{
+    "word": "Fall",
+    "mean": "ngã"
+},
+{
+    "word": "Flip",
+    "mean": "búng"
+},
+{
+    "word": "Grab",
+    "mean": "bắt lấy, túm lấy"
+},
+{
+    "word": "Hang",
+    "mean": "treo"
+},
+{
+    "word": "Hit",
+    "mean": "đánh"
+},
+{
+    "word": "Hold",
+    "mean": "cầm, nắm"
+},
+{
+    "word": "Hop",
+    "mean": "nhảy lò cò"
+},
+{
+    "word": "Hug",
+    "mean": "ôm"
+},
+{
+    "word": "Jog",
+    "mean": "chạy bộ"
+},
+{
+    "word": "Jump",
+    "mean": "nhảy"
+},
+{
+    "word": "Kick",
+    "mean": "đá"
+},
+{
+    "word": "Lean",
+    "mean": "dựa, tựa"
+},
+{
+    "word": "Lick",
+    "mean": "liếm"
+},
+{
+    "word": "Lie",
+    "mean": "nằm"
+},
+{
+    "word": "Lift",
+    "mean": "nâng lên"
+},
+{
+    "word": "Pack",
+    "mean": "bó, gói"
+},
+{
+    "word": "Paint",
+    "mean": "sơn, quét sơn"
+},
+{
+    "word": "Pick",
+    "mean": "hái, nhổ, cuốc, xỉa, mở, cạy"
+},
+{
+    "word": "Pick",
+    "mean": "nhặt lên"
+},
+{
+    "word": "Plant",
+    "mean": "gieo, trồng"
+},
+{
+    "word": "Play",
+    "mean": "chơi, nô đùa, đùa giỡn"
+},
+{
+    "word": "Point",
+    "mean": "chỉ, trỏ, nhắm, chĩa"
+},
+{
+    "word": "Pour",
+    "mean": "rót, đổ, giội, trút"
+},
+{
+    "word": "Pull",
+    "mean": "lôi, kéo, giật"
+},
+{
+    "word": "Punch",
+    "mean": "đấ"
+},
+{
+    "word": "Push",
+    "mean": "xô, đẩy"
+},
+{
+    "word": "Put",
+    "mean": "mặc, đeo, đội"
+},
+{
+    "word": "Rake",
+    "mean": "cào"
+},
+{
+    "word": "Read",
+    "mean": "đọc"
+},
+{
+    "word": "Ride",
+    "mean": "cưỡi, lái"
+},
+{
+    "word": "Row",
+    "mean": "chèo thuyền"
+},
+{
+    "word": "Run",
+    "mean": "chạy"
+},
+{
+    "word": "Sail",
+    "mean": "điều khiển, lái (thuyền)"
+},
+{
+    "word": "Scrub",
+    "mean": "lau chùi, cọ rửa"
+},
+{
+    "word": "See",
+    "mean": "thấy, trông thấy, nhìn thấy; xem, quan sát, xem xét"
+},
+{
+    "word": "Set",
+    "mean": "bố trí, để, đặt, bày (bàn ăn)"
+},
+{
+    "word": "Sew",
+    "mean": "may, khâu"
+},
+{
+    "word": "Shake",
+    "mean": "rung, lắc, run rẩy"
+},
+{
+    "word": "Shout",
+    "mean": "la hét, hò hét, reo hò"
+},
+{
+    "word": "Show",
+    "mean": "cho xem, cho thấy, trưng bày, đưa cho xem; tỏ ra"
+},
+{
+    "word": "Sing",
+    "mean": "hát"
+},
+{
+    "word": "Sit",
+    "mean": "ngồi"
+},
+{
+    "word": "Skate",
+    "mean": "trượt (băng, ván)"
+},
+{
+    "word": "Slap",
+    "mean": "tát"
+},
+{
+    "word": "Sleep",
+    "mean": "ngủ"
+},
+{
+    "word": "Slice",
+    "mean": "cắt, thái"
+},
+{
+    "word": "Slip",
+    "mean": "trượt ngã"
+},
+{
+    "word": "Smile",
+    "mean": "cười"
+},
+{
+    "word": "Sneeze",
+    "mean": "hắt hơi"
+},
+{
+    "word": "Spin",
+    "mean": "quay"
+},
+{
+    "word": "Squat",
+    "mean": "ngồi xổm"
+},
+{
+    "word": "Stand",
+    "mean": "đứng"
+},
+{
+    "word": "Step",
+    "mean": "bước đi"
+},
+{
+    "word": "Stop",
+    "mean": "ngừng, nghỉ, thôi"
+},
+{
+    "word": "Stretch",
+    "mean": "duỗi ra, căng ra"
+},
+{
+    "word": "Stroke",
+    "mean": "vuốt ve"
+},
+{
+    "word": "Sweep",
+    "mean": "quét"
+},
+{
+    "word": "Swim",
+    "mean": "bơi"
+},
+{
+    "word": "Swing",
+    "mean": "đung đưa, lúc lắc"
+},
+{
+    "word": "Take",
+    "mean": "cầm, nắm, lấy"
+},
+{
+    "word": "Talk",
+    "mean": "nói chuyện, chuyện trò"
+},
+{
+    "word": "Throw",
+    "mean": "ném"
+},
+{
+    "word": "Walk",
+    "mean": "đi bộ"
+},
+{
+    "word": "Wash",
+    "mean": "gội, rửa"
+},
+{
+    "word": "Wave",
+    "mean": "vẫy tay"
+},
+{
+    "word": "Yawn",
+    "mean": "ngáp"
+},
+{
+    "word": "Cheerful",
+    "mean": "Vui tươi, sôi nổi"
+},
+{
+    "word": "Easy-going",
+    "mean": "Thoải mái"
+},
+{
+    "word": "Energetic",
+    "mean": "Tràn đầy năng lượng"
+},
+{
+    "word": "Funny",
+    "mean": "Vui tính, hài hước"
+},
+{
+    "word": "Generous",
+    "mean": "Hào phóng"
+},
+{
+    "word": "Grumpy",
+    "mean": "Cáu kỉnh, khó chịu"
+},
+{
+    "word": "Love",
+    "mean": "yêu"
+},
+{
+    "word": "Nice",
+    "mean": "Tốt, tử tế"
+},
+{
+    "word": "Adorable",
+    "mean": "đáng yêu, đáng quý mến"
+},
+{
+    "word": "Affectionate",
+    "mean": "thân mật, trìu mến"
+},
+{
+    "word": "Afraid",
+    "mean": "Lo sợ"
+},
+{
+    "word": "Aggressive",
+    "mean": "+ hay gây sự, hung hăng, hùng hổ"
+},
+{
+    "word": "Agreeable",
+    "mean": "dễ chịu, dễ thương, vui lòng, sẵn sàng, tán thành"
+},
+{
+    "word": "Alert",
+    "mean": "cảnh giác, lanh lợi, tỉnh táo"
+},
+{
+    "word": "Alluring",
+    "mean": "quyến rũ, lôi cuốn, cám dỗ; có duyên, làm say mê, làm xiêu lòng"
+},
+{
+    "word": "Ambitious",
+    "mean": "tham vọng"
+},
+{
+    "word": "Amused",
+    "mean": "thích thú, vui, buồn cười"
+},
+{
+    "word": "Angry",
+    "mean": "giận dữ, tức giận, cáu"
+},
+{
+    "word": "Angry",
+    "mean": "Tức giận, giận dữ"
+},
+{
+    "word": "Arrogant",
+    "mean": "kiêu căng, kiêu ngạo, ngạo mạn"
+},
+{
+    "word": "Artful",
+    "mean": "xảo quyệt, tinh ranh, ma mãnh, lắm mưu mẹo"
+},
+{
+    "word": "Ashamed",
+    "mean": "xấu hổ, hổ thẹn, ngượng"
+},
+{
+    "word": "Avaricious",
+    "mean": "hám lợi, tham lam"
+},
+{
+    "word": "Awful",
+    "mean": "rất khó chịu, khó chịu vô cùng"
+},
+{
+    "word": "Bored",
+    "mean": "Chán nản"
+},
+{
+    "word": "Confused",
+    "mean": "Bối rối"
+},
+{
+    "word": "Disappointed",
+    "mean": "Thất vọng"
+},
+{
+    "word": "Disgusted",
+    "mean": "Kinh tởm"
+},
+{
+    "word": "Easy-going",
+    "mean": "dễ tính"
+},
+{
+    "word": "Embarrassed",
+    "mean": "Xấu hổ, ngại ngùng"
+},
+{
+    "word": "Energetic",
+    "mean": "đầy nghị lực, mạnh mẽ, mãnh liệt, đầy năng lượng"
+},
+{
+    "word": "Entertaining",
+    "mean": "thú vị, làm vui lòng và vừa ý."
+},
+{
+    "word": "Enthusiastic",
+    "mean": "hăng hái, say mê, nhiệt tình"
+},
+{
+    "word": "Envious",
+    "mean": "thèm muốn, ghen tị, đố kỵ"
+},
+{
+    "word": "Erratic",
+    "mean": "thất thường, được chăng hay chớ"
+},
+{
+    "word": "Excitable",
+    "mean": "dễ bị kích thích, dễ bị xúc động"
+},
+{
+    "word": "Excited",
+    "mean": "Hào hứng, hứng thú"
+},
+{
+    "word": "Excited",
+    "mean": "sôi nổi, hào hứng, bị kích thích, bị kích động"
+},
+{
+    "word": "Explosive",
+    "mean": "dễ bị bùng nổ, dễ bị kích động"
+},
+{
+    "word": "Extroverted",
+    "mean": "hướng ngoại"
+},
+{
+    "word": "Exuberant",
+    "mean": "cởi mở, hồ hởi, đầy sức sống, đầy năng lượng"
+},
+{
+    "word": "Fabulous",
+    "mean": "tuyệt vời"
+},
+{
+    "word": "Fair",
+    "mean": "công bằng, ngay thẳng, không gian lận, hợp ý, đúng, phải"
+},
+{
+    "word": "Faithful",
+    "mean": "trung thành, chung thủy, có lương tâm, trung thực"
+},
+{
+    "word": "Fantastic",
+    "mean": "tuyệt vời"
+},
+{
+    "word": "Fawning",
+    "mean": "xu nịnh, bợ đỡ, nịnh hót"
+},
+{
+    "word": "Fear",
+    "mean": "Nỗi sợ"
+},
+{
+    "word": "Fearless",
+    "mean": "chẳng sợ điều gì, can đảm"
+},
+{
+    "word": "Fickle",
+    "mean": "hay thay đổi, không kiên định, không chung thủy"
+},
+{
+    "word": "Fine",
+    "mean": "tốt, khỏe, giỏi"
+},
+{
+    "word": "Frank",
+    "mean": "ngay thẳng, thẳng thắn, bộc trực"
+},
+{
+    "word": "Freakish",
+    "mean": "đồng bóng, hay thay đổi, quái đản, kỳ cục"
+},
+{
+    "word": "Friendly",
+    "mean": "thân thiện, thân mật, thân thiết, giao hữu"
+},
+{
+    "word": "Funny",
+    "mean": "buồn cười, khôi hài, ngồ ngộ"
+},
+{
+    "word": "Furious",
+    "mean": "giận dữ, điên tiết"
+},
+{
+    "word": "Fussy",
+    "mean": "hay om sòm, hay quan trong hóa, hay nhắng nhít"
+},
+{
+    "word": "Guilty",
+    "mean": "Thấy tội lỗi"
+},
+{
+    "word": "Happy",
+    "mean": "Vui vẻ"
+},
+{
+    "word": "Huffish",
+    "mean": "cáu kỉnh, dễ phát khùng, hay giận dỗi, dễ nổi cáu"
+},
+{
+    "word": "Hungry",
+    "mean": "Đói"
+},
+{
+    "word": "Lonely",
+    "mean": "Cô đơn"
+},
+{
+    "word": "Nervous",
+    "mean": "Lo lắng"
+},
+{
+    "word": "Sad",
+    "mean": "Buồn bã"
+},
+{
+    "word": "Sick",
+    "mean": "Ốm yếu"
+},
+{
+    "word": "Surprised",
+    "mean": "Ngạc nhiên"
+},
+{
+    "word": "Thirsty",
+    "mean": "Khát"
+},
+{
+    "word": "Tired",
+    "mean": "Mệt mỏi"
+},
+{
+    "word": "Worried",
+    "mean": "Lo lắng"
+},
+{
+    "word": "Aunt",
+    "mean": "Người dì"
+},
+{
+    "word": "Birth",
+    "mean": "Sự sinh ra, sự chào đời"
+},
+{
+    "word": "Brother",
+    "mean": "Anh/em trai"
+},
+{
+    "word": "Brother-in-law",
+    "mean": "anh/em rể"
+},
+{
+    "word": "Close",
+    "mean": "Gần gũi, gắn bó"
+},
+{
+    "word": "Cousin",
+    "mean": "Anh chị em họ"
+},
+{
+    "word": "Daughter",
+    "mean": "Con gái"
+},
+{
+    "word": "Daughter-in-law",
+    "mean": "con dâu"
+},
+{
+    "word": "Divorce",
+    "mean": "Li hôn, li dị"
+},
+{
+    "word": "Ex-wife",
+    "mean": "Vợ cũ"
+},
+{
+    "word": "Father",
+    "mean": "Cha/Bố"
+},
+{
+    "word": "Father-in-law",
+    "mean": "bố chồng/bố vợ"
+},
+{
+    "word": "Goddaughter",
+    "mean": "con gái đỡ đầu"
+},
+{
+    "word": "Godfather",
+    "mean": "bố đỡ đầu"
+},
+{
+    "word": "Godmother",
+    "mean": "mẹ đỡ đầu"
+},
+{
+    "word": "Godson",
+    "mean": "con trai đỡ đầu"
+},
+{
+    "word": "Grandparents",
+    "mean": "Ông bà"
+},
+{
+    "word": "Half-brother",
+    "mean": "anh em cùng cha khác mẹ/cùng mẹ khác cha"
+},
+{
+    "word": "Half-sister",
+    "mean": "chị em cùng cha khác mẹ/cùng mẹ khác cha"
+},
+{
+    "word": "Husband",
+    "mean": "Người chồng"
+},
+{
+    "word": "Kid",
+    "mean": "Con cái"
+},
+{
+    "word": "Marry",
+    "mean": "Cưới"
+},
+{
+    "word": "Mother",
+    "mean": "Mẹ"
+},
+{
+    "word": "Mother-in-law",
+    "mean": "Mẹ chồng"
+},
+{
+    "word": "Mother-in-law",
+    "mean": "mẹ chồng/mẹ vợ"
+},
+{
+    "word": "Niece",
+    "mean": "Cháu trai/Cháu gái (con của anh/chị/em)"
+},
+{
+    "word": "Parents",
+    "mean": "Cha mẹ, phụ huynh"
+},
+{
+    "word": "Pregnant",
+    "mean": "Mang thai"
+},
+{
+    "word": "Relative",
+    "mean": "Họ hàng"
+},
+{
+    "word": "Sibling",
+    "mean": "Anh chị em"
+},
+{
+    "word": "Sister",
+    "mean": "Chị em gái"
+},
+{
+    "word": "Sister-in-law",
+    "mean": "chị/em dâu"
+},
+{
+    "word": "Son",
+    "mean": "Con trai"
+},
+{
+    "word": "Son-in-law",
+    "mean": "con rể"
+},
+{
+    "word": "Stepbrother",
+    "mean": "con trai của bố dượng/mẹ kế"
+},
+{
+    "word": "Stepdaughter",
+    "mean": "con gái riêng của chồng/vợ"
+},
+{
+    "word": "Stepfather",
+    "mean": "bố dượng"
+},
+{
+    "word": "Step-mom",
+    "mean": "Mẹ kế, dì ghẻ"
+},
+{
+    "word": "Stepmother",
+    "mean": "mẹ kế"
+},
+{
+    "word": "Stepsister",
+    "mean": "con gái của bố dượng/mẹ kế"
+},
+{
+    "word": "Stepson",
+    "mean": "con trai riêng của chồng/vợ"
+},
+{
+    "word": "Uncle",
+    "mean": "Người chú/cậu/bác"
+},
+{
+    "word": "Wife",
+    "mean": "Người vợ"
+},
+{
+    "word": "A",
+    "mean": "một nhóm bạn"
+},
+{
+    "word": "Acquaintance",
+    "mean": "Người quen"
+},
+{
+    "word": "Acquaintance",
+    "mean": "người quen"
+},
+{
+    "word": "Argue",
+    "mean": "Tranh cãi, tranh luận"
+},
+{
+    "word": "Boss",
+    "mean": "Sếp, cấp trên"
+},
+{
+    "word": "Boyfriend",
+    "mean": "Bạn trai/Bạn gái"
+},
+{
+    "word": "Break",
+    "mean": "Chia tay"
+},
+{
+    "word": "Classmate",
+    "mean": "bạn cùng lớp"
+},
+{
+    "word": "Colleague",
+    "mean": "Đồng nghiệp"
+},
+{
+    "word": "Companion",
+    "mean": "bạn đồng hành"
+},
+{
+    "word": "Conflict",
+    "mean": "Bất đồng, xung đột"
+},
+{
+    "word": "Couple",
+    "mean": "Cặp đôi"
+},
+{
+    "word": "Customer",
+    "mean": "Khách hàng"
+},
+{
+    "word": "Date",
+    "mean": "Cuộc hẹn hò, Hẹn hò"
+},
+{
+    "word": "Emulate",
+    "mean": "cạnh tranh với ai đó"
+},
+{
+    "word": "Enemy",
+    "mean": "Kẻ thù"
+},
+{
+    "word": "Friend",
+    "mean": "Bạn bè"
+},
+{
+    "word": "Friendship",
+    "mean": "Tình bạn"
+},
+{
+    "word": "Good",
+    "mean": "bạn tốt"
+},
+{
+    "word": "Hate",
+    "mean": "Ghét bỏ, căm ghé"
+},
+{
+    "word": "Interact",
+    "mean": "tương tác"
+},
+{
+    "word": "Introduce",
+    "mean": "Giới thiệu"
+},
+{
+    "word": "Love",
+    "mean": "Tình yêu"
+},
+{
+    "word": "Meet",
+    "mean": "Gặp gỡ, gặp mặt"
+},
+{
+    "word": "Nemesis",
+    "mean": "báo ứng"
+},
+{
+    "word": "On-off",
+    "mean": "bạn bình thường"
+},
+{
+    "word": "Rival",
+    "mean": "đối thủ"
+},
+{
+    "word": "Schoolmate",
+    "mean": "bạn cùng trường"
+},
+{
+    "word": "Soul",
+    "mean": "bạn tri kỷ"
+},
+{
+    "word": "Account",
+    "mean": "thiết lập tài khoản"
+},
+{
+    "word": "Activity",
+    "mean": "lịch sử đăng nhập"
+},
+{
+    "word": "Archive",
+    "mean": "lưu trữ"
+},
+{
+    "word": "Cover",
+    "mean": "ảnh bìa"
+},
+{
+    "word": "Event",
+    "mean": "sự kiện"
+},
+{
+    "word": "Facebook",
+    "mean": "người dùng Facebook"
+},
+{
+    "word": "Friend",
+    "mean": "lời mời kết bạn"
+},
+{
+    "word": "Group",
+    "mean": "hội, nhóm"
+},
+{
+    "word": "Hide",
+    "mean": "ẩn"
+},
+{
+    "word": "Information",
+    "mean": "thông tin"
+},
+{
+    "word": "Message",
+    "mean": "tin nhắn"
+},
+{
+    "word": "Notification",
+    "mean": "thông báo"
+},
+{
+    "word": "Offline",
+    "mean": "ngoại tuyến"
+},
+{
+    "word": "Online",
+    "mean": "trực tuyến"
+},
+{
+    "word": "Page",
+    "mean": "fanpage"
+},
+{
+    "word": "Photos",
+    "mean": "hình ảnh"
+},
+{
+    "word": "Privacy",
+    "mean": "thiết lập cá nhân"
+},
+{
+    "word": "Profile",
+    "mean": "ảnh đại diện"
+},
+{
+    "word": "Profile",
+    "mean": "hồ sơ người dùng"
+},
+{
+    "word": "Rate",
+    "mean": "đánh giá"
+},
+{
+    "word": "React",
+    "mean": "phản ứng"
+},
+{
+    "word": "Recent",
+    "mean": "gần đây"
+},
+{
+    "word": "Review",
+    "mean": "nhận xét"
+},
+{
+    "word": "Social",
+    "mean": "mạng xã hội"
+},
+{
+    "word": "Status",
+    "mean": "trạng thái"
+},
+{
+    "word": "Timeline",
+    "mean": "thời gian biểu cho tài khoản Facebook cá nhân"
+},
+{
+    "word": "Video",
+    "mean": "video"
+},
+{
+    "word": "Add",
+    "mean": "thêm bạn bè"
+},
+{
+    "word": "Block",
+    "mean": "chặn"
+},
+{
+    "word": "Comment",
+    "mean": "bình luận, lời bình luận"
+},
+{
+    "word": "Communicate",
+    "mean": "giao tiếp với"
+},
+{
+    "word": "Confirm",
+    "mean": "xác nhận"
+},
+{
+    "word": "Create",
+    "mean": "tạo (fanpage, nhóm, post)"
+},
+{
+    "word": "Delete",
+    "mean": "xóa"
+},
+{
+    "word": "Find",
+    "mean": "tìm bạn"
+},
+{
+    "word": "Follow",
+    "mean": "theo dõi"
+},
+{
+    "word": "Interact",
+    "mean": "tương tác với"
+},
+{
+    "word": "Join",
+    "mean": "Tham gia một nhóm"
+},
+{
+    "word": "Keep",
+    "mean": "giữ liên lạc với"
+},
+{
+    "word": "Like",
+    "mean": "thích"
+},
+{
+    "word": "Log",
+    "mean": "đăng nhập"
+},
+{
+    "word": "Log",
+    "mean": "đăng xuất"
+},
+{
+    "word": "Post",
+    "mean": "đăng (v), bài đăng (n)"
+},
+{
+    "word": "Reply",
+    "mean": "trả lời, phản hồi"
+},
+{
+    "word": "Report",
+    "mean": "báo cáo"
+},
+{
+    "word": "Search",
+    "mean": "tìm kiếm"
+},
+{
+    "word": "Share",
+    "mean": "chia sẻ"
+},
+{
+    "word": "Spam",
+    "mean": "là những nội dung gây phiền toái"
+},
+{
+    "word": "Stay",
+    "mean": "giữ liên lạc với"
+},
+{
+    "word": "Tag",
+    "mean": "gắn thẻ"
+},
+{
+    "word": "Unfriend",
+    "mean": "hủy kết bạn"
+},
+{
+    "word": "Update",
+    "mean": "cập nhật"
+},
+{
+    "word": "Upload",
+    "mean": "tải lên một hình ảnh"
+},
+{
+    "word": "View",
+    "mean": "xem tất cả"
+},
+{
+    "word": "Accessories",
+    "mean": "Phụ kiện"
+},
+{
+    "word": "Anorak",
+    "mean": "áo khoác có mũ"
+},
+{
+    "word": "Belt",
+    "mean": "Thắt lưng"
+},
+{
+    "word": "Blouse",
+    "mean": "Áo sơ mi (phụ nữ)"
+},
+{
+    "word": "Boot",
+    "mean": "Ủng, bốt"
+},
+{
+    "word": "Boxer",
+    "mean": "quần đùi"
+},
+{
+    "word": "Cardigan",
+    "mean": "áo len cài đằng trước"
+},
+{
+    "word": "Coat",
+    "mean": "Áo khoác (độ dài qua thắt lưng)"
+},
+{
+    "word": "Dress",
+    "mean": "Váy liền"
+},
+{
+    "word": "Fit",
+    "mean": "Vừa vặn, phù hợp"
+},
+{
+    "word": "Glasses",
+    "mean": "Mắt kính, cặp kính"
+},
+{
+    "word": "Glove",
+    "mean": "Găng tay"
+},
+{
+    "word": "Handbag",
+    "mean": "Túi xách"
+},
+{
+    "word": "Jacket",
+    "mean": "Áo khoác (dài tới thắt lưng)"
+},
+{
+    "word": "Jeans",
+    "mean": "Quần jean"
+},
+{
+    "word": "Jumper",
+    "mean": "áo len"
+},
+{
+    "word": "Knee",
+    "mean": "/ bốt cao gót"
+},
+{
+    "word": "Pants",
+    "mean": "Quần dài (Anh Mỹ)"
+},
+{
+    "word": "Pullover",
+    "mean": "áo len chui đầu"
+},
+{
+    "word": "Pyjama",
+    "mean": "Quần áo ngủ, pijama"
+},
+{
+    "word": "Scarf",
+    "mean": "Khăn quàng cổ"
+},
+{
+    "word": "Shirt",
+    "mean": "Áo sơ mi"
+},
+{
+    "word": "Shoes",
+    "mean": "Đôi giày"
+},
+{
+    "word": "Short",
+    "mean": "Quần sooc"
+},
+{
+    "word": "Size",
+    "mean": "Kích cỡ quần áo"
+},
+{
+    "word": "Skirt",
+    "mean": "Chân váy"
+},
+{
+    "word": "Sneaker",
+    "mean": "giày thể thao"
+},
+{
+    "word": "Socks",
+    "mean": "Tất"
+},
+{
+    "word": "Suit",
+    "mean": "Bộ com lê"
+},
+{
+    "word": "Sweater",
+    "mean": "Áo Len"
+},
+{
+    "word": "Sweater",
+    "mean": "áo len"
+},
+{
+    "word": "Swimsuit",
+    "mean": "Đồ bơi"
+},
+{
+    "word": "Tie",
+    "mean": "Cà vạt"
+},
+{
+    "word": "Top",
+    "mean": "áo"
+},
+{
+    "word": "Trousers",
+    "mean": "Quần dài (Anh Anh)"
+},
+{
+    "word": "Armor",
+    "mean": "áo giáp"
+},
+{
+    "word": "Armored",
+    "mean": "xe bọc thép"
+},
+{
+    "word": "Arrow",
+    "mean": "mũi tên"
+},
+{
+    "word": "Artillery",
+    "mean": "pháo kích"
+},
+{
+    "word": "Axe",
+    "mean": "rìu"
+},
+{
+    "word": "Bayonet",
+    "mean": "lưỡi lê"
+},
+{
+    "word": "Biological",
+    "mean": "vũ khí sinh học"
+},
+{
+    "word": "Bomb",
+    "mean": "bom"
+},
+{
+    "word": "Bow",
+    "mean": "cung tên"
+},
+{
+    "word": "Bullet",
+    "mean": "viên đạn"
+},
+{
+    "word": "Canon",
+    "mean": "đại bác"
+},
+{
+    "word": "Chain",
+    "mean": "dây xích"
+},
+{
+    "word": "Crossbow",
+    "mean": "nỏ"
+},
+{
+    "word": "Dart",
+    "mean": "phi tiêu"
+},
+{
+    "word": "Explosive",
+    "mean": "chất nổ"
+},
+{
+    "word": "Fighter",
+    "mean": "máy bay chiến đấu"
+},
+{
+    "word": "Grenade",
+    "mean": "lựu đạn"
+},
+{
+    "word": "Guided",
+    "mean": "tên lửa đạn đạo"
+},
+{
+    "word": "Halberd",
+    "mean": "kích"
+},
+{
+    "word": "Hammer",
+    "mean": "búa"
+},
+{
+    "word": "Handcuffs",
+    "mean": "còng"
+},
+{
+    "word": "Handgun",
+    "mean": "súng ngắn"
+},
+{
+    "word": "Horse",
+    "mean": "mã tấu"
+},
+{
+    "word": "Knife",
+    "mean": "dao"
+},
+{
+    "word": "Lethal",
+    "mean": "vũ khí chết người"
+},
+{
+    "word": "Machete",
+    "mean": "mác"
+},
+{
+    "word": "Machine",
+    "mean": "súng liên thanh"
+},
+{
+    "word": "Mass-destruction",
+    "mean": "vũ khí hủy diệt hàng loạt"
+},
+{
+    "word": "Mine",
+    "mean": "mìn"
+},
+{
+    "word": "Missile",
+    "mean": "tên lửa"
+},
+{
+    "word": "Nuclear",
+    "mean": "bom hạt nhân"
+},
+{
+    "word": "Nunchaku",
+    "mean": "côn nhị khúc"
+},
+{
+    "word": "Pepper",
+    "mean": "bình xịt hơi cay"
+},
+{
+    "word": "Poison",
+    "mean": "thuốc độc"
+},
+{
+    "word": "Rake",
+    "mean": "cây đinh ba"
+},
+{
+    "word": "Rifle",
+    "mean": "súng trường"
+},
+{
+    "word": "Rod",
+    "mean": "gậy"
+},
+{
+    "word": "Saber",
+    "mean": "đao"
+},
+{
+    "word": "Scissors",
+    "mean": "kéo"
+},
+{
+    "word": "Sickle",
+    "mean": "lưỡi liềm"
+},
+{
+    "word": "Slingshot",
+    "mean": "ná"
+},
+{
+    "word": "Spear",
+    "mean": "cây giáo"
+},
+{
+    "word": "Surface",
+    "mean": "tên lửa đất đối không"
+},
+{
+    "word": "Sword",
+    "mean": "cây kiếm"
+},
+{
+    "word": "Taser",
+    "mean": "súng bắn điện"
+},
+{
+    "word": "Torpedo",
+    "mean": "ngư lôi"
+},
+{
+    "word": "Whip",
+    "mean": "roi da"
+},
+{
+    "word": "Bake",
+    "mean": "Nướng bánh"
+},
+{
+    "word": "Beef",
+    "mean": "Thịt bò"
+},
+{
+    "word": "Beer",
+    "mean": "Bia"
+},
+{
+    "word": "Bitte",
+    "mean": "Đắng"
+},
+{
+    "word": "Boil",
+    "mean": "Luộc, đun sôi"
+},
+{
+    "word": "Bread",
+    "mean": "Bánh mì"
+},
+{
+    "word": "Chicken",
+    "mean": "Thịt gà"
+},
+{
+    "word": "Coffee",
+    "mean": "Cà phê"
+},
+{
+    "word": "Delicious",
+    "mean": "Ngon lành"
+},
+{
+    "word": "Drink",
+    "mean": "Uống"
+},
+{
+    "word": "Eat",
+    "mean": "Ăn"
+},
+{
+    "word": "Fast",
+    "mean": "Đồ ăn nhanh"
+},
+{
+    "word": "Fresh",
+    "mean": "Tươi sống, tươi ngon"
+},
+{
+    "word": "Fruit",
+    "mean": "Trái cây"
+},
+{
+    "word": "Fry",
+    "mean": "Chiên rán"
+},
+{
+    "word": "Grill",
+    "mean": "Nướng"
+},
+{
+    "word": "Herb",
+    "mean": "Thảo mộc"
+},
+{
+    "word": "Juice",
+    "mean": "Nước ép"
+},
+{
+    "word": "Liquor",
+    "mean": "Rượu mạnh"
+},
+{
+    "word": "Meat",
+    "mean": "Thịt"
+},
+{
+    "word": "Milk",
+    "mean": "Sữa"
+},
+{
+    "word": "Pork",
+    "mean": "Thịt lợn"
+},
+{
+    "word": "Rice",
+    "mean": "Cơm"
+},
+{
+    "word": "Salty",
+    "mean": "Mặn"
+},
+{
+    "word": "Sauce",
+    "mean": "Nước sốt"
+},
+{
+    "word": "Seafood",
+    "mean": "Hải sản"
+},
+{
+    "word": "Snack",
+    "mean": "Món ăn nhẹ"
+},
+{
+    "word": "Soup",
+    "mean": "Món súp, món canh"
+},
+{
+    "word": "Sour",
+    "mean": "Chua"
+},
+{
+    "word": "Spice",
+    "mean": "Gia vị"
+},
+{
+    "word": "Spicy",
+    "mean": "Cay"
+},
+{
+    "word": "Steam",
+    "mean": "Hấp"
+},
+{
+    "word": "Stir-",
+    "mean": "Xào"
+},
+{
+    "word": "Sweet",
+    "mean": "Ngọt"
+},
+{
+    "word": "Tasty",
+    "mean": "Ngon lành"
+},
+{
+    "word": "Tea",
+    "mean": "Trà"
+},
+{
+    "word": "Vegetable",
+    "mean": "Rau củ"
+},
+{
+    "word": "Wine",
+    "mean": "Rượu vang"
+},
+{
+    "word": "Antique",
+    "mean": "cửa hàng đồ cổ"
+},
+{
+    "word": "Antique",
+    "mean": "Cửa hàng đồ cổ"
+},
+{
+    "word": "Apartment",
+    "mean": "Căn hộ"
+},
+{
+    "word": "Architecture",
+    "mean": "Kiến trúc"
+},
+{
+    "word": "Baker",
+    "mean": "Hiệu bánh"
+},
+{
+    "word": "Bakery",
+    "mean": "cửa hàng bánh ngọt"
+},
+{
+    "word": "Barbers",
+    "mean": "Hiệu cắt tóc"
+},
+{
+    "word": "Barbershop",
+    "mean": "hiệu cắt tóc nam"
+},
+{
+    "word": "Beauty",
+    "mean": "tiệm làm đẹp"
+},
+{
+    "word": "Beauty",
+    "mean": "Cửa hàng làm đẹp"
+},
+{
+    "word": "Bedroom",
+    "mean": "Phòng ngủ"
+},
+{
+    "word": "Big-box",
+    "mean": "cửa hàng tạp hóa (general store)"
+},
+{
+    "word": "Book",
+    "mean": "câu lạc bộ sách "
+},
+{
+    "word": "Bookshop",
+    "mean": "hiệu sách"
+},
+{
+    "word": "Bookstall",
+    "mean": "cửa hàng sách (quy mô rất nhỏ và bán nhiều loại tạp chí)"
+},
+{
+    "word": "Booth",
+    "mean": "quán cóc, bốt điện thoại"
+},
+{
+    "word": "Bottle",
+    "mean": "cửa hàng bán rượu bia"
+},
+{
+    "word": "Boutique",
+    "mean": "cửa hàng nhỏ bán quần áo, giày dép, …"
+},
+{
+    "word": "Bucket",
+    "mean": "đại lý vé máy bay giá rẻ, hoặc tổ chức dịch vụ du lịch giá r"
+},
+{
+    "word": "Build",
+    "mean": "Xây dựng"
+},
+{
+    "word": "Builders’",
+    "mean": "cửa hàng vật liệu xây dựng"
+},
+{
+    "word": "Building",
+    "mean": "Tòa nhà cao tầng"
+},
+{
+    "word": "Butcher",
+    "mean": "cửa hàng bán thịt"
+},
+{
+    "word": "Butchers",
+    "mean": "Cửa hàng bán thịt"
+},
+{
+    "word": "Café",
+    "mean": "quán cà phê"
+},
+{
+    "word": "Cash-and-carry",
+    "mean": "cửa hàng bán buôn"
+},
+{
+    "word": "Chain",
+    "mean": "chuỗi cửa hàng"
+},
+{
+    "word": "Charity",
+    "mean": "cửa hàng bán đô từ thiện"
+},
+{
+    "word": "Chemists",
+    "mean": "Cửa hàng thuốc"
+},
+{
+    "word": "Chip",
+    "mean": "cửa hàng bán đồ ăn mang đi (thường là khoai tây chiên, cá chiên…)"
+},
+{
+    "word": "Clothes",
+    "mean": "Cửa hàng quần áo"
+},
+{
+    "word": "Commissary",
+    "mean": "cửa hàng của nhà nước phục vụ cho các đối tượng đặc biệt"
+},
+{
+    "word": "Construct",
+    "mean": "Thi công, xây dựng"
+},
+{
+    "word": "Convenience",
+    "mean": "cửa hàng tiện ích"
+},
+{
+    "word": "Corner",
+    "mean": "cửa hàng nhỏ bán đồ ăn và những thứ lặt vặt"
+},
+{
+    "word": "Corner",
+    "mean": "Cửa hàng góc phố (tạp hoá)"
+},
+{
+    "word": "Delicatessen",
+    "mean": "cửa hàng bán đồ ăn ngon (thường nhập khẩu từ nước ngoài)"
+},
+{
+    "word": "Department",
+    "mean": "trung tâm thương mại cao cấp"
+},
+{
+    "word": "Dime",
+    "mean": "cửa hàng bán đồ rẻ tiền"
+},
+{
+    "word": "Door",
+    "mean": "Cánh cửa"
+},
+{
+    "word": "Dress",
+    "mean": "Cửa hàng quần áo"
+},
+{
+    "word": "Dry",
+    "mean": "Cửa hàng giặt khô"
+},
+{
+    "word": "Duty-free",
+    "mean": "cửa hàng bán đồ miễn thuế"
+},
+{
+    "word": "Electrical",
+    "mean": "Cửa hàng đồ điện"
+},
+{
+    "word": "Elevator",
+    "mean": "Thang máy"
+},
+{
+    "word": "Filling",
+    "mean": "cửa hàng xăng dầu (petrol station)"
+},
+{
+    "word": "Flea",
+    "mean": " Chợ trời"
+},
+{
+    "word": "Floor",
+    "mean": "(1) Tầng; (2) Sàn nhà"
+},
+{
+    "word": "Flower",
+    "mean": "cửa hàng hoa"
+},
+{
+    "word": "Garage",
+    "mean": "cửa hàng sửa chữa và bán xe ô t"
+},
+{
+    "word": "Garden",
+    "mean": "nơi bán các loại hạt giống, cây trồng"
+},
+{
+    "word": "Garden",
+    "mean": "Khu vườn"
+},
+{
+    "word": "Gift",
+    "mean": "cửa hàng bán đồ lưu niệm"
+},
+{
+    "word": "Greengrocers",
+    "mean": "Cửa hàng rau quả"
+},
+{
+    "word": "Haberdashery",
+    "mean": "cửa hàng bán đồ kim chỉ, các dụng cụ may mặc"
+},
+{
+    "word": "Hairdressers",
+    "mean": "Cửa hàng uốn tóc"
+},
+{
+    "word": "Hardware",
+    "mean": "cửa hàng bán các vật dụng kim loại (ironmonger’s)"
+},
+{
+    "word": "Hardware",
+    "mean": "Cửa hàng dụng cụ"
+},
+{
+    "word": "House",
+    "mean": "Ngôi nhà"
+},
+{
+    "word": "Hypermarket",
+    "mean": "siêu thị lớn (megastore)"
+},
+{
+    "word": "Junk",
+    "mean": "cửa hàng bán đồ cũ"
+},
+{
+    "word": "Kitchen",
+    "mean": "Phòng bếp"
+},
+{
+    "word": "Laundry",
+    "mean": "cửa hàng giặt ủi"
+},
+{
+    "word": "Liquor",
+    "mean": "quán bán rượu bia mang đi không phục vụ tại quán)"
+},
+{
+    "word": "Living",
+    "mean": "Phòng khách"
+},
+{
+    "word": "Market",
+    "mean": "Chợ"
+},
+{
+    "word": "Newsagents",
+    "mean": "Quầy bán quần áo"
+},
+{
+    "word": "Newsstand",
+    "mean": "sạp báo (paper shop)"
+},
+{
+    "word": "Optician",
+    "mean": "Hiệu kính mắt"
+},
+{
+    "word": "Outfitter",
+    "mean": "quầy bán đồ dã ngoại (quần áo, trại…)"
+},
+{
+    "word": "Perfumery",
+    "mean": "cửa hàng bán nước hoa"
+},
+{
+    "word": "Pharmacy",
+    "mean": "hiệu thuốc"
+},
+{
+    "word": "Rapery",
+    "mean": "cửa hàng đồ may mặc"
+},
+{
+    "word": "Real",
+    "mean": "Bất động sản"
+},
+{
+    "word": "Roof",
+    "mean": "Mái nhà"
+},
+{
+    "word": "Service",
+    "mean": "cửa hàng bán đồ phụ tùng"
+},
+{
+    "word": "Service",
+    "mean": "cửa hàng bán xăng, dầu"
+},
+{
+    "word": "Shoe",
+    "mean": "Cửa hàng sửa chữa giầy dép"
+},
+{
+    "word": "Shoe",
+    "mean": "Cửa hàng giầy"
+},
+{
+    "word": "Skyscraper",
+    "mean": "Nhà chọc trời"
+},
+{
+    "word": "Sports",
+    "mean": " Cửa hàng đồ thể thao"
+},
+{
+    "word": "Stair",
+    "mean": "Cầu thang"
+},
+{
+    "word": "Stationers",
+    "mean": "Cửa hàng văn phòng phẩm"
+},
+{
+    "word": "Stationery",
+    "mean": "cửa hàng văn phòng phẩm"
+},
+{
+    "word": "Supermarket",
+    "mean": "siêu thị"
+},
+{
+    "word": "Sweet",
+    "mean": "cửa hàng bánh kẹo"
+},
+{
+    "word": "Tailors",
+    "mean": "Hàng may"
+},
+{
+    "word": "Tattoo",
+    "mean": "Hàng xăm"
+},
+{
+    "word": "Tea",
+    "mean": "Quán trà"
+},
+{
+    "word": "Tower",
+    "mean": "Tòa tháp"
+},
+{
+    "word": "Toy",
+    "mean": "Cửa hàng đồ chơi"
+},
+{
+    "word": "Villa",
+    "mean": "Biệt thự"
+},
+{
+    "word": "Yard",
+    "mean": "Sân"
+},
+{
+    "word": "Air",
+    "mean": "Điều hòa"
+},
+{
+    "word": "Armchair",
+    "mean": "Ghế có chỗ hai bên để tay"
+},
+{
+    "word": "Bariermatting",
+    "mean": "Thảm chùi chân ở cửa"
+},
+{
+    "word": "Bath",
+    "mean": "Bồn tắm"
+},
+{
+    "word": "Bed",
+    "mean": "Giường thông thường"
+},
+{
+    "word": "Bedside",
+    "mean": "Bàn bên cạnh giường"
+},
+{
+    "word": "Bench",
+    "mean": "Ghế dài, ghế ngồi ở nghị viện, quan tòa"
+},
+{
+    "word": "Bookcase",
+    "mean": "Tủ sách"
+},
+{
+    "word": "Carpet",
+    "mean": "Thảm thông thường"
+},
+{
+    "word": "Chair",
+    "mean": "Ghế thông thường"
+},
+{
+    "word": "Chandelier",
+    "mean": "Đèn chùm, đèn treo nhiều ngọn"
+},
+{
+    "word": "Chest",
+    "mean": "Tủ ngăn kéo"
+},
+{
+    "word": "Chest",
+    "mean": "tủ, két"
+},
+{
+    "word": "Closet",
+    "mean": "tủ âm tường"
+},
+{
+    "word": "Coat",
+    "mean": "Móc treo quần áo"
+},
+{
+    "word": "Coffee",
+    "mean": "Bàn uống nước, bàn cà phê"
+},
+{
+    "word": "Couch",
+    "mean": "Ghế dài giống như giường, ghế trường kỷ"
+},
+{
+    "word": "Curtain",
+    "mean": "Rèm, màn"
+},
+{
+    "word": "Cushion",
+    "mean": "Đệm"
+},
+{
+    "word": "Desk",
+    "mean": "Bàn thông thường"
+},
+{
+    "word": "Double",
+    "mean": "Giường đôi"
+},
+{
+    "word": "Dresser",
+    "mean": "Tủ thấp có nhiều ngăn kéo (Anh-Anh )"
+},
+{
+    "word": "Dressing",
+    "mean": "Bàn trang điểm"
+},
+{
+    "word": "Drinks",
+    "mean": "Tủ đựng giấy tờ công việc"
+},
+{
+    "word": "Electric",
+    "mean": "Lò sưởi hoạt động bằng điện"
+},
+{
+    "word": "Ensuite",
+    "mean": "Buồng tắm trong phòng ngủ"
+},
+{
+    "word": "Fireplace",
+    "mean": "Lò sưởi"
+},
+{
+    "word": "Fridge",
+    "mean": "Cái tủ lạnh"
+},
+{
+    "word": "Gas",
+    "mean": "Lò sưởi hoạt động bằng ga"
+},
+{
+    "word": "Heater",
+    "mean": "Bình nóng lạnh"
+},
+{
+    "word": "Hoover",
+    "mean": "Máy hút bụi"
+},
+{
+    "word": "Internet",
+    "mean": "Mạng Internet"
+},
+{
+    "word": "Locker",
+    "mean": "tủ nhiều ngăn, có khóa mỗi ngăn"
+},
+{
+    "word": "Ottoman",
+    "mean": "Ghế dài có đệm"
+},
+{
+    "word": "Poster",
+    "mean": "Bức ảnh lớn trong nhà"
+},
+{
+    "word": "Radiator",
+    "mean": "Tủ đựng bát đũa"
+},
+{
+    "word": "Reading",
+    "mean": "Đèn học"
+},
+{
+    "word": "Recliner",
+    "mean": "Ghế đệm thông minh,để thư giãn,có thể điều chỉnh phần gác chân"
+},
+{
+    "word": "Rocking",
+    "mean": "ghế lật đật"
+},
+{
+    "word": "Shower",
+    "mean": "Vòi hoa sen"
+},
+{
+    "word": "Side",
+    "mean": " Tủ ly"
+},
+{
+    "word": "Side",
+    "mean": "Bàn để sát tường"
+},
+{
+    "word": "Single",
+    "mean": "Giường đơn"
+},
+{
+    "word": "Sink",
+    "mean": "bồn rửa"
+},
+{
+    "word": "Sofa",
+    "mean": "Giường sofa"
+},
+{
+    "word": "Sofa",
+    "mean": "Ghế tràng kỷ, ghế xô pha"
+},
+{
+    "word": "Spin",
+    "mean": "Máy sấy quần áo"
+},
+{
+    "word": "Standing",
+    "mean": "Đèn để bàn"
+},
+{
+    "word": "Stool",
+    "mean": "Ghế đẩu"
+},
+{
+    "word": "Television",
+    "mean": "Tivi"
+},
+{
+    "word": "Wall",
+    "mean": "Đèn tường"
+},
+{
+    "word": "Wardrobe",
+    "mean": "Tủ đựng quần áo"
+},
+{
+    "word": "Window",
+    "mean": "rèm cửa sổ"
+},
+{
+    "word": "Aerobics",
+    "mean": "thể dục thẩm mỹ/thể dục nhịp điệu"
+},
+{
+    "word": "American",
+    "mean": "bóng bầu dục"
+},
+{
+    "word": "Archery",
+    "mean": "bắn cung"
+},
+{
+    "word": "Athlete",
+    "mean": "Vận động viên"
+},
+{
+    "word": "Athletics",
+    "mean": "điền kinh"
+},
+{
+    "word": "Badminton",
+    "mean": "cầu lông"
+},
+{
+    "word": "Badminton",
+    "mean": "Môn cầu lông"
+},
+{
+    "word": "Baseball",
+    "mean": "Bóng chày"
+},
+{
+    "word": "Baseball",
+    "mean": "bóng chày"
+},
+{
+    "word": "Basketball",
+    "mean": "bóng rổ"
+},
+{
+    "word": "Basketball",
+    "mean": "Bóng rổ"
+},
+{
+    "word": "Beach",
+    "mean": "bóng chuyền bãi biển"
+},
+{
+    "word": "Beat",
+    "mean": "Đánh bại"
+},
+{
+    "word": "Bowls",
+    "mean": "trò ném bóng gỗ"
+},
+{
+    "word": "Boxing",
+    "mean": "đấm bốc"
+},
+{
+    "word": "Canoeing",
+    "mean": "chèo thuyền ca-nô"
+},
+{
+    "word": "Champion",
+    "mean": "Nhà vô địch"
+},
+{
+    "word": "Climbing",
+    "mean": "leo núi"
+},
+{
+    "word": "Coach",
+    "mean": "Huấn luyện viên"
+},
+{
+    "word": "Competition",
+    "mean": "Cuộc thi"
+},
+{
+    "word": "Competition",
+    "mean": "cuộc thi đấu"
+},
+{
+    "word": "Cricket",
+    "mean": "crikê"
+},
+{
+    "word": "Cycling",
+    "mean": "đua xe đạp"
+},
+{
+    "word": "Darts",
+    "mean": "trò ném phi tiêu"
+},
+{
+    "word": "Defeat",
+    "mean": "đánh bại/thua trận"
+},
+{
+    "word": "Diving",
+    "mean": "lặn"
+},
+{
+    "word": "Fishing",
+    "mean": "câu cá"
+},
+{
+    "word": "Fixture",
+    "mean": "cuộc thi đấu"
+},
+{
+    "word": "Football",
+    "mean": "bóng đá"
+},
+{
+    "word": "Football",
+    "mean": "Môn bóng đá"
+},
+{
+    "word": "Game",
+    "mean": "Trận đấu, ván đấu (thường dùng cho các môn với các cầu thủ không chuyên)"
+},
+{
+    "word": "Golf",
+    "mean": "đánh gôn"
+},
+{
+    "word": "Gymnastics",
+    "mean": "tập thể hình"
+},
+{
+    "word": "Handball",
+    "mean": "bóng ném"
+},
+{
+    "word": "Hiking",
+    "mean": "đi bộ đường dài"
+},
+{
+    "word": "Hockey",
+    "mean": "khúc côn cầu"
+},
+{
+    "word": "Horse",
+    "mean": "đua ngựa"
+},
+{
+    "word": "Horse",
+    "mean": "cưỡi ngựa"
+},
+{
+    "word": "Hunting",
+    "mean": "đi săn"
+},
+{
+    "word": "Ice",
+    "mean": "khúc côn cầu trên sân băng"
+},
+{
+    "word": "Ice",
+    "mean": "trượt băng"
+},
+{
+    "word": "Inline",
+    "mean": "trượt pa-tanh"
+},
+{
+    "word": "Jogging",
+    "mean": "chạy bộ"
+},
+{
+    "word": "Jogging",
+    "mean": "Chạy bộ"
+},
+{
+    "word": "Judo",
+    "mean": "võ judo"
+},
+{
+    "word": "Karate",
+    "mean": "võ karate"
+},
+{
+    "word": "Karting",
+    "mean": "đua xe kart (ô tô nhỏ không mui)"
+},
+{
+    "word": "Kickboxing",
+    "mean": "võ đối kháng"
+},
+{
+    "word": "Lacrosse",
+    "mean": "bóng vợt"
+},
+{
+    "word": "Martial",
+    "mean": "võ thuật"
+},
+{
+    "word": "Match",
+    "mean": "Trận đấu (dùng cho bóng đá, bóng bầu dục, cầu lông,… có 2 cầu thủ/2 đội"
+},
+{
+    "word": "Motor",
+    "mean": "đua ô tô"
+},
+{
+    "word": "Mountaineering",
+    "mean": "leo núi"
+},
+{
+    "word": "Net",
+    "mean": "lưới"
+},
+{
+    "word": "Netball",
+    "mean": "bóng rổ nữ"
+},
+{
+    "word": "Offside",
+    "mean": "việt vị"
+},
+{
+    "word": "Opponent",
+    "mean": "Đối thủ"
+},
+{
+    "word": "Pass",
+    "mean": "chuyền bóng"
+},
+{
+    "word": "Penalty",
+    "mean": "phạt đền"
+},
+{
+    "word": "Player",
+    "mean": "cầu thủ"
+},
+{
+    "word": "Pool",
+    "mean": "bi-a"
+},
+{
+    "word": "Practice",
+    "mean": "Luyện tập"
+},
+{
+    "word": "Referee",
+    "mean": "Trọng tài"
+},
+{
+    "word": "Rowing",
+    "mean": "chèo thuyền"
+},
+{
+    "word": "Rugby",
+    "mean": "bóng bầu dục"
+},
+{
+    "word": "Running",
+    "mean": "chạy đua"
+},
+{
+    "word": "Running",
+    "mean": "Chạy bộ"
+},
+{
+    "word": "Sailing",
+    "mean": "chèo thuyền"
+},
+{
+    "word": "Score",
+    "mean": "Điểm số"
+},
+{
+    "word": "Scuba",
+    "mean": "lặn có bình khí"
+},
+{
+    "word": "Shooting",
+    "mean": "bắn súng"
+},
+{
+    "word": "Skateboarding",
+    "mean": "trượt ván"
+},
+{
+    "word": "Skiing",
+    "mean": "trượt tuyết"
+},
+{
+    "word": "Snooker",
+    "mean": "bi-a"
+},
+{
+    "word": "Snowboarding",
+    "mean": "trượt tuyết ván"
+},
+{
+    "word": "Sporty",
+    "mean": "Có tính chất thể thao"
+},
+{
+    "word": "Squash",
+    "mean": "bóng quần"
+},
+{
+    "word": "Stadium",
+    "mean": "Sân vận động"
+},
+{
+    "word": "Surfing",
+    "mean": "lướt sóng"
+},
+{
+    "word": "Swimming",
+    "mean": "bơi lội"
+},
+{
+    "word": "Swimming",
+    "mean": "Môn bơi lội"
+},
+{
+    "word": "Table",
+    "mean": "bóng bàn"
+},
+{
+    "word": "Team",
+    "mean": "Đội"
+},
+{
+    "word": "Tennis",
+    "mean": "Môn quần vợt"
+},
+{
+    "word": "Ten-pin",
+    "mean": "bowling"
+},
+{
+    "word": "Tournament",
+    "mean": "Giải đấu"
+},
+{
+    "word": "Volleyball",
+    "mean": "Bóng chuyền"
+},
+{
+    "word": "Volleyball",
+    "mean": "bóng chuyền"
+},
+{
+    "word": "Walking",
+    "mean": "đi bộ"
+},
+{
+    "word": "Water",
+    "mean": "bóng nước"
+},
+{
+    "word": "Water",
+    "mean": "lướt ván nước do tàu kéo"
+},
+{
+    "word": "Weightlifting",
+    "mean": "cử tạ"
+},
+{
+    "word": "Windsurfing",
+    "mean": "lướt ván buồm"
+},
+{
+    "word": "Wrestling",
+    "mean": "môn đấu vật"
+},
+{
+    "word": "Airplane",
+    "mean": "Máy bay"
+},
+{
+    "word": "Airport",
+    "mean": "Sân bay"
+},
+{
+    "word": "Arrival",
+    "mean": "Sự tới nơi, sự cập bến"
+},
+{
+    "word": "Bike",
+    "mean": "Xe đạp"
+},
+{
+    "word": "Boat",
+    "mean": "Thuyền"
+},
+{
+    "word": "Bus",
+    "mean": "Trạm dừng xe buýt"
+},
+{
+    "word": "Bus",
+    "mean": "Xe buýt"
+},
+{
+    "word": "Car",
+    "mean": "Xe ô tô"
+},
+{
+    "word": "Delay",
+    "mean": "Chậm trễ, trì hoãn (chuyến bay)"
+},
+{
+    "word": "Departure",
+    "mean": "Sự rời đi"
+},
+{
+    "word": "Drive",
+    "mean": "Lái xe"
+},
+{
+    "word": "Get",
+    "mean": "Lên xe/Xuống xe"
+},
+{
+    "word": "Motorbike",
+    "mean": "Xe máy"
+},
+{
+    "word": "Passenger",
+    "mean": "Hành khách"
+},
+{
+    "word": "Public",
+    "mean": "Phương tiện giao thông công cộng"
+},
+{
+    "word": "Ride",
+    "mean": "Lái xe máy, cưỡi ngựa"
+},
+{
+    "word": "Road",
+    "mean": "Con đường"
+},
+{
+    "word": "Rush",
+    "mean": "Giờ cao điểm"
+},
+{
+    "word": "Ship",
+    "mean": "Tàu thủy"
+},
+{
+    "word": "Station",
+    "mean": "Ga (tàu)"
+},
+{
+    "word": "Subway",
+    "mean": "Tàu điện ngầm"
+},
+{
+    "word": "Taxi",
+    "mean": "Xe taxi"
+},
+{
+    "word": "Traffic",
+    "mean": "Tắc đường, ùn tắc giao thông"
+},
+{
+    "word": "Traffic",
+    "mean": "Giao thông"
+},
+{
+    "word": "Train",
+    "mean": "Tàu hỏa"
+},
+{
+    "word": "Transport",
+    "mean": "Chuyên chở, vận tải"
+},
+{
+    "word": "Blender",
+    "mean": "Máy xay sinh tố"
+},
+{
+    "word": "Bowl",
+    "mean": "Bát, tô"
+},
+{
+    "word": "Breakfast",
+    "mean": "Bữa sáng"
+},
+{
+    "word": "Chopstick",
+    "mean": "Đũa"
+},
+{
+    "word": "Cup",
+    "mean": "Tách, chén"
+},
+{
+    "word": "Cupboard",
+    "mean": "Tủ bếp, tủ chạn"
+},
+{
+    "word": "Cutting",
+    "mean": "Thớt"
+},
+{
+    "word": "Dinner",
+    "mean": "Bữa tối"
+},
+{
+    "word": "Dish",
+    "mean": "(1) Cái đĩa; (2) Món ăn"
+},
+{
+    "word": "Dishwasher",
+    "mean": "Máy rửa bát"
+},
+{
+    "word": "Fire",
+    "mean": "Lửa"
+},
+{
+    "word": "Fork",
+    "mean": "Cái dĩa"
+},
+{
+    "word": "Glass",
+    "mean": "Cái ly"
+},
+{
+    "word": "Heat",
+    "mean": "Hơi nóng, sức nóng"
+},
+{
+    "word": "Knife",
+    "mean": "Con dao"
+},
+{
+    "word": "Lunch",
+    "mean": "Bữa trưa"
+},
+{
+    "word": "Microwave",
+    "mean": "Lò vi sóng"
+},
+{
+    "word": "Napkin",
+    "mean": "Khăn ăn, giấy ăn"
+},
+{
+    "word": "Oven",
+    "mean": "Lò nướng"
+},
+{
+    "word": "Pan",
+    "mean": "Cái chảo"
+},
+{
+    "word": "Pot",
+    "mean": "Nồi"
+},
+{
+    "word": "Sink",
+    "mean": "Chậu rửa"
+},
+{
+    "word": "Spoon",
+    "mean": "Cái thìa"
+},
+{
+    "word": "Stove",
+    "mean": "Bếp ga, bếp lò"
+},
+{
+    "word": "Air",
+    "mean": "Máy điều hòa không khí"
+},
+{
+    "word": "Armchair",
+    "mean": "Ghế bành"
+},
+{
+    "word": "Bookshelf",
+    "mean": "Giá sách, kệ sách"
+},
+{
+    "word": "Carpet",
+    "mean": "Thảm"
+},
+{
+    "word": "Chair",
+    "mean": "Ghế tựa"
+},
+{
+    "word": "Clock",
+    "mean": "Đồng hồ treo tường/để bàn"
+},
+{
+    "word": "Curtain",
+    "mean": "Rèm cửa"
+},
+{
+    "word": "Cushion",
+    "mean": "Gối tựa (trên ghế sofa)"
+},
+{
+    "word": "Desk",
+    "mean": "Bàn làm việc"
+},
+{
+    "word": "Fan",
+    "mean": "Cái quạt"
+},
+{
+    "word": "Lamp",
+    "mean": "Đèn bàn"
+},
+{
+    "word": "Picture",
+    "mean": "Bức tranh/ảnh"
+},
+{
+    "word": "Remote",
+    "mean": "Điều khiển từ xa"
+},
+{
+    "word": "Sofa",
+    "mean": "ghế sofa"
+},
+{
+    "word": "Table",
+    "mean": "Cái bàn"
+},
+{
+    "word": "Television",
+    "mean": "Cái tivi"
+},
+{
+    "word": "Vase",
+    "mean": "Bình hoa, lọ hoa"
+},
+{
+    "word": "Bed",
+    "mean": "Cái giường"
+},
+{
+    "word": "Blanket",
+    "mean": "Cái chăn"
+},
+{
+    "word": "Closet",
+    "mean": "Tủ quần áo"
+},
+{
+    "word": "Comfortable",
+    "mean": "Thoải mái, dễ chịu"
+},
+{
+    "word": "Drawer",
+    "mean": "Ngăn kéo"
+},
+{
+    "word": "Dressing",
+    "mean": "Bàn trang điểm"
+},
+{
+    "word": "Mattress",
+    "mean": "Cái đệm"
+},
+{
+    "word": "Mirror",
+    "mean": "Cái gương"
+},
+{
+    "word": "Pillow",
+    "mean": "Cái gối"
+},
+{
+    "word": "Rest",
+    "mean": "Nghỉ ngơi"
+},
+{
+    "word": "Sleep",
+    "mean": "Giấc ngủ"
+},
+{
+    "word": "Wardrobe",
+    "mean": "Tủ quần áo"
+},
+{
+    "word": "Bathtub",
+    "mean": "Bồn tắm"
+},
+{
+    "word": "Comb",
+    "mean": "chải tóc"
+},
+{
+    "word": "Conditioner",
+    "mean": "Dầu xả"
+},
+{
+    "word": "Detergent",
+    "mean": "Chất tẩy rửa, bột giặt"
+},
+{
+    "word": "Faucet",
+    "mean": "Vòi nước"
+},
+{
+    "word": "Hair",
+    "mean": "Máy sấy tóc"
+},
+{
+    "word": "Hairbrush",
+    "mean": "Lược chải tóc"
+},
+{
+    "word": "Hanger",
+    "mean": "Mắc quần áo"
+},
+{
+    "word": "Laundry",
+    "mean": "Quần áo cần giặt, tiệm giặt là"
+},
+{
+    "word": "Mop",
+    "mean": "Lau nhà"
+},
+{
+    "word": "Razor",
+    "mean": "Dao cạo râu"
+},
+{
+    "word": "Scissor",
+    "mean": "Cái kéo"
+},
+{
+    "word": "Shampoo",
+    "mean": "Dầu gội đầu"
+},
+{
+    "word": "Shave",
+    "mean": "Cạo râu, cạo lông"
+},
+{
+    "word": "Shower",
+    "mean": "Buồng tắm đứng"
+},
+{
+    "word": "Soap",
+    "mean": "Xà phòng"
+},
+{
+    "word": "Toilet",
+    "mean": "Nhà vệ sinh"
+},
+{
+    "word": "Toilet",
+    "mean": "Giấy vệ sinh"
+},
+{
+    "word": "Toothbrush",
+    "mean": "Bàn chải đánh răng"
+},
+{
+    "word": "Toothpaste",
+    "mean": "Kem đánh răng"
+},
+{
+    "word": "Towel",
+    "mean": "khăn tắm"
+},
+{
+    "word": "Trash",
+    "mean": "Thùng rác"
+},
+{
+    "word": "Washing",
+    "mean": "Máy giặt"
+},
+{
+    "word": "Bakery",
+    "mean": "Tiệm bánh"
+},
+{
+    "word": "Bank",
+    "mean": "Ngân hàng"
+},
+{
+    "word": "Bar",
+    "mean": "quán bar"
+},
+{
+    "word": "Bus",
+    "mean": "Trạm dừng xe buýt"
+},
+{
+    "word": "Café",
+    "mean": "Quán cà phê"
+},
+{
+    "word": "Citizen",
+    "mean": "Cư dân thành phố, công dân"
+},
+{
+    "word": "City",
+    "mean": "Tòa thị chính"
+},
+{
+    "word": "Court",
+    "mean": "Tòa án"
+},
+{
+    "word": "Dwell",
+    "mean": "Cư trú, ở tại"
+},
+{
+    "word": "Gas",
+    "mean": "Trạm xăng"
+},
+{
+    "word": "Grocery",
+    "mean": "Cửa hàng tạp hóa"
+},
+{
+    "word": "Hotel",
+    "mean": "Khách sạn"
+},
+{
+    "word": "Library",
+    "mean": "Thư viện"
+},
+{
+    "word": "Movie",
+    "mean": "Rạp chiếu phim"
+},
+{
+    "word": "Museum",
+    "mean": "Bảo tàng"
+},
+{
+    "word": "Park",
+    "mean": "Đỗ (xe)"
+},
+{
+    "word": "Parking",
+    "mean": "Bãi đỗ xe"
+},
+{
+    "word": "Police",
+    "mean": "Đồn cảnh sát"
+},
+{
+    "word": "Post",
+    "mean": "Bưu điện"
+},
+{
+    "word": "Restaurant",
+    "mean": "Nhà hàng"
+},
+{
+    "word": "Road",
+    "mean": "Con đường"
+},
+{
+    "word": "Shopping",
+    "mean": "Trung tâm thương mại"
+},
+{
+    "word": "Store",
+    "mean": "Cửa hàng"
+},
+{
+    "word": "Street",
+    "mean": "Phố"
+},
+{
+    "word": "Supermarket",
+    "mean": "Siêu thị"
+},
+{
+    "word": "Biology",
+    "mean": "Sinh học"
+},
+{
+    "word": "Calculator",
+    "mean": "Máy tính cầm tay"
+},
+{
+    "word": "Chemistry",
+    "mean": "Hóa học"
+},
+{
+    "word": "Class",
+    "mean": "Lớp học"
+},
+{
+    "word": "College",
+    "mean": "Trường cao đẳng"
+},
+{
+    "word": "Computer",
+    "mean": "Tin học"
+},
+{
+    "word": "Computer",
+    "mean": "Máy tính"
+},
+{
+    "word": "Degree",
+    "mean": "Bằng"
+},
+{
+    "word": "Eraser",
+    "mean": "Cục tẩy"
+},
+{
+    "word": "Exam",
+    "mean": "Bài thi"
+},
+{
+    "word": "Final",
+    "mean": "Bài thi cuối kì"
+},
+{
+    "word": "Geography",
+    "mean": "Địa lý"
+},
+{
+    "word": "Graduate",
+    "mean": "Tốt nghiệp"
+},
+{
+    "word": "High",
+    "mean": "Trường trung học phổ thông"
+},
+{
+    "word": "History",
+    "mean": "Môn lịch sử, lịch sử"
+},
+{
+    "word": "Kindergarten",
+    "mean": "Trường mầm non, mẫu giáo"
+},
+{
+    "word": "Laboratory",
+    "mean": "Phòng thí nghiệm"
+},
+{
+    "word": "Learn",
+    "mean": "Học hỏi"
+},
+{
+    "word": "Lecture",
+    "mean": "Bài giảng"
+},
+{
+    "word": "Lecturer",
+    "mean": "Giảng viên"
+},
+{
+    "word": "Literature",
+    "mean": "Văn học"
+},
+{
+    "word": "Mathematics",
+    "mean": "Toán học"
+},
+{
+    "word": "Mid-term",
+    "mean": "Bài thi giữa kì"
+},
+{
+    "word": "Notebook",
+    "mean": "Quyển vở, quyển sổ"
+},
+{
+    "word": "Pen",
+    "mean": "Bút mực, bút bi "
+},
+{
+    "word": "Pencil",
+    "mean": "Bút chì"
+},
+{
+    "word": "Period",
+    "mean": "Tiết học"
+},
+{
+    "word": "Physical",
+    "mean": "Môn thể dục"
+},
+{
+    "word": "Physics",
+    "mean": "Môn vật lí"
+},
+{
+    "word": "Primary",
+    "mean": "Trường tiểu học"
+},
+{
+    "word": "Principal",
+    "mean": "Hiệu trưởng"
+},
+{
+    "word": "Professor",
+    "mean": "Giáo sư"
+},
+{
+    "word": "Ruler",
+    "mean": "Thước kẻ"
+},
+{
+    "word": "School",
+    "mean": "Năm học"
+},
+{
+    "word": "School",
+    "mean": "Trường học"
+},
+{
+    "word": "Secondary",
+    "mean": "Trường trung học cơ sở"
+},
+{
+    "word": "Semester",
+    "mean": "Học kì"
+},
+{
+    "word": "Student",
+    "mean": "Học sinh, sinh viên"
+},
+{
+    "word": "Study",
+    "mean": "Học tập"
+},
+{
+    "word": "Subject",
+    "mean": "Môn học"
+},
+{
+    "word": "Teacher",
+    "mean": "Giáo viên"
+},
+{
+    "word": "Test",
+    "mean": "Bài kiểm tra"
+},
+{
+    "word": "Textbook",
+    "mean": "Sách giáo khoa"
+},
+{
+    "word": "Uniform",
+    "mean": "Đồng phục"
+},
+{
+    "word": "University",
+    "mean": "Trường đại học"
+},
+{
+    "word": "Ache",
+    "mean": "Đau"
+},
+{
+    "word": "Backache",
+    "mean": "Đau lưng"
+},
+{
+    "word": "Bandage",
+    "mean": "Băng cá nhân"
+},
+{
+    "word": "Bleed",
+    "mean": "Chảy máu"
+},
+{
+    "word": "Broken",
+    "mean": "Gãy tay"
+},
+{
+    "word": "Broken",
+    "mean": "Gãy chân"
+},
+{
+    "word": "Broken",
+    "mean": "Gãy"
+},
+{
+    "word": "Bruise",
+    "mean": "Vết bầm tím"
+},
+{
+    "word": "Clinic",
+    "mean": "Phòng khám"
+},
+{
+    "word": "Cold",
+    "mean": "Cảm lạnh"
+},
+{
+    "word": "Cure",
+    "mean": "Cách chữa trị"
+},
+{
+    "word": "Diet",
+    "mean": "Chế độ ăn uống, ăn kiêng"
+},
+{
+    "word": "Disease",
+    "mean": "Căn bệnh"
+},
+{
+    "word": "Disorder",
+    "mean": "Chứng rối loạn"
+},
+{
+    "word": "Dizzy",
+    "mean": "Hoa mắt chóng mặt"
+},
+{
+    "word": "Doctor",
+    "mean": "Bác sĩ"
+},
+{
+    "word": "Fever",
+    "mean": "Cơn sốt"
+},
+{
+    "word": "Flu",
+    "mean": "Bệnh cảm cúm"
+},
+{
+    "word": "Hea",
+    "mean": "Chữa lành, lành lại"
+},
+{
+    "word": "Headache",
+    "mean": "Đau đầu"
+},
+{
+    "word": "Healthy",
+    "mean": "Lành mạnh, tốt cho sức khỏe"
+},
+{
+    "word": "Hospital",
+    "mean": "Bệnh viện"
+},
+{
+    "word": "Ill",
+    "mean": "Bị ốm"
+},
+{
+    "word": "Illness",
+    "mean": "Căn bệnh"
+},
+{
+    "word": "Medicine",
+    "mean": "Thuốc"
+},
+{
+    "word": "Nurse",
+    "mean": "Y tá"
+},
+{
+    "word": "Obesity",
+    "mean": "Bệnh béo phì"
+},
+{
+    "word": "Patient",
+    "mean": "Bệnh nhân"
+},
+{
+    "word": "Pharmacy",
+    "mean": "Nhà thuốc"
+},
+{
+    "word": "Pill",
+    "mean": "Viên thuốc"
+},
+{
+    "word": "Sick",
+    "mean": "Bị ốm"
+},
+{
+    "word": "Stomach",
+    "mean": "Đau bụng, đau dạ dày"
+},
+{
+    "word": "Surgery",
+    "mean": "Ca phẫu thuật"
+},
+{
+    "word": "Toothache",
+    "mean": "Đau răng"
+},
+{
+    "word": "Wound",
+    "mean": "Vết thương"
+},
+{
+    "word": "Activity",
+    "mean": "Hoạt động"
+},
+{
+    "word": "Baking",
+    "mean": "Nướng bánh"
+},
+{
+    "word": "Ballet",
+    "mean": "Múa ba lê"
+},
+{
+    "word": "Chess",
+    "mean": "Cờ vua"
+},
+{
+    "word": "Collect",
+    "mean": "Sưu tầm, thu thập"
+},
+{
+    "word": "Cook",
+    "mean": "Nấu nướng"
+},
+{
+    "word": "Dance",
+    "mean": "Nhảy"
+},
+{
+    "word": "Dance",
+    "mean": "Nhảy múa"
+},
+{
+    "word": "Fishing",
+    "mean": "Câu cá"
+},
+{
+    "word": "Gardening",
+    "mean": "Làm vườn"
+},
+{
+    "word": "Gardening",
+    "mean": "Làm vườn"
+},
+{
+    "word": "Go",
+    "mean": "Đi dạo"
+},
+{
+    "word": "Go",
+    "mean": "Đi dự tiệc"
+},
+{
+    "word": "Go",
+    "mean": "Đi mua sắm"
+},
+{
+    "word": "Go",
+    "mean": "Đi bơi"
+},
+{
+    "word": "Go",
+    "mean": "Đi tập thể hình"
+},
+{
+    "word": "Go",
+    "mean": "Đến quán bia, rượu"
+},
+{
+    "word": "Hang",
+    "mean": "Đi chơi với bạn"
+},
+{
+    "word": "Hobby",
+    "mean": "Sở thích"
+},
+{
+    "word": "Jogging",
+    "mean": "Chạy bộ"
+},
+{
+    "word": "Knitting",
+    "mean": "Đan len"
+},
+{
+    "word": "Leisure",
+    "mean": "Thời gian rảnh"
+},
+{
+    "word": "Listen",
+    "mean": "Nghe nhạc"
+},
+{
+    "word": "Listening",
+    "mean": "Nghe nhạc"
+},
+{
+    "word": "Mountaineering",
+    "mean": "Đi leo núi"
+},
+{
+    "word": "Musical",
+    "mean": "Nhạc cụ"
+},
+{
+    "word": "Play",
+    "mean": "Chơi thể thao"
+},
+{
+    "word": "Read",
+    "mean": "Đọc sách"
+},
+{
+    "word": "Reading",
+    "mean": "Đọc sách"
+},
+{
+    "word": "Relax",
+    "mean": "Thư giãn"
+},
+{
+    "word": "Sewing",
+    "mean": "May vá"
+},
+{
+    "word": "Sing",
+    "mean": "Hát"
+},
+{
+    "word": "Sleep",
+    "mean": "Ngủ"
+},
+{
+    "word": "Surf",
+    "mean": "Lướt net"
+},
+{
+    "word": "Take",
+    "mean": "Chụp ảnh"
+},
+{
+    "word": "Travel",
+    "mean": "Du lịch"
+},
+{
+    "word": "Watching",
+    "mean": "Xem TV/phim"
+},
+{
+    "word": "Afford",
+    "mean": "Có khả năng chi trả"
+},
+{
+    "word": "Affordable",
+    "mean": "Giá cả hợp lí, phải chăng"
+},
+{
+    "word": "Aisle",
+    "mean": "lối đi giữa các dãy hàng"
+},
+{
+    "word": "Bargain",
+    "mean": "Trả giá, mặc cả"
+},
+{
+    "word": "Basket",
+    "mean": "cái rổ, cái giỏ, cái thúng"
+},
+{
+    "word": "Basket",
+    "mean": "Giỏ hàng"
+},
+{
+    "word": "Bookstore",
+    "mean": "Hiệu sách"
+},
+{
+    "word": "Cart",
+    "mean": "Xe đẩy trong siêu thị"
+},
+{
+    "word": "Cash",
+    "mean": "tiền mặt"
+},
+{
+    "word": "Cashier",
+    "mean": "nhân viên thu ngân"
+},
+{
+    "word": "Cashier",
+    "mean": "Nhân viên thu ngân"
+},
+{
+    "word": "Cheap",
+    "mean": "Rẻ"
+},
+{
+    "word": "Clerk",
+    "mean": "Nhân viên bán hàng"
+},
+{
+    "word": "Clothing",
+    "mean": "Cửa hàng quần áo, thời trang"
+},
+{
+    "word": "Complain",
+    "mean": "Phàn nàn"
+},
+{
+    "word": "Complaint",
+    "mean": "lời phàn nàn"
+},
+{
+    "word": "Convenience",
+    "mean": "Cửa hàng tiện lợi"
+},
+{
+    "word": "Counter",
+    "mean": "quầy"
+},
+{
+    "word": "Credit",
+    "mean": "thẻ tín dụng"
+},
+{
+    "word": "Credit",
+    "mean": "Thẻ tín dụng"
+},
+{
+    "word": "Customer",
+    "mean": "Khách hàng"
+},
+{
+    "word": "Discount",
+    "mean": "Ưu đãi, giảm giá"
+},
+{
+    "word": "Discount",
+    "mean": "chiết khấu"
+},
+{
+    "word": "Expensive",
+    "mean": "Đắt đỏ"
+},
+{
+    "word": "Fitting",
+    "mean": "phòng thay đồ"
+},
+{
+    "word": "In",
+    "mean": "còn hàng"
+},
+{
+    "word": "Mall",
+    "mean": "Trung tâm thương mại"
+},
+{
+    "word": "Manager",
+    "mean": "quản lí cửa hàng"
+},
+{
+    "word": "Out",
+    "mean": "hết hàng"
+},
+{
+    "word": "Out",
+    "mean": "Hết hàng, cháy hàng"
+},
+{
+    "word": "Price",
+    "mean": "Giá cả"
+},
+{
+    "word": "Price",
+    "mean": "giá"
+},
+{
+    "word": "Purse",
+    "mean": "ví phụ nữ"
+},
+{
+    "word": "Queue",
+    "mean": "xếp hàng"
+},
+{
+    "word": "Receipt",
+    "mean": "giấy biên nhận"
+},
+{
+    "word": "Receipt",
+    "mean": "Hóa đơn"
+},
+{
+    "word": "Refund",
+    "mean": "hoàn tiền"
+},
+{
+    "word": "Refund",
+    "mean": "sự hoàn tiền"
+},
+{
+    "word": "Sale",
+    "mean": "giảm giá"
+},
+{
+    "word": "Salon",
+    "mean": "salon làm đẹp"
+},
+{
+    "word": "Shelf",
+    "mean": "kệ, ngăn, giá"
+},
+{
+    "word": "Shop",
+    "mean": "nhân viên bán hàng"
+},
+{
+    "word": "Shop",
+    "mean": "cửa kính trưng bày hàng"
+},
+{
+    "word": "Shop",
+    "mean": "Cửa hàng"
+},
+{
+    "word": "Shopping",
+    "mean": "túi mua hàng"
+},
+{
+    "word": "Shopping",
+    "mean": "danh sách các món đồ cần mua"
+},
+{
+    "word": "Special",
+    "mean": "ưu đãi đặc biệt"
+},
+{
+    "word": "Stock",
+    "mean": "Hàng hóa trong kho"
+},
+{
+    "word": "Stockroom",
+    "mean": "kho chứa hàng"
+},
+{
+    "word": "Store",
+    "mean": "Cửa hàng"
+},
+{
+    "word": "To",
+    "mean": "mua"
+},
+{
+    "word": "To",
+    "mean": "đi mua sắm"
+},
+{
+    "word": "To",
+    "mean": "đặt hàng"
+},
+{
+    "word": "To",
+    "mean": "bán"
+},
+{
+    "word": "Trolley",
+    "mean": "xe đẩy hàng"
+},
+{
+    "word": "Wallet",
+    "mean": "ví tiền"
+},
+{
+    "word": "Wallet",
+    "mean": "Ví"
+},
+{
+    "word": "Accommodation",
+    "mean": "Chỗ ở, điều kiện ăn ở"
+},
+{
+    "word": "Adventure",
+    "mean": "Cuộc khám phá"
+},
+{
+    "word": "Attraction",
+    "mean": "Sự hấp dẫn, thu hút"
+},
+{
+    "word": "Backpack",
+    "mean": "Ba lô"
+},
+{
+    "word": "Coach",
+    "mean": "xe buýt chạy đường dài"
+},
+{
+    "word": "Cruise",
+    "mean": "chuyến đi (bằng tàu thuỷ)"
+},
+{
+    "word": "Custom",
+    "mean": "Phong tục tập quán"
+},
+{
+    "word": "Destination",
+    "mean": "điểm đến"
+},
+{
+    "word": "Destination",
+    "mean": "Điểm đến"
+},
+{
+    "word": "Explore",
+    "mean": "Khám phá"
+},
+{
+    "word": "Ferry",
+    "mean": "phà; bến phà"
+},
+{
+    "word": "Flight",
+    "mean": "Tiếp viên hàng không"
+},
+{
+    "word": "Flight",
+    "mean": "Chuyến bay"
+},
+{
+    "word": "Harbour",
+    "mean": "bến tàu, cảng"
+},
+{
+    "word": "Journey",
+    "mean": "Hành trình"
+},
+{
+    "word": "Map",
+    "mean": "Bản đồ"
+},
+{
+    "word": "Memorable",
+    "mean": "Đáng nhớ"
+},
+{
+    "word": "Memory",
+    "mean": "Kỉ niệm"
+},
+{
+    "word": "Passport",
+    "mean": "hộ chiếu"
+},
+{
+    "word": "Passport",
+    "mean": "Hộ chiếu"
+},
+{
+    "word": "Platform",
+    "mean": "Thềm ga, sân ga (xe lửa), bậc lên xuống (xe búyt)"
+},
+{
+    "word": "Public",
+    "mean": "phương tiện giao thông công cộng"
+},
+{
+    "word": "Resort",
+    "mean": "nơi nghỉ, khu nghỉ dưỡng"
+},
+{
+    "word": "Sightseeing",
+    "mean": "Tham quan"
+},
+{
+    "word": "Souvenir",
+    "mean": "Quà lưu niệm"
+},
+{
+    "word": "Suitcase",
+    "mean": "Va li"
+},
+{
+    "word": "Ticket",
+    "mean": "Vé (máy bay, tàu hỏa,…)"
+},
+{
+    "word": "Tour",
+    "mean": "Hướng dẫn viên du lịch"
+},
+{
+    "word": "Tour",
+    "mean": "Chuyến du lịch"
+},
+{
+    "word": "Tourist",
+    "mean": "Khách du lịch"
+},
+{
+    "word": "Travel",
+    "mean": "Đi du lịch"
+},
+{
+    "word": "Trip",
+    "mean": "Chuyến đi"
+},
+{
+    "word": "Vacation",
+    "mean": "Kì nghỉ"
+},
+{
+    "word": "A",
+    "mean": "xe ba bánh"
+},
+{
+    "word": "Ambulance",
+    "mean": "xe cứu thương"
+},
+{
+    "word": "Bicycle",
+    "mean": "xe đạp"
+},
+{
+    "word": "Bulldozer",
+    "mean": "xe ủi"
+},
+{
+    "word": "Bus",
+    "mean": "xe buýt"
+},
+{
+    "word": "Camel",
+    "mean": "lạc là"
+},
+{
+    "word": "Canoe",
+    "mean": "xuồng"
+},
+{
+    "word": "Car",
+    "mean": "xe hơi"
+},
+{
+    "word": "Caravan",
+    "mean": "nhà lưu động"
+},
+{
+    "word": "Cargo",
+    "mean": "tàu chở hàng"
+},
+{
+    "word": "Concrete",
+    "mean": "xe trộn bê tông"
+},
+{
+    "word": "Crane",
+    "mean": "xe cần cẩu"
+},
+{
+    "word": "Cruise",
+    "mean": "tàu du lịch"
+},
+{
+    "word": "Donkey",
+    "mean": "con lừa"
+},
+{
+    "word": "Dump",
+    "mean": "xe chở cát"
+},
+{
+    "word": "Ferry",
+    "mean": "phà"
+},
+{
+    "word": "Fire",
+    "mean": "xe cứu hỏa"
+},
+{
+    "word": "Helicopter",
+    "mean": "máy bay trực thăng"
+},
+{
+    "word": "Horse",
+    "mean": "ngựa"
+},
+{
+    "word": "Horse-drawn",
+    "mean": "xe ngựa kéo"
+},
+{
+    "word": "Hot-air",
+    "mean": "khinh khí cầu"
+},
+{
+    "word": "Jet",
+    "mean": "máy bay phản lực"
+},
+{
+    "word": "Litter",
+    "mean": "cái kiệu"
+},
+{
+    "word": "Motor",
+    "mean": "xuồng máy"
+},
+{
+    "word": "Motorbike",
+    "mean": "xe máy"
+},
+{
+    "word": "Ox",
+    "mean": "xe bò"
+},
+{
+    "word": "Propeller",
+    "mean": "máy bay xài động cơ cánh quạt"
+},
+{
+    "word": "Rocket",
+    "mean": "tên lửa"
+},
+{
+    "word": "Sailboat",
+    "mean": "thuyền buồm"
+},
+{
+    "word": "Scooter",
+    "mean": "xe tay ga"
+},
+{
+    "word": "Snow",
+    "mean": "xe ủi tuyết"
+},
+{
+    "word": "Snow",
+    "mean": "ván trượt tuyết"
+},
+{
+    "word": "Submarine",
+    "mean": "tàu ngầm"
+},
+{
+    "word": "Tank",
+    "mean": "xe bồn (chở chất lỏng)"
+},
+{
+    "word": "Train",
+    "mean": "xe lửa"
+},
+{
+    "word": "Tram",
+    "mean": "tàu điện trên mặt đất"
+},
+{
+    "word": "Truck",
+    "mean": "xe tải"
+},
+{
+    "word": "Vietnamese",
+    "mean": "xe xích lô"
+},
+{
+    "word": "Wheelchair",
+    "mean": "xe lăn"
+},
+{
+    "word": "Afternoon",
+    "mean": "Buổi chiều"
+},
+{
+    "word": "April",
+    "mean": "Tháng Tư"
+},
+{
+    "word": "August",
+    "mean": "Tháng Tám"
+},
+{
+    "word": "Calendar",
+    "mean": "Lịch"
+},
+{
+    "word": "Century",
+    "mean": "Thế kỉ"
+},
+{
+    "word": "Date",
+    "mean": "Ngày (thường chỉ ngày trong tháng)"
+},
+{
+    "word": "Day",
+    "mean": "Ngày (thường chỉ ngày trong tuần)"
+},
+{
+    "word": "Decade",
+    "mean": "Thập kỉ"
+},
+{
+    "word": "December",
+    "mean": "Tháng Mười hai"
+},
+{
+    "word": "Evening",
+    "mean": "Buổi tối"
+},
+{
+    "word": "Fall",
+    "mean": "Mùa thu"
+},
+{
+    "word": "February",
+    "mean": "Tháng Hai"
+},
+{
+    "word": "Frida",
+    "mean": "Thứ Sáu"
+},
+{
+    "word": "Hour",
+    "mean": "Giờ, tiếng"
+},
+{
+    "word": "January",
+    "mean": "Tháng Một"
+},
+{
+    "word": "July",
+    "mean": "Tháng Bảy"
+},
+{
+    "word": "June",
+    "mean": "Tháng Sáu"
+},
+{
+    "word": "March",
+    "mean": "Tháng Ba"
+},
+{
+    "word": "May",
+    "mean": "Tháng Năm"
+},
+{
+    "word": "Minute",
+    "mean": "Phút"
+},
+{
+    "word": "Monday",
+    "mean": "Thứ Hai"
+},
+{
+    "word": "Month",
+    "mean": "Tháng"
+},
+{
+    "word": "Morning",
+    "mean": "Buổi sáng"
+},
+{
+    "word": "Night",
+    "mean": "Buổi đêm"
+},
+{
+    "word": "Noon",
+    "mean": "Buổi trưa"
+},
+{
+    "word": "November",
+    "mean": "Tháng Mười một"
+},
+{
+    "word": "October",
+    "mean": "Tháng Mười"
+},
+{
+    "word": "Quarter",
+    "mean": "Quý"
+},
+{
+    "word": "Saturday",
+    "mean": "Thứ Bảy"
+},
+{
+    "word": "Season",
+    "mean": "Mùa"
+},
+{
+    "word": "Second",
+    "mean": "Giây"
+},
+{
+    "word": "September",
+    "mean": "Tháng Chín"
+},
+{
+    "word": "Spring",
+    "mean": "Mùa xuân"
+},
+{
+    "word": "Summer",
+    "mean": "Mùa hè"
+},
+{
+    "word": "Sunday",
+    "mean": "Chủ nhật"
+},
+{
+    "word": "Thursday",
+    "mean": "Thứ Năm"
+},
+{
+    "word": "Time",
+    "mean": "Thời gian"
+},
+{
+    "word": "Tuesday",
+    "mean": "Thứ Ba"
+},
+{
+    "word": "Watch",
+    "mean": "Đồng hồ đeo tay"
+},
+{
+    "word": "Wednesday",
+    "mean": "Thứ Tư"
+},
+{
+    "word": "Week",
+    "mean": "Tuần"
+},
+{
+    "word": "Winter",
+    "mean": "Mùa đông"
+},
+{
+    "word": "Year",
+    "mean": "Năm"
+},
+{
+    "word": "Adjective",
+    "mean": "Tính từ"
+},
+{
+    "word": "Advanced",
+    "mean": "Nâng cao"
+},
+{
+    "word": "Adverb",
+    "mean": "Trạng từ"
+},
+{
+    "word": "Apostrophe",
+    "mean": "dấu phẩy phía trên bên phải"
+},
+{
+    "word": "Beginner",
+    "mean": "Người mới bắt đầu"
+},
+{
+    "word": "Colon",
+    "mean": "hai chấm"
+},
+{
+    "word": "Comma",
+    "mean": "dấu phẩy"
+},
+{
+    "word": "Conversation",
+    "mean": "Cuộc trò chuyện"
+},
+{
+    "word": "Dash",
+    "mean": "dấu gạch ngang dài"
+},
+{
+    "word": "Dialogue",
+    "mean": "Cuộc hội thoại"
+},
+{
+    "word": "Dictionary",
+    "mean": "Từ điển"
+},
+{
+    "word": "Ellipsis",
+    "mean": "dấu ba chấm"
+},
+{
+    "word": "Exclamation",
+    "mean": "dấu chấm than"
+},
+{
+    "word": "Fluent",
+    "mean": "Trôi chảy"
+},
+{
+    "word": "Grammar",
+    "mean": "Ngữ pháp"
+},
+{
+    "word": "Hyphen",
+    "mean": "dấu gạch ngang"
+},
+{
+    "word": "Intermediate",
+    "mean": "Trung bình"
+},
+{
+    "word": "Language",
+    "mean": "Ngôn ngữ"
+},
+{
+    "word": "Listen",
+    "mean": "Nghe"
+},
+{
+    "word": "Native",
+    "mean": "Bản địa"
+},
+{
+    "word": "Noun",
+    "mean": "Danh từ"
+},
+{
+    "word": "Question",
+    "mean": "dấu chấm hỏi"
+},
+{
+    "word": "Read",
+    "mean": "Đọc"
+},
+{
+    "word": "Semicolon",
+    "mean": "dấu chấm phẩy"
+},
+{
+    "word": "Sentence",
+    "mean": "Câu văn"
+},
+{
+    "word": "Speak",
+    "mean": "Nói"
+},
+{
+    "word": "Verb",
+    "mean": "Động từ"
+},
+{
+    "word": "Vocabulary",
+    "mean": "Từ vựng"
+},
+{
+    "word": "Word",
+    "mean": "Từ ngữ"
+},
+{
+    "word": "Write",
+    "mean": "Viết"
+},
+{
+    "word": "Blessing",
+    "mean": "Phước lành"
+},
+{
+    "word": "Celebrate",
+    "mean": "Ăn mừng, chào mừng"
+},
+{
+    "word": "Christmas",
+    "mean": "Lễ Giáng sinh"
+},
+{
+    "word": "Decorate",
+    "mean": "Trang trí, trang hoàng"
+},
+{
+    "word": "Easter",
+    "mean": "Lễ Phục sinh"
+},
+{
+    "word": "Festival",
+    "mean": "Lễ hội"
+},
+{
+    "word": "Festive",
+    "mean": "Có tính chất, không khí lễ hội"
+},
+{
+    "word": "Holiday",
+    "mean": "Ngày lễ"
+},
+{
+    "word": "Independence",
+    "mean": "Lễ Quốc khánh"
+},
+{
+    "word": "Joy",
+    "mean": "Niềm vui sướng"
+},
+{
+    "word": "Lunar",
+    "mean": "Tết nguyên đán"
+},
+{
+    "word": "Mid-autumn",
+    "mean": "Tết Trung thu"
+},
+{
+    "word": "New",
+    "mean": "Giao thừa"
+},
+{
+    "word": "Present",
+    "mean": "Món quà"
+},
+{
+    "word": "Tradition",
+    "mean": "Truyền thống"
+},
+{
+    "word": "Wish",
+    "mean": "Ước"
+},
+{
+    "word": "Salt",
+    "mean": "muối"
+},
+{
+    "word": "Sugar",
+    "mean": "đường"
+},
+{
+    "word": "Pepper",
+    "mean": "tiêu"
+},
+{
+    "word": "MSG",
+    "mean": "bột ngọt"
+},
+{
+    "word": "Mustard",
+    "mean": "mù tạt"
+},
+{
+    "word": "Soy",
+    "mean": "nước tương"
+},
+{
+    "word": "Vinegar",
+    "mean": "dấm"
+},
+{
+    "word": "Accountant",
+    "mean": "Kế toán"
+},
+{
+    "word": "Boss",
+    "mean": "Sếp, cấp trên"
+},
+{
+    "word": "Capital",
+    "mean": "Vốn"
+},
+{
+    "word": "Company",
+    "mean": "Công ty"
+},
+{
+    "word": "Department",
+    "mean": "Phòng ban, bộ phận"
+},
+{
+    "word": "Director",
+    "mean": "Giám đốc"
+},
+{
+    "word": "Diversify",
+    "mean": "đa dạng hóa"
+},
+{
+    "word": "Dividend",
+    "mean": "Cổ tức"
+},
+{
+    "word": "Do",
+    "mean": "làm ăn với"
+},
+{
+    "word": "Downsize",
+    "mean": "cắt giảm nhân công"
+},
+{
+    "word": "Employ",
+    "mean": "Tuyển dụng"
+},
+{
+    "word": "Employee",
+    "mean": "Nhân viên"
+},
+{
+    "word": "Employer",
+    "mean": "Nhà tuyển dụng"
+},
+{
+    "word": "Enterprise",
+    "mean": "Doanh nghiệp"
+},
+{
+    "word": "Envelope",
+    "mean": "bao thư (nói chung)"
+},
+{
+    "word": "Establish",
+    "mean": "thành lập (công ty)"
+},
+{
+    "word": "File",
+    "mean": "hồ sơ, tài liệu"
+},
+{
+    "word": "Firm",
+    "mean": "Tập đoàn"
+},
+{
+    "word": "Franchise",
+    "mean": "nhượng quyền thương hiệu"
+},
+{
+    "word": "Go",
+    "mean": "phá sản"
+},
+{
+    "word": "Invest",
+    "mean": "Đầu tư"
+},
+{
+    "word": "Leader",
+    "mean": "Nhóm trưởng, Chỉ huy"
+},
+{
+    "word": "Loss",
+    "mean": "Lỗ, mất mát, thiếu hụt"
+},
+{
+    "word": "Manager",
+    "mean": "Trưởng phòng, quản lí"
+},
+{
+    "word": "Merge",
+    "mean": "sát nhập"
+},
+{
+    "word": "Notepad",
+    "mean": "giấy được đóng thành xấp, tập giấy"
+},
+{
+    "word": "Notebook",
+    "mean": "sổ ta"
+},
+{
+    "word": "Outsource",
+    "mean": "thuê gia công"
+},
+{
+    "word": "Paper",
+    "mean": "giấy"
+},
+{
+    "word": "Partner",
+    "mean": "Đối tác"
+},
+{
+    "word": "Product",
+    "mean": "Sản phẩm"
+},
+{
+    "word": "Profit",
+    "mean": "Lợi nhuận"
+},
+{
+    "word": "Revenue",
+    "mean": "Doanh thu"
+},
+{
+    "word": "Secretary",
+    "mean": "Thư ký"
+},
+{
+    "word": "Service",
+    "mean": "Dịch vụ"
+},
+{
+    "word": "Shareholder",
+    "mean": "Cổ đông"
+},
+{
+    "word": "Actor",
+    "mean": "Diễn viên nam/nữ"
+},
+{
+    "word": "Architect",
+    "mean": "Kiến trúc sư"
+},
+{
+    "word": "Baker",
+    "mean": "Thợ làm bánh"
+},
+{
+    "word": "Businessman",
+    "mean": "Doanh nhân"
+},
+{
+    "word": "Chef",
+    "mean": "Bếp trưởng"
+},
+{
+    "word": "Cleaner",
+    "mean": "Lao công, dọn dẹp"
+},
+{
+    "word": "Dentist",
+    "mean": "Nha sĩ"
+},
+{
+    "word": "Designer",
+    "mean": "Nhà thiết kế"
+},
+{
+    "word": "Engineer",
+    "mean": "Kỹ sư"
+},
+{
+    "word": "Farmer",
+    "mean": "Người nông dân"
+},
+{
+    "word": "Fireman",
+    "mean": "Lính cứu hỏa"
+},
+{
+    "word": "Fisherman",
+    "mean": "Ngư dân"
+},
+{
+    "word": "Florist",
+    "mean": "Người bán hoa"
+},
+{
+    "word": "Gardener",
+    "mean": "Người làm vườn"
+},
+{
+    "word": "Hairdresser",
+    "mean": "Thợ làm tóc, tiệm làm tóc"
+},
+{
+    "word": "Journalist",
+    "mean": "Phóng viên"
+},
+{
+    "word": "Judge",
+    "mean": "Thẩm phán"
+},
+{
+    "word": "Lawyer",
+    "mean": "Luật sư"
+},
+{
+    "word": "Mechanic",
+    "mean": "Thợ cơ khí"
+},
+{
+    "word": "Model",
+    "mean": "Người mẫu"
+},
+{
+    "word": "Pilot",
+    "mean": "Phi công"
+},
+{
+    "word": "Plumber",
+    "mean": "Thợ sửa ống nước"
+},
+{
+    "word": "Policeman",
+    "mean": "Cảnh sát"
+},
+{
+    "word": "Scientist",
+    "mean": "Nhà khoa học"
+},
+{
+    "word": "Security",
+    "mean": "Bảo vệ"
+},
+{
+    "word": "Soldier",
+    "mean": "Người lính"
+},
+{
+    "word": "Tailor",
+    "mean": "Thợ may"
+},
+{
+    "word": "Waiter",
+    "mean": "Bồi bàn (nam/nữ)"
+},
+{
+    "word": "Worker",
+    "mean": "Công nhân"
+},
+{
+    "word": "Achievement",
+    "mean": "Thành tựu, thành tích"
+},
+{
+    "word": "Apply",
+    "mean": "Ứng tuyển, áp dụng"
+},
+{
+    "word": "Colleague",
+    "mean": "Đồng nghiệp"
+},
+{
+    "word": "Contract",
+    "mean": "Hợp đồng"
+},
+{
+    "word": "Deadline",
+    "mean": "Hạn chót"
+},
+{
+    "word": "Experience",
+    "mean": "Kinh nghiệm, trải nghiệm"
+},
+{
+    "word": "Fire",
+    "mean": "Sa thải, đuổi việc"
+},
+{
+    "word": "Interview",
+    "mean": "Phỏng vấn"
+},
+{
+    "word": "Meeting",
+    "mean": "Cuộc họp"
+},
+{
+    "word": "Offer",
+    "mean": "Lời đề nghị"
+},
+{
+    "word": "Office",
+    "mean": "Văn phòng"
+},
+{
+    "word": "Position",
+    "mean": "Vị trí, chức vụ"
+},
+{
+    "word": "Promote",
+    "mean": "Đề bạt, thăng chức"
+},
+{
+    "word": "Punishment",
+    "mean": "Hình phạt"
+},
+{
+    "word": "Report",
+    "mean": "Bản báo cáo"
+},
+{
+    "word": "Resign",
+    "mean": "Từ chức, nghỉ việc"
+},
+{
+    "word": "Responsibility",
+    "mean": "Trách nhiệm"
+},
+{
+    "word": "Retire",
+    "mean": "Nghỉ hưu"
+},
+{
+    "word": "Reward",
+    "mean": "Thưởng (cho ai đó)"
+},
+{
+    "word": "Salary",
+    "mean": "Lương, tiền công"
+},
+{
+    "word": "Succeed",
+    "mean": "(đạt được) Thành công"
+},
+{
+    "word": "Successful",
+    "mean": "Thành công"
+},
+{
+    "word": "Task",
+    "mean": "Nhiệm vụ, đầu việc"
+},
+{
+    "word": "Teamwork",
+    "mean": "Làm việc nhóm"
+},
+{
+    "word": "Applaud",
+    "mean": "Vỗ tay, tán thưởng"
+},
+{
+    "word": "Art",
+    "mean": "Nghệ thuật"
+},
+{
+    "word": "Artist",
+    "mean": "Nghệ sĩ"
+},
+{
+    "word": "Artwork",
+    "mean": "Tác phẩm nghệ thuật"
+},
+{
+    "word": "Audience",
+    "mean": "Khán giả"
+},
+{
+    "word": "Author",
+    "mean": "Tác giả"
+},
+{
+    "word": "Band",
+    "mean": "Ban nhạc"
+},
+{
+    "word": "Brush",
+    "mean": "Cọ vẽ"
+},
+{
+    "word": "Camera",
+    "mean": "Máy ảnh"
+},
+{
+    "word": "Canvas",
+    "mean": "Vải bạt (để vẽ tranh sơn dầu)"
+},
+{
+    "word": "Choir",
+    "mean": "Dàn hợp xướng"
+},
+{
+    "word": "Clap",
+    "mean": "Vỗ tay, hoan hô"
+},
+{
+    "word": "Collection",
+    "mean": "Bộ sưu tập"
+},
+{
+    "word": "Composer",
+    "mean": "Nhà soạn nhạc"
+},
+{
+    "word": "Concert",
+    "mean": "Buổi trình diễn âm nhạc"
+},
+{
+    "word": "Creative",
+    "mean": "tính sáng tạo"
+},
+{
+    "word": "Culture",
+    "mean": "Văn hóa"
+},
+{
+    "word": "Design",
+    "mean": "Thiết kế"
+},
+{
+    "word": "Drawing",
+    "mean": "Bức vẽ"
+},
+{
+    "word": "Exhibition",
+    "mean": "Triển lãm"
+},
+{
+    "word": "Film",
+    "mean": "Bộ phim"
+},
+{
+    "word": "Gallery",
+    "mean": "Phòng triển lãm, trưng bày"
+},
+{
+    "word": "Illustration",
+    "mean": "Hình minh họa"
+},
+{
+    "word": "Image",
+    "mean": "Bức ảnh"
+},
+{
+    "word": "Inspiration",
+    "mean": "Nguồn cảm hứng"
+},
+{
+    "word": "Inspire",
+    "mean": "Truyền cảm hứng"
+},
+{
+    "word": "Literature",
+    "mean": "Văn học, văn chương"
+},
+{
+    "word": "Masterpiece",
+    "mean": "Kiệt tác"
+},
+{
+    "word": "Model",
+    "mean": "Mẫu (vẽ), người mẫu"
+},
+{
+    "word": "Movie",
+    "mean": "Bộ phim"
+},
+{
+    "word": "Music",
+    "mean": "Âm nhạc"
+},
+{
+    "word": "Musical",
+    "mean": "Nhạc cụ"
+},
+{
+    "word": "Novel",
+    "mean": "Tiểu thuyết"
+},
+{
+    "word": "Painting",
+    "mean": "Bức vẽ, bức tranh"
+},
+{
+    "word": "Paper",
+    "mean": "Tờ giấy"
+},
+{
+    "word": "Pattern",
+    "mean": "Họa tiết"
+},
+{
+    "word": "Performance",
+    "mean": "Tiết mục, buổi trình diễn, phần thể hiện"
+},
+{
+    "word": "Photo",
+    "mean": "Bức ảnh"
+},
+{
+    "word": "Photographer",
+    "mean": "Nhiếp ảnh gia"
+},
+{
+    "word": "Poem",
+    "mean": "Bài thơ"
+},
+{
+    "word": "Poet",
+    "mean": "Nhà thơ, thi sĩ"
+},
+{
+    "word": "Poetry",
+    "mean": "Thơ ca"
+},
+{
+    "word": "Portrait",
+    "mean": "Tranh chân dung"
+},
+{
+    "word": "Pottery",
+    "mean": "Đồ gốm, nghệ thuật làm gốm"
+},
+{
+    "word": "Sculpture",
+    "mean": "Bức tượng điêu khắc"
+},
+{
+    "word": "Show",
+    "mean": "Buổi biểu diễn"
+},
+{
+    "word": "Singer",
+    "mean": "Ca sĩ"
+},
+{
+    "word": "Sketch",
+    "mean": "viết//vẽ nháp"
+},
+{
+    "word": "Song",
+    "mean": "Bài hát, ca khúc"
+},
+{
+    "word": "Story",
+    "mean": "Câu chuyện"
+},
+{
+    "word": "Studio",
+    "mean": "Xưởng (vẽ, làm phim, chụp ảnh,…)"
+},
+{
+    "word": "Theater",
+    "mean": "Nhà hát"
+},
+{
+    "word": "Video",
+    "mean": "Đoạn phim"
+},
+{
+    "word": "Access",
+    "mean": "Truy cập"
+},
+{
+    "word": "Application",
+    "mean": "Ứng dụng (điện thoại di động)"
+},
+{
+    "word": "Blog",
+    "mean": "Nhật ký trực tuyến"
+},
+{
+    "word": "Browser",
+    "mean": "Trình duyệt"
+},
+{
+    "word": "cable",
+    "mean": "dây"
+},
+{
+    "word": "Click",
+    "mean": "Nhấp chuột"
+},
+{
+    "word": "Computer",
+    "mean": "Máy tính để bàn"
+},
+{
+    "word": "Connection",
+    "mean": "Kết nối"
+},
+{
+    "word": "Data",
+    "mean": "Dữ liệu"
+},
+{
+    "word": "Delete",
+    "mean": "Xóa bỏ"
+},
+{
+    "word": "desktop",
+    "mean": "máy tính bàn"
+},
+{
+    "word": "Download",
+    "mean": "Tải xuống"
+},
+{
+    "word": "Ebook",
+    "mean": "Sách điện tử"
+},
+{
+    "word": "E-mail",
+    "mean": "thư điện tử"
+},
+{
+    "word": "Error",
+    "mean": "Lỗi"
+},
+{
+    "word": "Hardware",
+    "mean": "Phần cứng"
+},
+{
+    "word": "Headphone",
+    "mean": "Tai nghe"
+},
+{
+    "word": "Install",
+    "mean": "Cài đặt, lắp đặt"
+},
+{
+    "word": "Internet",
+    "mean": "Mạng internet"
+},
+{
+    "word": "Keyboard",
+    "mean": "Bàn phím máy tính"
+},
+{
+    "word": "keyboard",
+    "mean": "bàn phím"
+},
+{
+    "word": "Laptop",
+    "mean": "Máy tính xách tay"
+},
+{
+    "word": "laptop",
+    "mean": "máy tính xách tay"
+},
+{
+    "word": "Link",
+    "mean": "Đường dẫn"
+},
+{
+    "word": "Log",
+    "mean": "Đăng nhập"
+},
+{
+    "word": "monitor",
+    "mean": "phần màn hình"
+},
+{
+    "word": "Mouse",
+    "mean": "Chuột máy tính"
+},
+{
+    "word": "mouse",
+    "mean": "chuột"
+},
+{
+    "word": "Password",
+    "mean": "Mật khẩu"
+},
+{
+    "word": "PC",
+    "mean": "máy tính cá nhân"
+},
+{
+    "word": "power",
+    "mean": "cáp nguồn"
+},
+{
+    "word": "Printer",
+    "mean": "Máy in"
+},
+{
+    "word": "printer",
+    "mean": "máy in"
+},
+{
+    "word": "Program",
+    "mean": "Chương trình (máy tính)"
+},
+{
+    "word": "screen",
+    "mean": "màn hình"
+},
+{
+    "word": "Sign",
+    "mean": "Đăng kí"
+},
+{
+    "word": "Smartphone",
+    "mean": "Điện thoại thông minh"
+},
+{
+    "word": "Social",
+    "mean": "Mạng xã hội"
+},
+{
+    "word": "Software",
+    "mean": "Phần mềm"
+},
+{
+    "word": "Speaker",
+    "mean": "Loa"
+},
+{
+    "word": "speakers",
+    "mean": "loa"
+},
+{
+    "word": "Surf",
+    "mean": "Lướt (web)"
+},
+{
+    "word": "System",
+    "mean": "Hệ thống"
+},
+{
+    "word": "Tablet",
+    "mean": "Máy tính bảng"
+},
+{
+    "word": "Virus",
+    "mean": "vi rút"
+},
+{
+    "word": "Website",
+    "mean": "Trang web"
+},
+{
+    "word": "Wifi",
+    "mean": "mạng wifi"
+},
+{
+    "word": "Wireless",
+    "mean": "Không dây"
+},
+{
+    "word": "Answer",
+    "mean": "Câu trả lời"
+},
+{
+    "word": "Answerphone",
+    "mean": "Máy trả lời tự động"
+},
+{
+    "word": "Area",
+    "mean": "Mã vùng"
+},
+{
+    "word": "Battery",
+    "mean": "Pin"
+},
+{
+    "word": "Business",
+    "mean": "Cuộc gọi công việc"
+},
+{
+    "word": "Call",
+    "mean": "Cuộc gọi"
+},
+{
+    "word": "Call",
+    "mean": "Cây gọi điện thoại"
+},
+{
+    "word": "Cellphone",
+    "mean": "Điện thoại di động"
+},
+{
+    "word": "Communicate",
+    "mean": "Giao tiếp"
+},
+{
+    "word": "Contact",
+    "mean": "Địa chỉ liên hệ"
+},
+{
+    "word": "Cordless",
+    "mean": "Điện thoại không dây"
+},
+{
+    "word": "Country",
+    "mean": "Mã nước"
+},
+{
+    "word": "Dialling",
+    "mean": "Tín hiệu gọi"
+},
+{
+    "word": "Directory",
+    "mean": "Tổng đài báo số điện thoại"
+},
+{
+    "word": "Engaged",
+    "mean": "Máy bận"
+},
+{
+    "word": "Ex-directory",
+    "mean": "Số điện thoại không có trong danh bạ"
+},
+{
+    "word": "Extension",
+    "mean": "Số máy lẻ"
+},
+{
+    "word": "Fault",
+    "mean": "Lỗi"
+},
+{
+    "word": "Fax",
+    "mean": "Bản fax"
+},
+{
+    "word": "Hotline",
+    "mean": "Đường dây nóng"
+},
+{
+    "word": "Interference",
+    "mean": "Nhiễu tín hiệu"
+},
+{
+    "word": "Message",
+    "mean": "Tin nhắn"
+},
+{
+    "word": "Message",
+    "mean": "Gửi tin nhắn"
+},
+{
+    "word": "Missed",
+    "mean": "Cuộc gọi nhỡ"
+},
+{
+    "word": "Missed",
+    "mean": "Lỡ, nhỡ"
+},
+{
+    "word": "Mobile",
+    "mean": "Điện thoại di động"
+},
+{
+    "word": "Mobile",
+    "mean": "Sạc điện thoại di động"
+},
+{
+    "word": "Off",
+    "mean": "Máy kênh"
+},
+{
+    "word": "Operator",
+    "mean": "Người trực tổng đài"
+},
+{
+    "word": "Outside",
+    "mean": "Kết nối với số bên ngoài công ty"
+},
+{
+    "word": "Personal",
+    "mean": "Cuộc gọi cá nhân"
+},
+{
+    "word": "Phone",
+    "mean": "Danh bạ"
+},
+{
+    "word": "Phone",
+    "mean": "Cây gọi điện thoại"
+},
+{
+    "word": "Phone",
+    "mean": "Thẻ điện thoại"
+},
+{
+    "word": "Phone",
+    "mean": "Số điện thoại"
+},
+{
+    "word": "Receive",
+    "mean": "Nhận được"
+},
+{
+    "word": "Receiver",
+    "mean": "Ống nghe"
+},
+{
+    "word": "Ring",
+    "mean": "Cuộc gọi"
+},
+{
+    "word": "Ringtone",
+    "mean": "Nhạc chuông"
+},
+{
+    "word": "Send",
+    "mean": "Gửi đi"
+},
+{
+    "word": "Signal",
+    "mean": "Tín hiệu"
+},
+{
+    "word": "Signature",
+    "mean": "Chữ ký"
+},
+{
+    "word": "Smartphone",
+    "mean": "Điện thoại thông minh"
+},
+{
+    "word": "Stamp",
+    "mean": "Con tem"
+},
+{
+    "word": "Switchboard",
+    "mean": "Tổng đài"
+},
+{
+    "word": "Telephone",
+    "mean": "Điện thoại"
+},
+{
+    "word": "Telephone",
+    "mean": "Số điện thoại"
+},
+{
+    "word": "Telephone",
+    "mean": "Điện thoại để bàn"
+},
+{
+    "word": "Text",
+    "mean": "Tin nhắn văn bản"
+},
+{
+    "word": "Text",
+    "mean": "Tin nhắn"
+},
+{
+    "word": "To",
+    "mean": "Bị cắt tín hiệu"
+},
+{
+    "word": "To",
+    "mean": "Gọi điện"
+},
+{
+    "word": "To",
+    "mean": "Gọi lại cho ai"
+},
+{
+    "word": "To",
+    "mean": "Quay số"
+},
+{
+    "word": "To",
+    "mean": "Dập máy"
+},
+{
+    "word": "To",
+    "mean": "Để lại tin nhắn"
+},
+{
+    "word": "To",
+    "mean": "Bật loa"
+},
+{
+    "word": "To",
+    "mean": "Gọi điện"
+},
+{
+    "word": "To",
+    "mean": "Gửi tin nhắn"
+},
+{
+    "word": "To",
+    "mean": "Nhắn tin"
+},
+{
+    "word": "Wrong",
+    "mean": "Nhầm số"
+},
+{
+    "word": "Advertisement",
+    "mean": "Quảng cáo"
+},
+{
+    "word": "Article",
+    "mean": "Bài báo"
+},
+{
+    "word": "Broadcast",
+    "mean": "Chương trình phát sóng"
+},
+{
+    "word": "Cable",
+    "mean": "Dây cáp"
+},
+{
+    "word": "Channel",
+    "mean": "Kênh truyền hình"
+},
+{
+    "word": "Character",
+    "mean": "Nhân vật"
+},
+{
+    "word": "Column",
+    "mean": "Chuyên mục"
+},
+{
+    "word": "Commercial",
+    "mean": "Tính chất thương mại"
+},
+{
+    "word": "Daily",
+    "mean": "Có tính chất hàng ngày"
+},
+{
+    "word": "Editor",
+    "mean": "Biên tập viên"
+},
+{
+    "word": "Episode",
+    "mean": "Tập (phim)"
+},
+{
+    "word": "Headline",
+    "mean": "Tiêu đề"
+},
+{
+    "word": "Issue",
+    "mean": "Số, kì phát hành (báo)"
+},
+{
+    "word": "Live",
+    "mean": "Truyền hình trực tiếp"
+},
+{
+    "word": "Magazine",
+    "mean": "Tạp chí"
+},
+{
+    "word": "Monthly",
+    "mean": "Hàng tháng"
+},
+{
+    "word": "Newspaper",
+    "mean": "Báo giấy"
+},
+{
+    "word": "Press",
+    "mean": "Truyền thông, báo chí"
+},
+{
+    "word": "Publisher",
+    "mean": "Nhà xuất bản"
+},
+{
+    "word": "Reporter",
+    "mean": "Phóng viên"
+},
+{
+    "word": "Script",
+    "mean": "Kịch bản"
+},
+{
+    "word": "Subtitle",
+    "mean": "Phụ đề"
+},
+{
+    "word": "TV",
+    "mean": "Phim truyền hình"
+},
+{
+    "word": "TV",
+    "mean": "Chương trình truyền hình"
+},
+{
+    "word": "TV",
+    "mean": "Đài truyền hình"
+},
+{
+    "word": "Weekly",
+    "mean": "Hàng tuần"
+},
+{
+    "word": "Area",
+    "mean": "Diện tích"
+},
+{
+    "word": "Centimeter",
+    "mean": "Cen ti mét"
+},
+{
+    "word": "Distance",
+    "mean": "Khoảng cách"
+},
+{
+    "word": "Estimate",
+    "mean": "Ước lượng, dự đoán"
+},
+{
+    "word": "Gram",
+    "mean": "Gam"
+},
+{
+    "word": "Hectare",
+    "mean": "Hecta"
+},
+{
+    "word": "Height",
+    "mean": "Chiều cao"
+},
+{
+    "word": "Kilo",
+    "mean": "Kilogram, cân"
+},
+{
+    "word": "Kilometer",
+    "mean": "Ki lô mét"
+},
+{
+    "word": "Length",
+    "mean": "Chiều dài"
+},
+{
+    "word": "Liter",
+    "mean": "Lít"
+},
+{
+    "word": "Measure",
+    "mean": "Đo đạc"
+},
+{
+    "word": "Meter",
+    "mean": "Mét"
+},
+{
+    "word": "Mile",
+    "mean": "Dặm"
+},
+{
+    "word": "Ruler",
+    "mean": "Thước kẻ"
+},
+{
+    "word": "Unit",
+    "mean": "Đơn vị"
+},
+{
+    "word": "Weight",
+    "mean": "Cân nặng, khối lượng"
+},
+{
+    "word": "Width",
+    "mean": "Chiều rộng"
+},
+{
+    "word": "Fast",
+    "mean": "Nhanh"
+},
+{
+    "word": "Hasty",
+    "mean": "Vội vàng, nhanh chóng"
+},
+{
+    "word": "Hurry",
+    "mean": "Thúc giục, làm vội vàng"
+},
+{
+    "word": "Pace",
+    "mean": "Nhịp độ"
+},
+{
+    "word": "Prompt",
+    "mean": "Thúc đẩy"
+},
+{
+    "word": "Quick",
+    "mean": "Nhanh, mau"
+},
+{
+    "word": "Quicken",
+    "mean": "Làm tăng nhanh, đẩy mạnh"
+},
+{
+    "word": "Rapid",
+    "mean": "Nhanh chóng, mau lẹ"
+},
+{
+    "word": "Run",
+    "mean": "Chạy"
+},
+{
+    "word": "Rush",
+    "mean": "Vội vã thực hiện"
+},
+{
+    "word": "Slow",
+    "mean": "Chậm chạp"
+},
+{
+    "word": "Speed",
+    "mean": "Tốc độ"
+},
+{
+    "word": "Sprint",
+    "mean": "Chạy nhanh, chạy nước rút"
+},
+{
+    "word": "Swift",
+    "mean": "Mau, nhanh"
+},
+{
+    "word": "Velocity",
+    "mean": "Vận tốc"
+},
+{
+    "word": "Walk",
+    "mean": "Đi bộ, đi dạo"
+},
+{
+    "word": "Always",
+    "mean": "Luôn luôn"
+},
+{
+    "word": "Frequently",
+    "mean": "Thường xuyên"
+},
+{
+    "word": "Never",
+    "mean": "Không bao giờ"
+},
+{
+    "word": "Occasionally",
+    "mean": "Thi thoảng"
+},
+{
+    "word": "Often",
+    "mean": "Thường"
+},
+{
+    "word": "Rarely",
+    "mean": "Hiếm khi"
+},
+{
+    "word": "Sometimes",
+    "mean": "Đôi lúc"
+},
+{
+    "word": "Usually",
+    "mean": "Thông thường"
+},
+{
+    "word": "Absolutely",
+    "mean": "Tuyệt đối, hoàn toàn"
+},
+{
+    "word": "Actually",
+    "mean": "Thực ra, thực sự"
+},
+{
+    "word": "Almost",
+    "mean": "Gần như, hầu như"
+},
+{
+    "word": "Barely",
+    "mean": "Chỉ vừa đủ, gần như là không"
+},
+{
+    "word": "Completely",
+    "mean": "Hoàn toàn"
+},
+{
+    "word": "Enough",
+    "mean": "Đủ"
+},
+{
+    "word": "Entirely",
+    "mean": "Hoàn toàn, trọn vẹn"
+},
+{
+    "word": "Highly",
+    "mean": "Rất, hết sức, ở mức độ cao"
+},
+{
+    "word": "Just",
+    "mean": "Chỉ"
+},
+{
+    "word": "Nearly",
+    "mean": "Gần như, suýt"
+},
+{
+    "word": "Only",
+    "mean": "Duy nhất, chỉ một"
+},
+{
+    "word": "Perfectly",
+    "mean": "Một cách hoàn hảo"
+},
+{
+    "word": "Pretty",
+    "mean": "Khá là"
+},
+{
+    "word": "Quite",
+    "mean": "Khá là"
+},
+{
+    "word": "Rather",
+    "mean": "Phần nào, hơi, khá là"
+},
+{
+    "word": "Really",
+    "mean": "Thật sự"
+},
+{
+    "word": "Remarkably",
+    "mean": "Đặc biệt, phi thường"
+},
+{
+    "word": "Slightly",
+    "mean": "Hơi hơi, một chút"
+},
+{
+    "word": "Terribly",
+    "mean": "Tồi tệ, kinh khủng"
+},
+{
+    "word": "Too",
+    "mean": "Quá, rất, cũng"
+},
+{
+    "word": "Totally",
+    "mean": "Hoàn toàn"
+},
+{
+    "word": "Very",
+    "mean": "Rất"
+},
+{
+    "word": "Above",
+    "mean": "Phía trên"
+},
+{
+    "word": "Across",
+    "mean": "Đối diện (với cái gì)"
+},
+{
+    "word": "Along",
+    "mean": "Dọc theo"
+},
+{
+    "word": "Among",
+    "mean": "Ở giữa (3 vật thể trở lên)"
+},
+{
+    "word": "Around",
+    "mean": "Xung quanh"
+},
+{
+    "word": "At",
+    "mean": "Tại"
+},
+{
+    "word": "Behind",
+    "mean": "Phía sau"
+},
+{
+    "word": "Below",
+    "mean": "Bên dưới"
+},
+{
+    "word": "Between",
+    "mean": "Nằm giữa (2 vật)"
+},
+{
+    "word": "In",
+    "mean": "Trong"
+},
+{
+    "word": "In",
+    "mean": "Phía trước"
+},
+{
+    "word": "Inside",
+    "mean": "Phía trong"
+},
+{
+    "word": "Near",
+    "mean": "Gần với"
+},
+{
+    "word": "Next",
+    "mean": "Bên cạnh"
+},
+{
+    "word": "On",
+    "mean": "Trên"
+},
+{
+    "word": "Opposite",
+    "mean": "Đối diện"
+},
+{
+    "word": "Outside",
+    "mean": "Bên ngoài"
+},
+{
+    "word": "Over",
+    "mean": "Phía trên"
+},
+{
+    "word": "Towards",
+    "mean": "Về phía, hướng về"
+},
+{
+    "word": "Under",
+    "mean": "Phía dưới"
+},
+{
+    "word": "Up",
+    "mean": "Lên, ở trên"
+},
+{
+    "word": "Decline",
+    "mean": "Sự sụt giảm"
+},
+{
+    "word": "Decrease",
+    "mean": "Sự giảm sút"
+},
+{
+    "word": "Diminish",
+    "mean": "Giảm sút"
+},
+{
+    "word": "Drop",
+    "mean": "Sự sụt giảm"
+},
+{
+    "word": "Grow",
+    "mean": "Phát triển, tăng trưởng"
+},
+{
+    "word": "Increase",
+    "mean": "Sự tăng lên"
+},
+{
+    "word": "Lessen",
+    "mean": "Giảm bớt"
+},
+{
+    "word": "Raise",
+    "mean": "Sự tăng lên"
+},
+{
+    "word": "Reduce",
+    "mean": "Giảm"
+},
+{
+    "word": "Rise",
+    "mean": "Tăng lên"
+},
+{
+    "word": "Blusher",
+    "mean": "má hồng"
+},
+{
+    "word": "Blusher",
+    "mean": "phấn má hồng"
+},
+{
+    "word": "Bronzer",
+    "mean": "phấn tối màu để cắt mặt"
+},
+{
+    "word": "Brush",
+    "mean": "lược to, tròn"
+},
+{
+    "word": "Buff",
+    "mean": "bông đánh phấn"
+},
+{
+    "word": "Comb",
+    "mean": "lược nhỏ (lược 1 hàng)"
+},
+{
+    "word": "Concealer",
+    "mean": "kem che khuyết điểm"
+},
+{
+    "word": "Face",
+    "mean": "mặt nạ"
+},
+{
+    "word": "Foundation",
+    "mean": "kem nền"
+},
+{
+    "word": "Gel",
+    "mean": "dang gieo"
+},
+{
+    "word": "Highlighter",
+    "mean": "kem highlight"
+},
+{
+    "word": "Liquid",
+    "mean": "dạng lỏng, nước"
+},
+{
+    "word": "Moisturizer",
+    "mean": "kem dưỡng ẩm"
+},
+{
+    "word": "Pencil",
+    "mean": "dạng chì"
+},
+{
+    "word": "Powder",
+    "mean": "dạng phấn"
+},
+{
+    "word": "Powder",
+    "mean": "Phấn phủ"
+},
+{
+    "word": "Sheer",
+    "mean": "chất phấn trong, không nặng"
+},
+{
+    "word": "Skin",
+    "mean": "dung dịch săn da"
+},
+{
+    "word": "Bangle",
+    "mean": "vòng đeo (ở cổ tay hay cánh tay)"
+},
+{
+    "word": "Bracelet",
+    "mean": "vòng đeo tay"
+},
+{
+    "word": "Chain",
+    "mean": "chuỗi vòng cổ"
+},
+{
+    "word": "Charm",
+    "mean": "những vật trang trí nhỏ"
+},
+{
+    "word": "Charm",
+    "mean": "vòng đeo tay (gắn nhiều đồ trang trí nhỏ xung quanh"
+},
+{
+    "word": "Clasp",
+    "mean": "cái móc, cái gài"
+},
+{
+    "word": "Cufflink",
+    "mean": "khuy cài cổ tay áo (măng sét)"
+},
+{
+    "word": "Earrings",
+    "mean": "bông tai (hoa tai)"
+},
+{
+    "word": "Engagement",
+    "mean": "nhẫn đính hôn"
+},
+{
+    "word": "Hoop",
+    "mean": "vòng đeo Tai"
+},
+{
+    "word": "Medallion",
+    "mean": "mặt dây chuyền (tròn, bằng kim loại)"
+},
+{
+    "word": "Pearl",
+    "mean": "dây chuyền ngọc trai"
+},
+{
+    "word": "Pendant",
+    "mean": "mặt dây chuyền (bằng đá quý)"
+},
+{
+    "word": "Pin",
+    "mean": "cái ghim cài áo"
+},
+{
+    "word": "Signet",
+    "mean": "nhẫn có khắc hình phía trên"
+},
+{
+    "word": "Wedding",
+    "mean": "nhẫn cưới"
+},
+{
+    "word": "Able",
+    "mean": "có thể làm được điều gì đó"
+},
+{
+    "word": "Accurate",
+    "mean": "chính xác"
+},
+{
+    "word": "Actual",
+    "mean": "thực tế"
+},
+{
+    "word": "Additional",
+    "mean": "thêm vào"
+},
+{
+    "word": "Available",
+    "mean": "sẵn có"
+},
+{
+    "word": "Aware",
+    "mean": "nhận thức"
+},
+{
+    "word": "Basic",
+    "mean": "cơ bản"
+},
+{
+    "word": "Capable",
+    "mean": "có khả năng"
+},
+{
+    "word": "Competitive",
+    "mean": "cạnh tranh"
+},
+{
+    "word": "Critical",
+    "mean": "Quan trọng"
+},
+{
+    "word": "Cute",
+    "mean": "dễ thương"
+},
+{
+    "word": "Dangerous",
+    "mean": "Nguy hiểm"
+},
+{
+    "word": "Different",
+    "mean": "khác nhau"
+},
+{
+    "word": "Difficult",
+    "mean": "khó khăn"
+},
+{
+    "word": "Dramatic",
+    "mean": "ấn tượng"
+},
+{
+    "word": "Educational",
+    "mean": "giáo dục"
+},
+{
+    "word": "Efficient",
+    "mean": "hiệu quả"
+},
+{
+    "word": "Electrical",
+    "mean": "điện"
+},
+{
+    "word": "Electronic",
+    "mean": "điện tử"
+},
+{
+    "word": "Emotional",
+    "mean": "cảm xúc"
+},
+{
+    "word": "Entire",
+    "mean": "toàn bộ"
+},
+{
+    "word": "Environmental",
+    "mean": "môi trường"
+},
+{
+    "word": "Every",
+    "mean": "mỗi"
+},
+{
+    "word": "Expensive",
+    "mean": "đắt"
+},
+{
+    "word": "Federal",
+    "mean": "liên bang"
+},
+{
+    "word": "Financial",
+    "mean": "tài chính"
+},
+{
+    "word": "Foreign",
+    "mean": "nước ngoài"
+},
+{
+    "word": "Global",
+    "mean": "toàn cầu"
+},
+{
+    "word": "Happy",
+    "mean": "hạnh phúc"
+},
+{
+    "word": "Healthy",
+    "mean": "khỏe mạnh"
+},
+{
+    "word": "Helpful",
+    "mean": "hữu ích"
+},
+{
+    "word": "Historical",
+    "mean": "tính lịch sử"
+},
+{
+    "word": "Hot",
+    "mean": "nóng"
+},
+{
+    "word": "Huge",
+    "mean": "lớn"
+},
+{
+    "word": "Hungry",
+    "mean": "đói"
+},
+{
+    "word": "Immediate",
+    "mean": "ngay lập tức"
+},
+{
+    "word": "Important",
+    "mean": "Quan trọng"
+},
+{
+    "word": "Impossible",
+    "mean": "không thể"
+},
+{
+    "word": "Intelligent",
+    "mean": "thông minh"
+},
+{
+    "word": "Interesting",
+    "mean": "thú vị"
+},
+{
+    "word": "Known",
+    "mean": "được biết đến"
+},
+{
+    "word": "Large",
+    "mean": "lớn"
+},
+{
+    "word": "Legal",
+    "mean": "pháp lý"
+},
+{
+    "word": "Medical",
+    "mean": "y tế"
+},
+{
+    "word": "Mental",
+    "mean": "thuộc tinh thần"
+},
+{
+    "word": "Nice",
+    "mean": "đẹp"
+},
+{
+    "word": "Numerous",
+    "mean": "nhiều"
+},
+{
+    "word": "Old",
+    "mean": "cũ"
+},
+{
+    "word": "Political",
+    "mean": "chính trị"
+},
+{
+    "word": "Poor",
+    "mean": "người nghèo"
+},
+{
+    "word": "Popular",
+    "mean": "phổ biến"
+},
+{
+    "word": "Powerful",
+    "mean": "mạnh mẽ"
+},
+{
+    "word": "Practical",
+    "mean": "thực tế"
+},
+{
+    "word": "Pregnant",
+    "mean": "mang thai"
+},
+{
+    "word": "Psychological",
+    "mean": "tâm lý"
+},
+{
+    "word": "Rare",
+    "mean": "hiếm"
+},
+{
+    "word": "Recent",
+    "mean": "gần đây"
+},
+{
+    "word": "Relevant",
+    "mean": "có liên quan"
+},
+{
+    "word": "Responsible",
+    "mean": "chịu trách nhiệm"
+},
+{
+    "word": "Scared",
+    "mean": "sợ hãi"
+},
+{
+    "word": "Serious",
+    "mean": "nghiêm trọng"
+},
+{
+    "word": "Several",
+    "mean": "vài"
+},
+{
+    "word": "Severe",
+    "mean": "nghiêm trọng"
+},
+{
+    "word": "Significant",
+    "mean": "đáng kể"
+},
+{
+    "word": "Similar",
+    "mean": "tương tự"
+},
+{
+    "word": "Strong",
+    "mean": "mạnh mẽ"
+},
+{
+    "word": "Successful",
+    "mean": "thành công"
+},
+{
+    "word": "Sufficient",
+    "mean": "đủ"
+},
+{
+    "word": "Suitable",
+    "mean": "phù hợp"
+},
+{
+    "word": "Technical",
+    "mean": "kỹ thuật"
+},
+{
+    "word": "Traditional",
+    "mean": "truyền thống"
+},
+{
+    "word": "Typical",
+    "mean": "điển hình"
+},
+{
+    "word": "United",
+    "mean": "liên kết, hợp nhất"
+},
+{
+    "word": "Unusual",
+    "mean": "bất thường"
+},
+{
+    "word": "Used",
+    "mean": "được sử dụng"
+},
+{
+    "word": "Useful",
+    "mean": "hữu ích"
+},
+{
+    "word": "Various",
+    "mean": "khác nhau, không giống nhau"
+},
+{
+    "word": "Whose",
+    "mean": "có"
+},
+{
+    "word": "Willing",
+    "mean": "sẵn sàng"
+},
+{
+    "word": "Wonderful",
+    "mean": "tuyệt vời"
+},
+{
+    "word": "Backpack",
+    "mean": "ba lô"
+},
+{
+    "word": "Bag",
+    "mean": "cặp sách"
+},
+{
+    "word": "Ballpoint",
+    "mean": "bút bi"
+},
+{
+    "word": "Beaker",
+    "mean": "cốc bêse (dùng trong phòng thí nghiệm)"
+},
+{
+    "word": "Binder",
+    "mean": "bìa rời (báo, tạp chí)"
+},
+{
+    "word": "Book",
+    "mean": "vở"
+},
+{
+    "word": "Bookcase",
+    "mean": "giá để sách"
+},
+{
+    "word": "Board",
+    "mean": "bảng"
+},
+{
+    "word": "Blackboard",
+    "mean": "bảng đen"
+},
+{
+    "word": "Carbon",
+    "mean": "giấy than"
+},
+{
+    "word": "Calculator",
+    "mean": "máy tính cầm tay"
+},
+{
+    "word": "Clamp",
+    "mean": "cái kẹp"
+},
+{
+    "word": "Clock",
+    "mean": "đồng hồ treo tường"
+},
+{
+    "word": "Chair",
+    "mean": "cái ghế"
+},
+{
+    "word": "Chalk",
+    "mean": "phấn viết"
+},
+{
+    "word": "Coloured",
+    "mean": "bút chì màu"
+},
+{
+    "word": "Compass",
+    "mean": "com-pa"
+},
+{
+    "word": "Computer",
+    "mean": "máy tính bàn"
+},
+{
+    "word": "Crayon",
+    "mean": "bút màu sáp"
+},
+{
+    "word": "Cutter",
+    "mean": "dao rọc giấy"
+},
+{
+    "word": "Desk",
+    "mean": "bàn học"
+},
+{
+    "word": "Dictionary",
+    "mean": "từ điển"
+},
+{
+    "word": "Dossier",
+    "mean": "hồ sơ"
+},
+{
+    "word": "Draft",
+    "mean": "giấy nháp"
+},
+{
+    "word": "Duster",
+    "mean": "khăn lau bảng"
+},
+{
+    "word": "Eraser",
+    "mean": "cái tẩy"
+},
+{
+    "word": "Index",
+    "mean": "giấy ghi có dòng kẻ."
+},
+{
+    "word": "Felt",
+    "mean": "bút dạ"
+},
+{
+    "word": "File",
+    "mean": "tập hồ sơ"
+},
+{
+    "word": "File",
+    "mean": "tủ đựng tài liệu"
+},
+{
+    "word": "Flash",
+    "mean": "thẻ ghi chú"
+},
+{
+    "word": "Funnel",
+    "mean": "Cái phễu (thường dùng trong phòng thí nghiệm)"
+},
+{
+    "word": "Globe",
+    "mean": "quả địa cầu"
+},
+{
+    "word": "Glue",
+    "mean": "Keo dán hồ"
+},
+{
+    "word": "Highlighter",
+    "mean": "bút đánh dấu màu"
+},
+{
+    "word": "Magnifying",
+    "mean": "Kính lúp"
+},
+{
+    "word": "Map",
+    "mean": "bản đồ"
+},
+{
+    "word": "Notebook",
+    "mean": "sổ ghi chép"
+},
+{
+    "word": "Paint",
+    "mean": "sơn, màu"
+},
+{
+    "word": "Paint",
+    "mean": "bút tô màu"
+},
+{
+    "word": "Palette",
+    "mean": "bảng màu"
+},
+{
+    "word": "Paper",
+    "mean": "giấy viết"
+},
+{
+    "word": "Paper",
+    "mean": "kẹp giấy"
+},
+{
+    "word": "Paper",
+    "mean": "dụng cụ kẹp giữ giấy"
+},
+{
+    "word": "Pen",
+    "mean": "bút mực"
+},
+{
+    "word": "Pencil",
+    "mean": "bút chì"
+},
+{
+    "word": "Pencil",
+    "mean": "hộp bút"
+},
+{
+    "word": "Pencil",
+    "mean": "gọt bút chì"
+},
+{
+    "word": "Pins",
+    "mean": "đinh ghim, kẹp"
+},
+{
+    "word": "Post-it",
+    "mean": "giấy nhớ"
+},
+{
+    "word": "Protractor",
+    "mean": "thước đo góc"
+},
+{
+    "word": "Ribbon",
+    "mean": "dải ruy-băng"
+},
+{
+    "word": "Ruler",
+    "mean": "thước kẻ"
+},
+{
+    "word": "Scissors",
+    "mean": "cái kéo"
+},
+{
+    "word": "Scotch",
+    "mean": "băng dính trong suốt"
+},
+{
+    "word": "Set",
+    "mean": "Ê-ke"
+},
+{
+    "word": "Stapler",
+    "mean": "dụng cụ dập ghim"
+},
+{
+    "word": "Staple",
+    "mean": "cái gỡ ghim bấm"
+},
+{
+    "word": "Stencil",
+    "mean": "giấy nến"
+},
+{
+    "word": "Tape",
+    "mean": "thước cuộn"
+},
+{
+    "word": "Test",
+    "mean": "ống thí nghiệm"
+},
+{
+    "word": "Textbook",
+    "mean": "sách giáo khoa"
+},
+{
+    "word": "Thumbtack",
+    "mean": "đinh ghim (kích thước ngắn)"
+},
+{
+    "word": "Watercolour",
+    "mean": "màu nước"
+},
+{
+    "word": "(cd)composer",
+    "mean": "nhà soạn nhạc"
+},
+{
+    "word": "Accordion",
+    "mean": "phong cầm, đàn xếp"
+},
+{
+    "word": "Audience",
+    "mean": "khán giả"
+},
+{
+    "word": "Bagpipe",
+    "mean": "kèn tú"
+},
+{
+    "word": "Bass",
+    "mean": "đàn ghi ta bass"
+},
+{
+    "word": "Bass",
+    "mean": "nhịp, phách"
+},
+{
+    "word": "Bassist",
+    "mean": "nhạc công guitar"
+},
+{
+    "word": "Blues",
+    "mean": "dòng nhạc du nhập sang Bắc Mỹ từ Tây Phi Châu"
+},
+{
+    "word": "Bolero",
+    "mean": "nhạc vàng, nhạc bolero"
+},
+{
+    "word": "Cassette",
+    "mean": "băng cát-xét"
+},
+{
+    "word": "Cassette",
+    "mean": "máy nghe băng"
+},
+{
+    "word": "Cello",
+    "mean": "hồ cầm"
+},
+{
+    "word": "Choral",
+    "mean": "hợp xướng, đồng ca"
+},
+{
+    "word": "Clarinet",
+    "mean": "kèn "
+},
+{
+    "word": "Clarinet",
+    "mean": "kèn clarinet"
+},
+{
+    "word": "Clarinet",
+    "mean": "nhạc cổ điển"
+},
+{
+    "word": "Compact",
+    "mean": "đĩa thu âm "
+},
+{
+    "word": "Concerto",
+    "mean": "bài nhạc hợp tấu"
+},
+{
+    "word": "Conductor",
+    "mean": "người chỉ huy dàn nhạc"
+},
+{
+    "word": "Country",
+    "mean": "dòng nhạc đồng quê"
+},
+{
+    "word": "Dance",
+    "mean": "nhạc dance, nhạc nhảy"
+},
+{
+    "word": "Drum",
+    "mean": "trống"
+},
+{
+    "word": "Drummer",
+    "mean": "tay trống"
+},
+{
+    "word": "Duet",
+    "mean": "song ca"
+},
+{
+    "word": "EDM",
+    "mean": "nhạc nhảy điện tử (electronic dance music)"
+},
+{
+    "word": "Flautist",
+    "mean": "người thổi sáo (ở Mỹ gọi là flutist)"
+},
+{
+    "word": "Flute",
+    "mean": "sáo"
+},
+{
+    "word": "Gong",
+    "mean": "cồng"
+},
+{
+    "word": "Guitar",
+    "mean": "ghi ta"
+},
+{
+    "word": "Hard",
+    "mean": "nhạc rock nặng"
+},
+{
+    "word": "Harmonica",
+    "mean": "kèn harmonica"
+},
+{
+    "word": "Harmony",
+    "mean": "hòa âm"
+},
+{
+    "word": "Harp",
+    "mean": "hạc cầm, đàn harp"
+},
+{
+    "word": "Headphones",
+    "mean": "tai nghe"
+},
+{
+    "word": "Hip",
+    "mean": "dòng nhạc hip hop"
+},
+{
+    "word": "Hymn",
+    "mean": "thánh ca"
+},
+{
+    "word": "Instrument",
+    "mean": "nhạc cụ"
+},
+{
+    "word": "Jazz",
+    "mean": "nhạc Jazz"
+},
+{
+    "word": "Jingle",
+    "mean": "điệu nhạc ngắn dễ nhớ"
+},
+{
+    "word": "Keyboard",
+    "mean": "nhạc cụ điện tử có bàn phím như piano điện, organ"
+},
+{
+    "word": "Lullaby",
+    "mean": "những bài hát "
+},
+{
+    "word": "Mini",
+    "mean": "nhạc đám cưới"
+},
+{
+    "word": "Musician",
+    "mean": "nhạc sĩ"
+},
+{
+    "word": "National",
+    "mean": "Quốc Ca"
+},
+{
+    "word": "Note",
+    "mean": "nốt nhạc"
+},
+{
+    "word": "Opera",
+    "mean": "nhạc kịch"
+},
+{
+    "word": "Orchestra",
+    "mean": "dàn nhạc"
+},
+{
+    "word": "Organ",
+    "mean": "đàn organ"
+},
+{
+    "word": "Organist",
+    "mean": "nghệ sĩ organ"
+},
+{
+    "word": "Percussion",
+    "mean": "nhạc cụ chơi bằng dùi hoặc bàn ta"
+},
+{
+    "word": "Performer",
+    "mean": "người biểu diễn"
+},
+{
+    "word": "Pianist",
+    "mean": "nghệ sĩ dương cầm"
+},
+{
+    "word": "Piano",
+    "mean": "đàn piano"
+},
+{
+    "word": "Pop",
+    "mean": "nhạc po"
+},
+{
+    "word": "R&B",
+    "mean": "dòng nhạc Rhythm and Blues"
+},
+{
+    "word": "Rap",
+    "mean": "nhạc rap"
+},
+{
+    "word": "Rapper",
+    "mean": "người hát rap"
+},
+{
+    "word": "Recording",
+    "mean": "nhạc rock"
+},
+{
+    "word": "Mandolin",
+    "mean": "măng cầm"
+},
+{
+    "word": "Saxophone",
+    "mean": "kèn saxophone"
+},
+{
+    "word": "Saxophonist",
+    "mean": "ca sĩ "
+},
+{
+    "word": "sing",
+    "mean": "hát"
+},
+{
+    "word": "Solo",
+    "mean": "độc diễn"
+},
+{
+    "word": "sonata",
+    "mean": "bản xô-nát, soạn cho piano hoặc piano và violin"
+},
+{
+    "word": "Song",
+    "mean": "bài hát"
+},
+{
+    "word": "soul",
+    "mean": "nhạc linh hồn, có nguồn gốc từ nhạc phúc âm và R&B"
+},
+{
+    "word": "Speaker",
+    "mean": "sân khấu "
+},
+{
+    "word": "string",
+    "mean": "nhạc cụ có dây"
+},
+{
+    "word": "Symphony",
+    "mean": "bản giao hưởng"
+},
+{
+    "word": "Theme_song",
+    "mean": "nhạc nền cho phim"
+},
+{
+    "word": "Traditional_Vietnamese_musical",
+    "mean": "cải lương"
+},
+{
+    "word": "Trombonist",
+    "mean": "nhạc công kèn trôm-bôn"
+},
+{
+    "word": "Trumpeter",
+    "mean": "nghệ sĩ"
+},
+{
+    "word": "Trumpet",
+    "mean": "kèn trumpet"
+},
+{
+    "word": "Turntable",
+    "mean": "bàn quay đĩa hát"
+},
+{
+    "word": "Ukulele",
+    "mean": "đàn ukulele"
+},
+{
+    "word": "Viola",
+    "mean": "vĩ cầm lớn"
+},
+{
+    "word": "Violin",
+    "mean": "vĩ cầm"
+},
+{
+    "word": "Voice",
+    "mean": "giọng nói"
+},
+{
+    "word": "Walkman",
+    "mean": "máy nghe nhạc"
+},
+{
+    "word": "Xylophone",
+    "mean": "mộc cầm"
+},
+{
+    "word": "Ambarella",
+    "mean": "Quả cóc"
+},
+{
+    "word": "Apple",
+    "mean": "Táo"
+},
+{
+    "word": "Apricot",
+    "mean": "Mơ"
+},
+{
+    "word": "Avocado",
+    "mean": "Bơ"
+},
+{
+    "word": "Banana",
+    "mean": "Quả chuối"
+},
+{
+    "word": "Bell_fruit",
+    "mean": "Mận miền nam"
+},
+{
+    "word": "Cucumber",
+    "mean": "Dưa leo, dưa chuột"
+},
+{
+    "word": "Custard_apple",
+    "mean": "Quả na, mãng cầu ta (mãng cầu giống việt nam)"
+},
+{
+    "word": "Dragon_fruit",
+    "mean": "Thanh long"
+},
+{
+    "word": "Durian",
+    "mean": "Sầu riêng"
+},
+{
+    "word": "Granadilla",
+    "mean": "Chanh dây"
+},
+{
+    "word": "Grape",
+    "mean": "Nho"
+},
+{
+    "word": "Guava",
+    "mean": "Ổi"
+},
+{
+    "word": "Jackfruit",
+    "mean": "Mít"
+},
+{
+    "word": "Kumquat",
+    "mean": "Tắc"
+},
+{
+    "word": "Longan",
+    "mean": "Quả nhãn"
+},
+{
+    "word": "Lychee",
+    "mean": "Quả vải"
+},
+{
+    "word": "Mandarin",
+    "mean": "Quýt"
+},
+{
+    "word": "Mango",
+    "mean": "Xoài"
+},
+{
+    "word": "Mangosteen",
+    "mean": "Măng cụt"
+},
+{
+    "word": "Papaya",
+    "mean": "Đu đủ"
+},
+{
+    "word": "Peach",
+    "mean": "Đào"
+},
+{
+    "word": "Pear",
+    "mean": "Quả lê"
+},
+{
+    "word": "Persimmon",
+    "mean": "Quả hồng"
+},
+{
+    "word": "Pineapple",
+    "mean": "Quả thơm, quả dứa, khóm"
+},
+{
+    "word": "Plum",
+    "mean": "Mận Bắc"
+},
+{
+    "word": "Pomegranate",
+    "mean": "Lựu"
+},
+{
+    "word": "Pomelo",
+    "mean": "Quả bưởi"
+},
+{
+    "word": "Rambutan",
+    "mean": "Chôm chôm"
+},
+{
+    "word": "Sapodilla",
+    "mean": "Sa bô chê, hồng xiêm"
+},
+{
+    "word": "Soursop",
+    "mean": "Mãng cầu xiêm"
+},
+{
+    "word": "Star",
+    "mean": "Quả vú sữa."
+},
+{
+    "word": "Star",
+    "mean": "uả khế"
+},
+{
+    "word": "Strawberry",
+    "mean": "Dâu tây"
+},
+{
+    "word": "Tamarind",
+    "mean": "Me"
+},
+{
+    "word": "Watermelon",
+    "mean": "Dưa hấu"
+},
+{
+    "word": "Asparagus",
+    "mean": "măng tây"
+},
+{
+    "word": "Bean",
+    "mean": "giá"
+},
+{
+    "word": "Broccoli",
+    "mean": "bông cải xanh"
+},
+{
+    "word": "Cauliflower",
+    "mean": "súp lơ"
+},
+{
+    "word": "peanut",
+    "mean": "Đậu phộng (lạc)"
+},
+{
+    "word": "Herb",
+    "mean": "cây cỏ nói chung"
+},
+{
+    "word": "Lettuce",
+    "mean": "rau xà lách"
+},
+{
+    "word": "Mint",
+    "mean": "rau xà lách"
+},
+{
+    "word": "Radish",
+    "mean": "củ cải"
+},
+{
+    "word": "Sesame",
+    "mean": "củ cải"
+},
+{
+    "word": "Spinach",
+    "mean": "cải bó xôi"
+},
+{
+    "word": "Turnip",
+    "mean": "củ cải"
+},
+{
+    "word": "Breeze",
+    "mean": "Gió nhẹ"
+},
+{
+    "word": "Celsius",
+    "mean": "Độ C"
+},
+{
+    "word": "Acid",
+    "mean": "mưa axit "
+},
+{
+    "word": "Alternative",
+    "mean": "năng lượng thay thế "
+},
+{
+    "word": "Atmosphere",
+    "mean": "khí quyển "
+},
+{
+    "word": "Permission",
+    "mean": "sự bốc ra "
+},
+{
+    "word": "Biodegradable",
+    "mean": "có thể phân hủy"
+},
+{
+    "word": "Biodiversity",
+    "mean": "sự đa dạng sinh học "
+},
+{
+    "word": "Carbon",
+    "mean": "dấu chân các-bon "
+},
+{
+    "word": "Catastrophe",
+    "mean": "thảm họa "
+},
+{
+    "word": "Clean",
+    "mean": "dọn dẹp"
+},
+{
+    "word": "Climate",
+    "mean": "Khí hậu"
+},
+{
+    "word": "Climate",
+    "mean": "hiện tượng biến đổi khí hậu "
+},
+{
+    "word": "Cloud",
+    "mean": "Mây"
+},
+{
+    "word": "Cloudy",
+    "mean": "Nhiều mây"
+},
+{
+    "word": "Conserve",
+    "mean": "bảo tồn"
+},
+{
+    "word": "Contaminated",
+    "mean": "làm bẩn "
+},
+{
+    "word": "Creature",
+    "mean": "sinh vật "
+},
+{
+    "word": "Degree",
+    "mean": "Độ"
+},
+{
+    "word": "Desertification",
+    "mean": "quá trình sa mạc hóa "
+},
+{
+    "word": "Destroy",
+    "mean": "phá hủy "
+},
+{
+    "word": "Destruction",
+    "mean": "sự phá hủy "
+},
+{
+    "word": "Die",
+    "mean": "chết dần "
+},
+{
+    "word": "Disappear",
+    "mean": "biến mất "
+},
+{
+    "word": "Disposal",
+    "mean": "sự vứt bỏ "
+},
+{
+    "word": "Drizzle",
+    "mean": "Mưa phùn"
+},
+{
+    "word": "Dry",
+    "mean": "khô cạn "
+},
+{
+    "word": "Dull",
+    "mean": "Nhiều mây"
+},
+{
+    "word": "Dump",
+    "mean": "vứt bỏ "
+},
+{
+    "word": "Dust",
+    "mean": "bụi bẩn "
+},
+{
+    "word": "Earthquake",
+    "mean": "cơn động đất "
+},
+{
+    "word": "Ecology",
+    "mean": "sinh thái học "
+},
+{
+    "word": "Ecosystem",
+    "mean": "hệ sinh thái "
+},
+{
+    "word": "Emit",
+    "mean": "bốc ra "
+},
+{
+    "word": "Endangered",
+    "mean": "các loài "
+},
+{
+    "word": "Environment",
+    "mean": "môi trường "
+},
+{
+    "word": "Environment",
+    "mean": "thân thiện với môi trường"
+},
+{
+    "word": "Environmentalist",
+    "mean": "nhà môi trường học "
+},
+{
+    "word": "Erode",
+    "mean": "xói mòn "
+},
+{
+    "word": "Erosion",
+    "mean": "sự xói mòn "
+},
+{
+    "word": "Exhaust",
+    "mean": "khí thải "
+},
+{
+    "word": "Fahrenheit",
+    "mean": "Độ F"
+},
+{
+    "word": "Famine",
+    "mean": "nạn đói "
+},
+{
+    "word": "Fertilizer",
+    "mean": "phân bón "
+},
+{
+    "word": "Flood",
+    "mean": "Lũ"
+},
+{
+    "word": "Fog",
+    "mean": "Sương mù"
+},
+{
+    "word": "Foggy",
+    "mean": "Nhiều sương mù"
+},
+{
+    "word": "Fossil",
+    "mean": "nhiên liệu hóa thạch "
+},
+{
+    "word": "Frost",
+    "mean": "Băng giá"
+},
+{
+    "word": "Frosty",
+    "mean": "Giá rét"
+},
+{
+    "word": "Global",
+    "mean": "hiện tượng ấm lên toàn cầu "
+},
+{
+    "word": "Greenhouse",
+    "mean": "hiệu ứng nhà kính "
+},
+{
+    "word": "Hail",
+    "mean": "Mưa đá"
+},
+{
+    "word": "Hailstone",
+    "mean": "Cục mưa đá"
+},
+{
+    "word": "Harmful",
+    "mean": "gây hại "
+},
+{
+    "word": "Hazardous",
+    "mean": "nguy hiểm"
+},
+{
+    "word": "Heat",
+    "mean": "Đợt nóng"
+},
+{
+    "word": "Humid",
+    "mean": "Ẩm"
+},
+{
+    "word": "Humidity",
+    "mean": "Độ ẩm"
+},
+{
+    "word": "Hurricane",
+    "mean": "Cuồng phong"
+},
+{
+    "word": "c",
+    "mean": "Cuồng phong"
+},
+{
+    "word": "Ice",
+    "mean": "Băng, đá"
+},
+{
+    "word": "Icy",
+    "mean": "Đóng băng"
+},
+{
+    "word": "Industrial",
+    "mean": "chất thải công nghiệp "
+},
+{
+    "word": "Leak",
+    "mean": "rò rỉ "
+},
+{
+    "word": "Lightning",
+    "mean": "Chớp"
+},
+{
+    "word": "Man-made",
+    "mean": "nhân tạo"
+},
+{
+    "word": "Natural",
+    "mean": "tài nguyên thiên nhiên "
+},
+{
+    "word": "Oil",
+    "mean": "sự cố tràn dầu "
+},
+{
+    "word": "Organic",
+    "mean": "hữu cơ"
+},
+{
+    "word": "Overcast",
+    "mean": "U ám"
+},
+{
+    "word": "Ozone",
+    "mean": "tầng ôzôn "
+},
+{
+    "word": "Pesticide",
+    "mean": "thuốc trừ sâu "
+},
+{
+    "word": "Pollute",
+    "mean": "làm ô nhiễm "
+},
+{
+    "word": "Polluted",
+    "mean": "bị ô nhiễm "
+},
+{
+    "word": "Pollution",
+    "mean": "sự ô nhiễm "
+},
+{
+    "word": "Preservation",
+    "mean": "sự bảo tồn "
+},
+{
+    "word": "Protect",
+    "mean": "bảo vệ"
+},
+{
+    "word": "Purify",
+    "mean": "thanh lọc "
+},
+{
+    "word": "Rain",
+    "mean": "Mưa"
+},
+{
+    "word": "Rainbow",
+    "mean": "Cầu vồng"
+},
+{
+    "word": "Raindrop",
+    "mean": "Hạt mưa"
+},
+{
+    "word": "Rainfall",
+    "mean": "Lượng mưa"
+},
+{
+    "word": "Rainforest",
+    "mean": "rừng nhiệt đới "
+},
+{
+    "word": "Recycle",
+    "mean": "tái chế "
+},
+{
+    "word": "Renewable",
+    "mean": "có thể phục hồi "
+},
+{
+    "word": "Reusable",
+    "mean": "có thể tái sử dụng "
+},
+{
+    "word": "Reuse",
+    "mean": "tái sử dụng"
+},
+{
+    "word": "Sea",
+    "mean": "mực nước biển "
+},
+{
+    "word": "Sewage",
+    "mean": "nước thải "
+},
+{
+    "word": "Sleet",
+    "mean": "Mưa tuyết"
+},
+{
+    "word": "Snow",
+    "mean": "Tuyết"
+},
+{
+    "word": "Snowflake",
+    "mean": "Bông tuyết"
+},
+{
+    "word": "Soil",
+    "mean": "đất "
+},
+{
+    "word": "Solar",
+    "mean": "pin mặt trời "
+},
+{
+    "word": "Solar",
+    "mean": "năng lượng mặt trời "
+},
+{
+    "word": "Storm",
+    "mean": "Bão"
+},
+{
+    "word": "Stormy",
+    "mean": "Có bão"
+},
+{
+    "word": "Strong",
+    "mean": "Cơn gió mạnh"
+},
+{
+    "word": "Sun",
+    "mean": "Mặt trời"
+},
+{
+    "word": "Sunshine",
+    "mean": "Ánh nắng"
+},
+{
+    "word": "Sustainable",
+    "mean": "bền vững"
+},
+{
+    "word": "Temperature",
+    "mean": "Nhiệt độ"
+},
+{
+    "word": "Thermometer",
+    "mean": "Nhiệt kế"
+},
+{
+    "word": "Threaten",
+    "mean": "đe dọa "
+},
+{
+    "word": "Thunder",
+    "mean": "Sấm"
+},
+{
+    "word": "Thunderstorm",
+    "mean": "Bão có sấm sét"
+},
+{
+    "word": "To",
+    "mean": "Đóng băng"
+},
+{
+    "word": "To",
+    "mean": "Tan"
+},
+{
+    "word": "To",
+    "mean": "Mưa"
+},
+{
+    "word": "To",
+    "mean": "Tuyết rơi"
+},
+{
+    "word": "To",
+    "mean": "Tan"
+},
+{
+    "word": "Tornado",
+    "mean": "Lốc xoáy"
+},
+{
+    "word": "Toxic",
+    "mean": "độc hại "
+},
+{
+    "word": "Urbanization",
+    "mean": "quá trình đô thị hóa"
+},
+{
+    "word": "Weather",
+    "mean": "Dự báo thời tiết"
+},
+{
+    "word": "Wet",
+    "mean": "Ướt"
+},
+{
+    "word": "Wind",
+    "mean": "Gió"
+},
+{
+    "word": "Windy",
+    "mean": "Có gió"
+},
+{
+    "word": "Bright",
+    "mean": "màu xanh nước biển tươi."
+},
+{
+    "word": "Attractive",
+    "mean": "quyến rũ, hấp dẫn"
+},
+{
+    "word": "Ankle",
+    "mean": "Mắt cá chân"
+},
+{
+    "word": "Arch",
+    "mean": "Lòng bàn chân"
+},
+{
+    "word": "Big",
+    "mean": "Ngón chân cái"
+},
+{
+    "word": "Blood",
+    "mean": "Máu"
+},
+{
+    "word": "Breast",
+    "mean": "Ngực (phụ nữ)"
+},
+{
+    "word": "Calf",
+    "mean": "Bắp chân"
+},
+{
+    "word": "Cheek",
+    "mean": "Má"
+},
+{
+    "word": "Chin",
+    "mean": "Cằm"
+},
+{
+    "word": "Elbow",
+    "mean": "Khuỷu tay"
+},
+{
+    "word": "Eyebrow",
+    "mean": "Lông mày"
+},
+{
+    "word": "Eyelash",
+    "mean": "Lông mi"
+},
+{
+    "word": "Foot",
+    "mean": "Bàn chân"
+},
+{
+    "word": "Hand",
+    "mean": "Bàn tay"
+},
+{
+    "word": "Heel",
+    "mean": "Gót chân"
+},
+{
+    "word": "Index",
+    "mean": "Ngón trỏ"
+},
+{
+    "word": "Jaw",
+    "mean": "Quai hàm"
+},
+{
+    "word": "Knee",
+    "mean": "Đầu gối"
+},
+{
+    "word": "Knuckle",
+    "mean": "Khớp, đốt ngón tay"
+},
+{
+    "word": "Little",
+    "mean": "Ngón út"
+},
+{
+    "word": "Middle",
+    "mean": "Ngón giữa"
+},
+{
+    "word": "Muscle",
+    "mean": "Cơ bắp"
+},
+{
+    "word": "Neck",
+    "mean": "Cổ"
+},
+{
+    "word": "Palm",
+    "mean": "Lòng bàn tay"
+},
+{
+    "word": "Ring",
+    "mean": "Ngón đeo nhẫn"
+},
+{
+    "word": "Shoulder",
+    "mean": "Vai"
+},
+{
+    "word": "Sweat",
+    "mean": "Mồ hôi"
+},
+{
+    "word": "Thigh",
+    "mean": "Bắp đùi"
+},
+{
+    "word": "Throat",
+    "mean": "Cổ họng"
+},
+{
+    "word": "Thumb",
+    "mean": "Ngón tay cái"
+},
+{
+    "word": "Toe",
+    "mean": "Ngón chân"
+},
+{
+    "word": "Toenail",
+    "mean": "Móng chân"
+},
+{
+    "word": "Tongue",
+    "mean": "lưỡi"
+},
+{
+    "word": "Wrist",
+    "mean": "Cổ tay"
+},
+{
+    "word": "Aggressive",
+    "mean": "Hung hăng, năng nổ"
+},
+{
+    "word": "Ambitious",
+    "mean": "Tham vọng"
+},
+{
+    "word": "Artful",
+    "mean": "Xảo quyệt, tinh ranh"
+},
+{
+    "word": "Bad-tempered",
+    "mean": "Nóng tính"
+},
+{
+    "word": "Boastful",
+    "mean": "Khoe khoang, khoác lác"
+},
+{
+    "word": "Boring",
+    "mean": "Nhàm chán, chán nản"
+},
+{
+    "word": "Bossy",
+    "mean": "Hống hách, hách dịch"
+},
+{
+    "word": "Brave",
+    "mean": "Dũng cảm, gan dạ"
+},
+{
+    "word": "Calm",
+    "mean": "Điềm tĩnh"
+},
+{
+    "word": "Careful",
+    "mean": "Cẩn thận, kỹ lưỡng"
+},
+{
+    "word": "Careless",
+    "mean": "Bất cẩn, cẩu thả"
+},
+{
+    "word": "Cautious",
+    "mean": "Thận trọng, cẩn thận"
+},
+{
+    "word": "Childish",
+    "mean": "Ngây ngô, trẻ con"
+},
+{
+    "word": "Clever",
+    "mean": "Khéo léo, thông minh, lanh lợi"
+},
+{
+    "word": "Cold",
+    "mean": "Lạnh lùng"
+},
+{
+    "word": "Competitive",
+    "mean": "Ganh đua, thích cạnh tranh"
+},
+{
+    "word": "Confident",
+    "mean": "Tự tin"
+},
+{
+    "word": "Considerate",
+    "mean": "Chu đáo, ân cần"
+},
+{
+    "word": "Courage",
+    "mean": "Can đảm, dũng cảm"
+},
+{
+    "word": "Courteous",
+    "mean": "Lịch thiệp, nhã nhặn"
+},
+{
+    "word": "Cowardly",
+    "mean": "Nhát gan, hèn nhát"
+},
+{
+    "word": "Creative",
+    "mean": "Sáng tạo"
+},
+{
+    "word": "Cruel",
+    "mean": "Độc ác, dữ tợn, tàn bạo, tàn nhẫn"
+},
+{
+    "word": "Curious",
+    "mean": "Tò mò, hiếu kỳ"
+},
+{
+    "word": "Decisive",
+    "mean": "Quyết đoán, kiên quyết"
+},
+{
+    "word": "Dependable",
+    "mean": "Đáng tin cậy"
+},
+{
+    "word": "Diligent",
+    "mean": "Siêng năng, cần cù"
+},
+{
+    "word": "Dynamic",
+    "mean": "Năng động, năng nổ, sôi nổi"
+},
+{
+    "word": "Emotional",
+    "mean": "Nhạy cảm, dễ xúc động"
+},
+{
+    "word": "Enthusiastic",
+    "mean": "Hăng hái, nhiệt tình"
+},
+{
+    "word": "Envious",
+    "mean": "Ganh tị, đố kỵ"
+},
+{
+    "word": "Faithful",
+    "mean": "Chung thủy, trung thành, trung thực"
+},
+{
+    "word": "Fawning",
+    "mean": "Nịnh hót, xu nịnh"
+},
+{
+    "word": "Frank",
+    "mean": "Thẳng thắng, ngay thẳng, bộc trực"
+},
+{
+    "word": "Friendly",
+    "mean": "Thân thiện"
+},
+{
+    "word": "Gentle",
+    "mean": "Dịu dàng, hòa nhã, hiền lành"
+},
+{
+    "word": "Gracious",
+    "mean": "Tử tế, hào hiệp, lịch thiệp"
+},
+{
+    "word": "Greedy",
+    "mean": "Tham lam"
+},
+{
+    "word": "Gruff",
+    "mean": "Thô lỗ, cộc cằn"
+},
+{
+    "word": "Hardworking",
+    "mean": "Chăm chỉ"
+},
+{
+    "word": "Haughty",
+    "mean": "Kiêu căng, kiêu kỳ, ngạo mạn"
+},
+{
+    "word": "Headstrong",
+    "mean": "Cứng đầu, bướng bỉnh"
+},
+{
+    "word": "Honest",
+    "mean": "Trung thực, chân thật, lương thiện"
+},
+{
+    "word": "Humble",
+    "mean": "Khiêm tốn, nhún nhường"
+},
+{
+    "word": "Humorous",
+    "mean": "Hài hước, hóm hỉnh, khôi hài"
+},
+{
+    "word": "Impolite",
+    "mean": "Vô lễ, bất lịch sự"
+},
+{
+    "word": "Industrious",
+    "mean": "Cần cù, chăm chỉ"
+},
+{
+    "word": "Insolent",
+    "mean": "Láo xược, xấc láo"
+},
+{
+    "word": "Intelligent",
+    "mean": "Thông minh, sáng dạ"
+},
+{
+    "word": "Jealous",
+    "mean": "Ghen ghét, ghen tị"
+},
+{
+    "word": "Kind",
+    "mean": "Tốt bụng, tử tế"
+},
+{
+    "word": "Lazy",
+    "mean": "Lười biếng"
+},
+{
+    "word": "Liberal",
+    "mean": "Rộng rãi, bao dung, hào phóng"
+},
+{
+    "word": "Lovely",
+    "mean": "Đáng yêu, yêu kiều, thú vị"
+},
+{
+    "word": "Loyal",
+    "mean": "Trung thành, trung nghĩa, trung kiên"
+},
+{
+    "word": "Malicious",
+    "mean": "Hiểm độc, hiểm ác"
+},
+{
+    "word": "Mature",
+    "mean": "Chín chắn, trưởng thành"
+},
+{
+    "word": "Mean",
+    "mean": "Keo kiệt, bủn xỉn"
+},
+{
+    "word": "Merciful",
+    "mean": "Nhân từ, khoan dung"
+},
+{
+    "word": "Mischievous",
+    "mean": "Tinh nghịch, láu lỉnh"
+},
+{
+    "word": "Naive",
+    "mean": "Ngây thơ, chất phác, thật thà"
+},
+{
+    "word": "Naughty",
+    "mean": "Nghịch ngợm, hư đốn"
+},
+{
+    "word": "Obedient",
+    "mean": "Ngoan ngoãn, vâng lời"
+},
+{
+    "word": "Observant",
+    "mean": "Tinh ý, hay quan sát"
+},
+{
+    "word": "Open-minded",
+    "mean": "Phóng khoáng, cởi mở"
+},
+{
+    "word": "Optimistic",
+    "mean": "Lạc quan, yêu đời"
+},
+{
+    "word": "Outgoing",
+    "mean": "Thân mật, dễ gần, thoải mái"
+},
+{
+    "word": "Passionate",
+    "mean": "Nồng nàn, nồng nhiệt, sôi nổi"
+},
+{
+    "word": "Patient",
+    "mean": "Kiên nhẫn, nhẫn nại, bền chí"
+},
+{
+    "word": "Pessimistic",
+    "mean": "Bi quan, chán đời"
+},
+{
+    "word": "Polite",
+    "mean": "Lịch sự, lễ phép, lịch thiệp"
+},
+{
+    "word": "Quiet",
+    "mean": "Trầm lặng, ít nói"
+},
+{
+    "word": "Rational",
+    "mean": "Minh mẫn, sáng suốt"
+},
+{
+    "word": "Reckless",
+    "mean": "Hấp tấp, liều lĩnh, táo bạo"
+},
+{
+    "word": "Responsible",
+    "mean": "Có trách nhiệm"
+},
+{
+    "word": "Romantic",
+    "mean": "Lãng mạn, mơ mộng"
+},
+{
+    "word": "Rude",
+    "mean": "Thô lỗ, hỗn láo, vô lễ, khiếm nhã, bất lịch sự"
+},
+{
+    "word": "Secretive",
+    "mean": "Kín đáo"
+},
+{
+    "word": "Selfish",
+    "mean": "Ích kỷ"
+},
+{
+    "word": "Sensitive",
+    "mean": "Nhạy cảm"
+},
+{
+    "word": "Serious",
+    "mean": "Nghiêm túc, nghiêm nghị"
+},
+{
+    "word": "Shy",
+    "mean": "Nhút nhát, rụt rè, bẽn lẽn"
+},
+{
+    "word": "Silly",
+    "mean": "Ngớ ngẩn, khờ khạo"
+},
+{
+    "word": "Sincere",
+    "mean": "Thành thật, chân thành, chân thật, thẳng thắng"
+},
+{
+    "word": "Sociable",
+    "mean": "Hòa đồng, gần gũi"
+},
+{
+    "word": "Strict",
+    "mean": "Nghiêm khắc, khắt khe"
+},
+{
+    "word": "Stubborn",
+    "mean": "Bướng bỉnh, ngoan cố, ương ngạnh"
+},
+{
+    "word": "Stupid",
+    "mean": "Ngốc nghếch, đần độn"
+},
+{
+    "word": "Tactful",
+    "mean": "Lịch thiệp, tế nhị"
+},
+{
+    "word": "Talkative",
+    "mean": "Hoạt ngôn, ba hoa, nhiều chuyện"
+},
+{
+    "word": "Tricky",
+    "mean": "Gian xảo, thủ đoạn, quỷ quyệt"
+},
+{
+    "word": "Truthful",
+    "mean": "Trung thực, thật thà, chân thật"
+},
+{
+    "word": "Unpleasant",
+    "mean": "Khó chịu, khó ưa"
+},
+{
+    "word": "Vain",
+    "mean": "Kiêu ngạo, tự phụ, tự đắc"
+},
+{
+    "word": "Wise",
+    "mean": "Thông thái, khôn ngoan, sáng suốt"
+},
+{
+    "word": "Witty",
+    "mean": "Hóm hỉnh, dí dỏm"
+},
+{
+    "word": "Zealous",
+    "mean": "Hăng hái, sốt sắng, có nhiệt huyết"
+},
+{
+    "word": "Helmet",
+    "mean": "mũ bảo hiểm"
+},
+{
+    "word": "Cowboy",
+    "mean": "mũ cao bồi"
+},
+{
+    "word": "Balaclava",
+    "mean": "mũ len trùm đầu và cổ"
+},
+{
+    "word": "Baseball",
+    "mean": "mũ lưỡi trai"
+},
+{
+    "word": "Baseball",
+    "mean": "nón lưỡi trai"
+},
+{
+    "word": "Beret",
+    "mean": "mũ nồi"
+},
+{
+    "word": "Boots",
+    "mean": "bốt"
+},
+{
+    "word": "Bowler",
+    "mean": "mũ quả dưa"
+},
+{
+    "word": "Bucket",
+    "mean": "mũ tai bèo"
+},
+{
+    "word": "Chunky",
+    "mean": "giày, dép đế thô"
+},
+{
+    "word": "Clog",
+    "mean": "guốc"
+},
+{
+    "word": "Deerstalker",
+    "mean": "mũ thợ săn"
+},
+{
+    "word": "Dockside",
+    "mean": "giày lười Dockside"
+},
+{
+    "word": "Fedora",
+    "mean": "mũ phớt mềm"
+},
+{
+    "word": "Flat",
+    "mean": "mũ lưỡi trai"
+},
+{
+    "word": "Hard",
+    "mean": "mũ bảo hộ"
+},
+{
+    "word": "Hat",
+    "mean": "mũ"
+},
+{
+    "word": "Loafer",
+    "mean": "giày lười"
+},
+{
+    "word": "Moccasin",
+    "mean": "giày Mocca"
+},
+{
+    "word": "Monk",
+    "mean": "giày quai thầy tu"
+},
+{
+    "word": "Mortar_board",
+    "mean": "mũ tốt nghiệp"
+},
+{
+    "word": "Sandals",
+    "mean": "dép xăng-đan"
+},
+{
+    "word": "Slip",
+    "mean": "giày lười thể thao"
+},
+{
+    "word": "Snapback",
+    "mean": "mũ lưỡi trai phẳng"
+},
+{
+    "word": "Stilettos",
+    "mean": "giày gót nhọn"
+},
+{
+    "word": "Top",
+    "mean": "mũ chóp cao"
+},
+{
+    "word": "Wedge",
+    "mean": "giầy đế xuồng"
+},
+{
+    "word": "Wellingtons",
+    "mean": "ủng cao su"
+},
+{
+    "word": "Petrol_station",
+    "mean": "Trạm xăng"
+},
+{
+    "word": "Bride",
+    "mean": "cô dâu"
+},
+{
+    "word": "Bridesmaids",
+    "mean": "phù dâu"
+},
+{
+    "word": "Champagne",
+    "mean": "rượu sâm-panh"
+},
+{
+    "word": "Groom",
+    "mean": "chú rể"
+},
+{
+    "word": "Groomsmen",
+    "mean": "phù rể"
+},
+{
+    "word": "Newlyweds",
+    "mean": "cặp đôi mới cưới, những người vừa lập gia đình"
+},
+{
+    "word": "Reception",
+    "mean": "tiệc chiêu đãi sau đám cưới"
+},
+{
+    "word": "Tuxedo",
+    "mean": "áo tuxedo (lễ phục)"
+},
+{
+    "word": "Cake",
+    "mean": "Bánh ngọt"
+},
+{
+    "word": "Biscuit",
+    "mean": "Bánh quy"
+},
+{
+    "word": "Bread",
+    "mean": "Bánh mì"
+},
+{
+    "word": "Butter",
+    "mean": "Bơ"
+},
+{
+    "word": "Cheese",
+    "mean": "Pho mát"
+},
+{
+    "word": "Jam",
+    "mean": "Mứt"
+},
+{
+    "word": "Chicken",
+    "mean": "Gà"
+},
+{
+    "word": "Egg",
+    "mean": "Trứng"
+},
+{
+    "word": "Fish",
+    "mean": "Cá"
+},
+{
+    "word": "Noodles",
+    "mean": "Mì ống, mì sợi"
+},
+{
+    "word": "Sausage",
+    "mean": "Xúc xích, dồi, lạp xưởng"
+},
+{
+    "word": "Soup",
+    "mean": "Canh, cháo"
+},
+{
+    "word": "Rice",
+    "mean": "Gạo"
+},
+{
+    "word": "Hamburger",
+    "mean": "Bánh hăm bơ gơ"
+},
+{
+    "word": "Pork",
+    "mean": "Thịt lợn"
+},
+{
+    "word": "Beef",
+    "mean": "Thịt bò"
+},
+{
+    "word": "Bacon",
+    "mean": "Thịt xông khói."
+},
+{
+    "word": "Salad",
+    "mean": "Rau trộn"
+},
+{
+    "word": "Cooking",
+    "mean": "Rau trộn"
+},
+{
+    "word": "Boil",
+    "mean": "Luộc "
+},
+{
+    "word": "Bake",
+    "mean": "Nướng bằng lò"
+},
+{
+    "word": "Roast",
+    "mean": "Quay, nướng"
+},
+{
+    "word": "Fry",
+    "mean": "Chiên, rán"
+},
+{
+    "word": "Grill",
+    "mean": "Nướng than (trực tiếp)"
+},
+{
+    "word": "Steam",
+    "mean": "Hấp"
+},
+{
+    "word": "Food",
+    "mean": "Hấp"
+},
+{
+    "word": "Sweet",
+    "mean": "Ngọt"
+},
+{
+    "word": "Sour",
+    "mean": "Chua; ôi; thiu"
+},
+{
+    "word": "Salty",
+    "mean": "Mặn"
+},
+{
+    "word": "Delicious",
+    "mean": "Thơm ngon"
+},
+{
+    "word": "Tasty",
+    "mean": "Ngon, đầy hương vị"
+},
+{
+    "word": "Bland",
+    "mean": "Nhạt nhẽo"
+},
+{
+    "word": "Horrible",
+    "mean": "Khó chịu, kinh khủng"
+},
+{
+    "word": "Spicy",
+    "mean": "Cay, có gia vị"
+},
+{
+    "word": "Hot",
+    "mean": "Nóng, cay nồng"
+},
+{
+    "word": "Mild",
+    "mean": "Nhẹ (mùi)"
+},
+{
+    "word": "Fresh",
+    "mean": "Tươi, mới, tươi sống"
+},
+{
+    "word": "Rotten",
+    "mean": "Thối rữa, đã hỏng"
+},
+{
+    "word": "Stale",
+    "mean": "Ôi, thiu (bánh mì, bánh ngọt)"
+},
+{
+    "word": "Mouldy",
+    "mean": "Bị mốc"
+},
+{
+    "word": "Overdone",
+    "mean": "Nấu quá chín"
+},
+{
+    "word": "Ripe",
+    "mean": "Chín (trái cây)"
+},
+{
+    "word": "Unripe",
+    "mean": "Chưa chính"
+},
+{
+    "word": "Tender",
+    "mean": "Không dai, mềm"
+},
+{
+    "word": "Tough",
+    "mean": "Dai"
+},
+{
+    "word": "Beer",
+    "mean": "Bia"
+},
+{
+    "word": "Wine",
+    "mean": "Rượu"
+},
+{
+    "word": "Coffee",
+    "mean": "Cà phê"
+},
+{
+    "word": "Milk",
+    "mean": "Sữa"
+},
+{
+    "word": "Soda",
+    "mean": "Nước có ga"
+},
+{
+    "word": "Five-spice",
+    "mean": "Nước có ga"
+},
+{
+    "word": "Builder.",
+    "mean": "thợ xây dựng."
+},
+{
+    "word": "Cashier.",
+    "mean": "thu ngân."
+},
+{
+    "word": "Cook.",
+    "mean": "đầu bếp."
+},
+{
+    "word": "Dentist.",
+    "mean": "nha sĩ"
+},
+{
+    "word": "Doctor.",
+    "mean": "bác sĩ"
+},
+{
+    "word": "Reporter.",
+    "mean": "phóng viên."
+},
+{
+    "word": "Tailor.",
+    "mean": "thợ may."
+},
+{
+    "word": "Teacher.",
+    "mean": "giáo viên."
+},
+{
+    "word": "Air",
+    "mean": "không khí"
+},
+{
+    "word": "Area",
+    "mean": "khu vực"
+},
+{
+    "word": "Art",
+    "mean": "nghệ thuật"
+},
+{
+    "word": "Back",
+    "mean": "phía sau"
+},
+{
+    "word": "Body",
+    "mean": "cơ thể"
+},
+{
+    "word": "Book",
+    "mean": "cuốn sách"
+},
+{
+    "word": "Business",
+    "mean": "kinh doanh"
+},
+{
+    "word": "Car",
+    "mean": "xe hơi"
+},
+{
+    "word": "Case",
+    "mean": "trường hợp"
+},
+{
+    "word": "Change",
+    "mean": "thay đổi"
+},
+{
+    "word": "Child",
+    "mean": "con cái "
+},
+{
+    "word": "City",
+    "mean": "thành phố"
+},
+{
+    "word": "Community",
+    "mean": "cộng đồng"
+},
+{
+    "word": "Company",
+    "mean": "công ty"
+},
+{
+    "word": "Country",
+    "mean": "đất nước"
+},
+{
+    "word": "Day",
+    "mean": "ngày"
+},
+{
+    "word": "Door",
+    "mean": "cánh cửa"
+},
+{
+    "word": "End",
+    "mean": "kết thúc"
+},
+{
+    "word": "Eye",
+    "mean": "mắt"
+},
+{
+    "word": "Face",
+    "mean": "gương mặt"
+},
+{
+    "word": "Fact",
+    "mean": "sự thật"
+},
+{
+    "word": "Family",
+    "mean": "gia đình"
+},
+{
+    "word": "Father",
+    "mean": "cha"
+},
+{
+    "word": "Force",
+    "mean": "lực lượng"
+},
+{
+    "word": "Friend",
+    "mean": "người bạn"
+},
+{
+    "word": "Game",
+    "mean": "trò chơi"
+},
+{
+    "word": "Girl",
+    "mean": "cô gái"
+},
+{
+    "word": "Government",
+    "mean": "chính phủ"
+},
+{
+    "word": "Guy",
+    "mean": "chàng trai"
+},
+{
+    "word": "Hand",
+    "mean": "bàn tay"
+},
+{
+    "word": "Head",
+    "mean": "đầu"
+},
+{
+    "word": "Health",
+    "mean": "sức khỏe"
+},
+{
+    "word": "History",
+    "mean": "lịch sử"
+},
+{
+    "word": "Home",
+    "mean": "nhà"
+},
+{
+    "word": "Hour",
+    "mean": "giờ "
+},
+{
+    "word": "House",
+    "mean": "ngôi nhà"
+},
+{
+    "word": "Idea",
+    "mean": "ý tưởng"
+},
+{
+    "word": "Information",
+    "mean": "thông tin"
+},
+{
+    "word": "Issue",
+    "mean": "vấn đề"
+},
+{
+    "word": "Job",
+    "mean": "nghề nghiệp"
+},
+{
+    "word": "Kid",
+    "mean": "trẻ con"
+},
+{
+    "word": "Kind",
+    "mean": "loại"
+},
+{
+    "word": "Law",
+    "mean": "luật pháp"
+},
+{
+    "word": "Level",
+    "mean": "cấp bậc "
+},
+{
+    "word": "Life",
+    "mean": "cuộc sống"
+},
+{
+    "word": "Line",
+    "mean": "vạch kẻ"
+},
+{
+    "word": "Lot",
+    "mean": "từng phần"
+},
+{
+    "word": "Man",
+    "mean": "đàn ông"
+},
+{
+    "word": "Member",
+    "mean": "thành viên"
+},
+{
+    "word": "Minute",
+    "mean": "phút"
+},
+{
+    "word": "Moment",
+    "mean": "hiện tại"
+},
+{
+    "word": "Money",
+    "mean": "tiền bạc"
+},
+{
+    "word": "Month",
+    "mean": "tháng"
+},
+{
+    "word": "Morning",
+    "mean": "buổi sáng"
+},
+{
+    "word": "Mother",
+    "mean": "mẹ"
+},
+{
+    "word": "Name",
+    "mean": "tên gọi"
+},
+{
+    "word": "Night",
+    "mean": "ban đêm"
+},
+{
+    "word": "Number",
+    "mean": "con số"
+},
+{
+    "word": "Office",
+    "mean": "văn phòng"
+},
+{
+    "word": "Others",
+    "mean": "những cái khác"
+},
+{
+    "word": "Parent",
+    "mean": "phụ huynh"
+},
+{
+    "word": "Part",
+    "mean": "bộ phận"
+},
+{
+    "word": "Party",
+    "mean": "bữa tiệc"
+},
+{
+    "word": "People",
+    "mean": "con người"
+},
+{
+    "word": "Person",
+    "mean": "con người"
+},
+{
+    "word": "Place",
+    "mean": "vị trí"
+},
+{
+    "word": "Point",
+    "mean": "điểm"
+},
+{
+    "word": "Power",
+    "mean": "năng lượng"
+},
+{
+    "word": "President",
+    "mean": "chủ tịch"
+},
+{
+    "word": "Problem",
+    "mean": "vấn đề"
+},
+{
+    "word": "Program",
+    "mean": "hương trình"
+},
+{
+    "word": "Question",
+    "mean": "câu hỏi"
+},
+{
+    "word": "Reason",
+    "mean": "lý do"
+},
+{
+    "word": "Research",
+    "mean": "nghiên cứu"
+},
+{
+    "word": "Result",
+    "mean": "kết quả"
+},
+{
+    "word": "Right",
+    "mean": "quyền lợi"
+},
+{
+    "word": "Room",
+    "mean": "căn phòng"
+},
+{
+    "word": "Group",
+    "mean": "nhóm"
+},
+{
+    "word": "School",
+    "mean": "trường học"
+},
+{
+    "word": "Service",
+    "mean": "dịch vụ"
+},
+{
+    "word": "Side",
+    "mean": "khía cạnh"
+},
+{
+    "word": "State",
+    "mean": "trạng thái"
+},
+{
+    "word": "Story",
+    "mean": "câu chuyện"
+},
+{
+    "word": "Student",
+    "mean": "học sinh"
+},
+{
+    "word": "Study",
+    "mean": "học tập"
+},
+{
+    "word": "System",
+    "mean": "hệ thống"
+},
+{
+    "word": "Teacher",
+    "mean": "giáo viên"
+},
+{
+    "word": "Team",
+    "mean": "nhóm, đội"
+},
+{
+    "word": "Thing",
+    "mean": "sự vật"
+},
+{
+    "word": "Time",
+    "mean": "thời gian"
+},
+{
+    "word": "War",
+    "mean": "chiến tranh"
+},
+{
+    "word": "Water",
+    "mean": "nước "
+},
+{
+    "word": "Way",
+    "mean": "con đường"
+},
+{
+    "word": "Week",
+    "mean": "tuần"
+},
+{
+    "word": "Woman",
+    "mean": "phụ nữ"
+},
+{
+    "word": "Word",
+    "mean": "từ"
+},
+{
+    "word": "Work",
+    "mean": "công việc"
+},
+{
+    "word": "World",
+    "mean": "thế giới"
+},
+{
+    "word": "Year",
+    "mean": "năm"
+},
+{
+    "word": "Education",
+    "mean": "giáo dục"
+},
+{
+    "word": "Accept",
+    "mean": "chấp nhận"
+},
+{
+    "word": "Achieve",
+    "mean": "đạt được"
+},
+{
+    "word": "Act",
+    "mean": "ra vẻ, hành động"
+},
+{
+    "word": "Admin",
+    "mean": "thừa nhận"
+},
+{
+    "word": "Affect",
+    "mean": "ảnh hưởng tới"
+},
+{
+    "word": "Announce",
+    "mean": "thông báo"
+},
+{
+    "word": "Apply",
+    "mean": "áp dụng"
+},
+{
+    "word": "Argue",
+    "mean": "tranh cãi"
+},
+{
+    "word": "Arrive",
+    "mean": "đến"
+},
+{
+    "word": "Assume",
+    "mean": "cho rằng"
+},
+{
+    "word": "Avoid",
+    "mean": "tránh"
+},
+{
+    "word": "Base",
+    "mean": "dựa trên"
+},
+{
+    "word": "Break",
+    "mean": "làm vỡ"
+},
+{
+    "word": "Catch",
+    "mean": "bắt lấy"
+},
+{
+    "word": "Cause",
+    "mean": "gây ra"
+},
+{
+    "word": "Choose",
+    "mean": "chọn"
+},
+{
+    "word": "Claim",
+    "mean": "tuyên bố"
+},
+{
+    "word": "Close",
+    "mean": "đóng lại"
+},
+{
+    "word": "Compare",
+    "mean": "so sánh"
+},
+{
+    "word": "Contain",
+    "mean": "chứa"
+},
+{
+    "word": "Control",
+    "mean": "kiểm soát"
+},
+{
+    "word": "Cover",
+    "mean": "bao phủ"
+},
+{
+    "word": "Cut",
+    "mean": "cắt bỏ"
+},
+{
+    "word": "Deal",
+    "mean": "xử lý"
+},
+{
+    "word": "Design",
+    "mean": "thiết kế"
+},
+{
+    "word": "Determine",
+    "mean": "xác định"
+},
+{
+    "word": "Discuss",
+    "mean": "thảo luận"
+},
+{
+    "word": "Drive",
+    "mean": "lái xe"
+},
+{
+    "word": "Eat",
+    "mean": "ăn"
+},
+{
+    "word": "Encourage",
+    "mean": "khuyến khích"
+},
+{
+    "word": "End",
+    "mean": "kết thúc"
+},
+{
+    "word": "Enjoy",
+    "mean": "thưởng thức"
+},
+{
+    "word": "Ensure",
+    "mean": "chắc chắn"
+},
+{
+    "word": "Enter",
+    "mean": "tiến vào"
+},
+{
+    "word": "Establish",
+    "mean": "thiết lập"
+},
+{
+    "word": "Exist",
+    "mean": "tồn tại"
+},
+{
+    "word": "Explain",
+    "mean": "giải thích"
+},
+{
+    "word": "Express",
+    "mean": "diễn đạt"
+},
+{
+    "word": "Face",
+    "mean": "đối mặt "
+},
+{
+    "word": "Fail",
+    "mean": "thất bại"
+},
+{
+    "word": "Fill",
+    "mean": "lấp đầy"
+},
+{
+    "word": "Finish",
+    "mean": "hoàn thành"
+},
+{
+    "word": "Force",
+    "mean": "bắt buộc"
+},
+{
+    "word": "Forget",
+    "mean": "quên"
+},
+{
+    "word": "Form",
+    "mean": "hình thành"
+},
+{
+    "word": "Grow",
+    "mean": "lớn lên"
+},
+{
+    "word": "Identify",
+    "mean": "xác định"
+},
+{
+    "word": "Improve",
+    "mean": "nâng cao"
+},
+{
+    "word": "Increase",
+    "mean": "tăng lên"
+},
+{
+    "word": "Indicate",
+    "mean": "chỉ ra rằng"
+},
+{
+    "word": "Introduce",
+    "mean": "giới thiệu"
+},
+{
+    "word": "Join",
+    "mean": "ghép"
+},
+{
+    "word": "Kill",
+    "mean": "giết"
+},
+{
+    "word": "Learn",
+    "mean": "học hỏi"
+},
+{
+    "word": "Lie",
+    "mean": "nói xạo"
+},
+{
+    "word": "Listen",
+    "mean": "nghe "
+},
+{
+    "word": "Love",
+    "mean": "yêu thương"
+},
+{
+    "word": "Maintain",
+    "mean": "duy trì"
+},
+{
+    "word": "Manage",
+    "mean": "quản lý"
+},
+{
+    "word": "Mention",
+    "mean": "nhắc tới"
+},
+{
+    "word": "Note",
+    "mean": "ghi lại"
+},
+{
+    "word": "Obtain",
+    "mean": "đạt được"
+},
+{
+    "word": "Occur",
+    "mean": "xảy ra"
+},
+{
+    "word": "Pass",
+    "mean": "vượt qua"
+},
+{
+    "word": "Pick",
+    "mean": "nhặt lên"
+},
+{
+    "word": "Place",
+    "mean": "đặt, để"
+},
+{
+    "word": "Plan",
+    "mean": "lên kế hoạch"
+},
+{
+    "word": "Point",
+    "mean": "chỉ vào"
+},
+{
+    "word": "Prepare",
+    "mean": "chuẩn bị"
+},
+{
+    "word": "Present",
+    "mean": "giới thiệu"
+},
+{
+    "word": "Prove",
+    "mean": "chứng minh"
+},
+{
+    "word": "Publish",
+    "mean": "xuất bản"
+},
+{
+    "word": "Pull",
+    "mean": "kéo"
+},
+{
+    "word": "Reduce",
+    "mean": "giảm"
+},
+{
+    "word": "Refer",
+    "mean": "nhắc tới"
+},
+{
+    "word": "Reflect",
+    "mean": "suy nghĩ"
+},
+{
+    "word": "Relate",
+    "mean": "có liên quan"
+},
+{
+    "word": "Remove",
+    "mean": "loại bỏ"
+},
+{
+    "word": "Replace",
+    "mean": "thay thế"
+},
+{
+    "word": "Report",
+    "mean": "báo cáo"
+},
+{
+    "word": "Represent",
+    "mean": "đại diện cho"
+},
+{
+    "word": "Rise",
+    "mean": "tăng lên"
+},
+{
+    "word": "Save",
+    "mean": "lưu giữ"
+},
+{
+    "word": "Seek",
+    "mean": "tìm kiếm"
+},
+{
+    "word": "Serve",
+    "mean": "phục vụ"
+},
+{
+    "word": "Share",
+    "mean": "chia sẻ"
+},
+{
+    "word": "Smile",
+    "mean": "mỉm cười"
+},
+{
+    "word": "Stay",
+    "mean": "ở lại "
+},
+{
+    "word": "Suffer",
+    "mean": "chịu khổ"
+},
+{
+    "word": "Support",
+    "mean": "ủng hộ"
+},
+{
+    "word": "Suppose",
+    "mean": "giả sử"
+},
+{
+    "word": "Tend",
+    "mean": "có xu hướng"
+},
+{
+    "word": "Thank",
+    "mean": "cảm ơn"
+},
+{
+    "word": "Throw",
+    "mean": "ném"
+},
+{
+    "word": "Treat",
+    "mean": "đối xử"
+},
+{
+    "word": "Visit",
+    "mean": "thăm nom"
+},
+{
+    "word": "Watch",
+    "mean": "xem"
+},
+{
+    "word": "Wear",
+    "mean": "đội, mặc"
+},
+{
+    "word": "Wish",
+    "mean": "muốn"
+},
+{
+    "word": "Wonder",
+    "mean": "tự hỏi"
+},
+{
+    "word": "A",
+    "mean": "rất nhiều"
+},
+{
+    "word": "Absolutely",
+    "mean": "tuyệt đối"
+},
+{
+    "word": "Accurately",
+    "mean": "một cách chính xác"
+},
+{
+    "word": "Almost",
+    "mean": "gần như"
+},
+{
+    "word": "Already",
+    "mean": "đã rồi"
+},
+{
+    "word": "Always",
+    "mean": "luôn luôn"
+},
+{
+    "word": "Angrily",
+    "mean": "một cách tức giận"
+},
+{
+    "word": "Anxiously",
+    "mean": "một cách lo"
+},
+{
+    "word": "Anywhere",
+    "mean": "bất kỳ đâu"
+},
+{
+    "word": "As",
+    "mean": "kết quả là"
+},
+{
+    "word": "Away",
+    "mean": "đi khỏi"
+},
+{
+    "word": "Badly",
+    "mean": "cực kì"
+},
+{
+    "word": "Beautifully",
+    "mean": "một cách đẹp đẽ"
+},
+{
+    "word": "Besides",
+    "mean": "bên cạnh đó"
+},
+{
+    "word": "Bravely",
+    "mean": "một cách dũng cảm"
+},
+{
+    "word": "Carefully",
+    "mean": "một cách cẩn thận"
+},
+{
+    "word": "Carelessly",
+    "mean": "một cách cẩu thả"
+},
+{
+    "word": "Cautiously",
+    "mean": "một cách cẩn trọng"
+},
+{
+    "word": "Early",
+    "mean": "sớm"
+},
+{
+    "word": "Easily",
+    "mean": "một cách dễ dàng"
+},
+{
+    "word": "Enormously",
+    "mean": "cực kì"
+},
+{
+    "word": "Enough",
+    "mean": "đủ"
+},
+{
+    "word": "Entirely",
+    "mean": "toàn bộ"
+},
+{
+    "word": "Especially",
+    "mean": "đặc biệt là"
+},
+{
+    "word": "Everywhere",
+    "mean": "khắp mọi nơi"
+},
+{
+    "word": "Expertly",
+    "mean": "một cách điêu luyện"
+},
+{
+    "word": "Finally",
+    "mean": "cuối cùng thì"
+},
+{
+    "word": "Frequently",
+    "mean": "thường xuyên"
+},
+{
+    "word": "Fully",
+    "mean": "hoàn toàn"
+},
+{
+    "word": "Furthermore",
+    "mean": "hơn nữa"
+},
+{
+    "word": "Generally",
+    "mean": "nói chung"
+},
+{
+    "word": "Greedily",
+    "mean": "một cách tham lam"
+},
+{
+    "word": "Happily",
+    "mean": "một cách vui vẻ"
+},
+{
+    "word": "Hardly",
+    "mean": "hầu như không"
+},
+{
+    "word": "Hardly",
+    "mean": "hầu như không"
+},
+{
+    "word": "Here",
+    "mean": "ở đây"
+},
+{
+    "word": "Highly",
+    "mean": "hết sức"
+},
+{
+    "word": "However",
+    "mean": "mặc dù"
+},
+{
+    "word": "Hungrily",
+    "mean": "một cách đói khát"
+},
+{
+    "word": "Inside",
+    "mean": "bên trong"
+},
+{
+    "word": "Instead",
+    "mean": "thay vào đó"
+},
+{
+    "word": "Just",
+    "mean": "chỉ"
+},
+{
+    "word": "Largely",
+    "mean": "phần lớn là"
+},
+{
+    "word": "Lately",
+    "mean": "gần đây"
+},
+{
+    "word": "Lazily",
+    "mean": "một cách lười biếng"
+},
+{
+    "word": "Little",
+    "mean": "một ít"
+},
+{
+    "word": "Loudly",
+    "mean": "một cách ồn ào"
+},
+{
+    "word": "Mainly",
+    "mean": "chủ yếu là"
+},
+{
+    "word": "Moreover",
+    "mean": "hơn nữa"
+},
+{
+    "word": "Nearby",
+    "mean": "gần đây"
+},
+{
+    "word": "Never",
+    "mean": "không bao giờ"
+},
+{
+    "word": "Now",
+    "mean": "ngay bây giờ"
+},
+{
+    "word": "Nowhere",
+    "mean": "không ở đâu cả"
+},
+{
+    "word": "Occasionally",
+    "mean": "đôi khi"
+},
+{
+    "word": "Often",
+    "mean": "thường"
+},
+{
+    "word": "Only",
+    "mean": "duy nhất"
+},
+{
+    "word": "Outside",
+    "mean": "bên ngoài"
+},
+{
+    "word": "Particularly",
+    "mean": "cụ thể là"
+},
+{
+    "word": "Perfectly",
+    "mean": "hoàn hảo"
+},
+{
+    "word": "Politely",
+    "mean": "một cách lịch sự"
+},
+{
+    "word": "Pretty",
+    "mean": "khá là"
+},
+{
+    "word": "Professionally",
+    "mean": "một cách chuyên nghiệp"
+},
+{
+    "word": "Quickly",
+    "mean": "một cách nhanh chóng"
+},
+{
+    "word": "Quite",
+    "mean": "khá là"
+},
+{
+    "word": "Rarely",
+    "mean": "hiếm khi"
+},
+{
+    "word": "Rather",
+    "mean": "khá là"
+},
+{
+    "word": "Recently",
+    "mean": "gần đây"
+},
+{
+    "word": "Recklessly",
+    "mean": "một cách bất cẩn"
+},
+{
+    "word": "Remarkably",
+    "mean": "đáng kể"
+},
+{
+    "word": "Seldom",
+    "mean": "hiếm khi"
+},
+{
+    "word": "Simply",
+    "mean": "đơn giản"
+},
+{
+    "word": "Simply",
+    "mean": "đơn giản là"
+},
+{
+    "word": "Slightly",
+    "mean": "một chút"
+},
+{
+    "word": "Sometimes",
+    "mean": "thỉnh thoảng"
+},
+{
+    "word": "Somewhere",
+    "mean": "một nơi nào đó"
+},
+{
+    "word": "Soon",
+    "mean": "sớm thôi"
+},
+{
+    "word": "Specifically",
+    "mean": "cụ thể là"
+},
+{
+    "word": "Still",
+    "mean": "vẫn"
+},
+{
+    "word": "Strongly",
+    "mean": "cực kì"
+},
+{
+    "word": "Terribly",
+    "mean": "cực kì"
+},
+{
+    "word": "Then",
+    "mean": "sau đó"
+},
+{
+    "word": "There",
+    "mean": "ở kia"
+},
+{
+    "word": "Tomorrow",
+    "mean": "ngày mai"
+},
+{
+    "word": "Unlike",
+    "mean": "không giống như"
+},
+{
+    "word": "Usually",
+    "mean": "thường xuyên"
+},
+{
+    "word": "Very",
+    "mean": "rất"
+},
+{
+    "word": "Yesterday",
+    "mean": "hôm qua"
+},
+{
+    "word": "Add",
+    "mean": " cộng"
+},
+{
+    "word": "Addition",
+    "mean": "phép cộng                     "
+},
+{
+    "word": "Algebra",
+    "mean": "đại số"
+},
+{
+    "word": "Angle",
+    "mean": "góc"
+},
+{
+    "word": "Arithmetic",
+    "mean": "số học                    "
+},
+{
+    "word": "Circle",
+    "mean": "hình tròn                                  "
+},
+{
+    "word": "Circumference",
+    "mean": "chu vi đường tròn"
+},
+{
+    "word": "Cube",
+    "mean": "hình lập phương"
+},
+{
+    "word": "Curve",
+    "mean": "đường cong"
+},
+{
+    "word": "Decimal",
+    "mean": "thập phân"
+},
+{
+    "word": "Decimal",
+    "mean": "dấu thập phân"
+},
+{
+    "word": "Diameter",
+    "mean": "đường kính"
+},
+{
+    "word": "Divide",
+    "mean": "chia"
+},
+{
+    "word": "Division",
+    "mean": "phép chia"
+},
+{
+    "word": "Equal",
+    "mean": "bằng"
+},
+{
+    "word": "Fraction",
+    "mean": "phân số"
+},
+{
+    "word": "Geometry",
+    "mean": "hình học                    "
+},
+{
+    "word": "Height",
+    "mean": "chiều cao                               "
+},
+{
+    "word": "Hexagon",
+    "mean": "hình lục giác"
+},
+{
+    "word": "Length",
+    "mean": "chiều dài                              "
+},
+{
+    "word": "Minus",
+    "mean": "âm                                     "
+},
+{
+    "word": "Multiplication",
+    "mean": "phép nhân"
+},
+{
+    "word": "Multiply",
+    "mean": "nhân"
+},
+{
+    "word": "Oval",
+    "mean": "hình bầu dục                           "
+},
+{
+    "word": "Parallel",
+    "mean": "song song"
+},
+{
+    "word": "Pentagon",
+    "mean": "hình ngũ giác            "
+},
+{
+    "word": "Percent",
+    "mean": "phần trăm"
+},
+{
+    "word": "Percentage",
+    "mean": "tỷ lệ phần trăm"
+},
+{
+    "word": "Plus",
+    "mean": "dương"
+},
+{
+    "word": "Pyramid",
+    "mean": "hình chóp                   "
+},
+{
+    "word": "Radius",
+    "mean": "bán kính"
+},
+{
+    "word": "Rectangle",
+    "mean": "hình chữ nhật"
+},
+{
+    "word": "Right",
+    "mean": "góc vuông"
+},
+{
+    "word": "Sphere",
+    "mean": "hình cầu"
+},
+{
+    "word": "Square",
+    "mean": "hình vuông"
+},
+{
+    "word": "Square",
+    "mean": "căn bình phương"
+},
+{
+    "word": "Squared",
+    "mean": "bình phương                 "
+},
+{
+    "word": "Straight",
+    "mean": "đường thẳng"
+},
+{
+    "word": "Subtract",
+    "mean": "trừ"
+},
+{
+    "word": "Subtract",
+    "mean": "trừ"
+},
+{
+    "word": "Take",
+    "mean": "trừ đi"
+},
+{
+    "word": "Times",
+    "mean": "lần"
+},
+{
+    "word": "Total",
+    "mean": "Tổng"
+},
+{
+    "word": "Triangle",
+    "mean": "hình tam giác"
+},
+{
+    "word": "Volume",
+    "mean": "dung lượng"
+},
+{
+    "word": "Width",
+    "mean": "chiều rộng"
+}
+]
