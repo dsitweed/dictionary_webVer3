@@ -1,9 +1,9 @@
 import React from "react";
-import Test from "./Test";
 import TraCuu from "../../pages/TraCuu";
 import ThemSua from "../../pages/ThemSua";
 import KiemTra from "../../pages/KiemTra";
 import BieuDo from "../../pages/BieuDo";
+import Result from "../../pages/Result";
 
 import "./Header.css";
 
@@ -14,22 +14,23 @@ import {
     Routes
 } from "react-router-dom";
 
-
 export default function Header() {
     return (
         <Router>
-            <Link to="/home" className="link"> Home</Link>
-            <Link to="/tracuu" className="link">Tra cứu/ Sửa</Link>
-            <Link to="/themsua" className="link">Thêm từ mới</Link>
-            <Link to="/kiemtra" className="link">Kiểm tra</Link>
-            <Link to="/bieudo" className="link">Biểu đồ</Link>
+            <div className="linkContainer">
+                <Link to="/" className="link"> Home</Link>
+                <Link to="/add-new-word" className="link">Add new word</Link>
+                <Link to="/do-exam" className="link">Do exam</Link>
+                <Link to="/graph" className="link">Graph</Link>
+                <Link to="/get-results" className="link"> Result</Link>
+            </div>
           <div>
               <Routes>
-                <Route path="/home" element={<Test />} />
-                <Route path="/tracuu" element={<TraCuu />} />
-                <Route path="/themsua" element={<ThemSua />} />
-                <Route path="/kiemtra" element={<KiemTra /> } />
-                <Route path="/bieudo" element={<BieuDo />} />
+                <Route path="/" element={<TraCuu />} />
+                <Route path="/add-new-word" element={<ThemSua />} />
+                <Route path="/do-exam" element={<KiemTra /> } />
+                <Route path="/graph" element={<BieuDo />} />
+                <Route path="/get-results" element={<Result />} />
             </Routes>
           </div>
         </Router>

@@ -1,4 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+.linkContainer{
+    background-color: rgb(84, 92, 133);
+    padding: 10px;
+    margin: 0 0 15px 0;
+}
+
 .link{
-    margin: 5px;
+    margin: 15px 5px;
     text-decoration: none;
+    background-color: #222;
+    border-radius: 4px;
+    color: #fff;
+    max-width: 70px;
+    width: 100%;
+    padding: 5px;
+}
+
+.link:hover{
+    color: #ccc;
 }

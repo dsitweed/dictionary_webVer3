@@ -19,29 +19,29 @@ export default function ThemSua (){
         };
         if (cachViet === "" || nguNghia === "" || phienAm === "")
             {
-                alert("Không thành công");
+                alert("Unsuccess");
                 return;
             }
         axios.post(baseURL, newWord)
             .catch(err => {
                 console.log(err);
-                alert("Không thành công");
+                alert("Unsuccess");
             });
         console.log("Add new word: ", newWord);
         //Succes -> delete old data
         document.querySelector('#cachViet').value = "";
         document.querySelector('#nguNghia').value = "";
         document.querySelector('#phienAm').value = "";
-        alert("Thành công");
+        alert("Success");
     }
 
     return(
         <div>
             <div id="form">
-                <h2>Thêm từ</h2>
+                <h2>Add new word</h2>
                 <FormGroup>
                     <Label for="cachViet">
-                        Cách viết
+                        Enter word
                     </Label>
                     <Input
                     id="cachViet"
@@ -52,7 +52,7 @@ export default function ThemSua (){
                 </FormGroup>
                 <FormGroup>
                     <Label for="phienAm">
-                        Phiên âm
+                        Pronunciation
                     </Label>
                     <Input
                     id="phienAm"
@@ -63,7 +63,7 @@ export default function ThemSua (){
                 </FormGroup>
                 <FormGroup>
                     <Label for="nguNghia">
-                        Ngữ nghĩa
+                        Meaning
                     </Label>
                     <Input
                     id="nguNghia"
@@ -72,7 +72,7 @@ export default function ThemSua (){
                     required
                     />
                 </FormGroup>
-                <Button onClick={handlePost}> Lưu</Button>    
+                <Button onClick={handlePost}> Save</Button>    
             </div>
         </div>
     );

@@ -1,0 +1,9 @@
+.chart-title{
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.line-chart{
+    max-width: 100%;
+    max-height: 500px;
+}

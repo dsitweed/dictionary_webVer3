@@ -15,6 +15,7 @@ export default function TraCuu (){
     const [result, setResult] = useState([]);//ket qua tra ve sau khi tim thay
     const [toggle, setToggle] = useState(false);
     const [updateWord, setUpdateWord] = useState({});
+    const [inputs, setInputs] = useState({});
 
     useEffect(() => {
         axios.get(baseURL)
@@ -22,11 +23,20 @@ export default function TraCuu (){
         .catch (err => console.log(err));
     }, []);
 
+    const handleChange = (e) => {
+        const name = e.target.name;
+        const value = e.target.value;
+        setInputs((values) => ({...values, [name] : value}));
+        console.log(inputs);
+    };
+
     function searchData() {
-        const searchInput = document.querySelector("#input").value;
+        var searchInput = document.querySelector("#input").value;
+        searchInput = searchInput.toLowerCase();
         var result = [];
        for (var i = 0; i < data.length; i++){
-           if (data[i].cachViet.search(searchInput) !== -1)
+           var buffer = data[i].cachViet.toLowerCase(); 
+           if (buffer.search(searchInput) !== -1)
            result.push(data[i]);
         }
         if (result.length === 0) 
@@ -74,22 +84,28 @@ export default function TraCuu (){
         // Tim cach toi uu hon
     }
 
-    function handleDelete(word)
+    function handleDelete(e)
     {
         var newResult = [];
-        console.log(word);
-        axios.post(`${baseURL}/delete`, word)
+        var wrap = e.target.parentElement.childNodes[0];
+        var word = wrap.innerText || wrap.innerHTML;
+        var item ;
+        for (var i = 0; i < result.length;i++){
+            if (result[i].cachViet === word){
+                item = result[i];break;
+            }
+        }
+        axios.post(`${baseURL}/delete`, item)
         .catch(err => {
             console.log(err);
         });
         
         newResult = result.filter((item) => {
-            return item._id !== word._id;
+            return item.cachViet !== word;
         });
         setResult(() => newResult);
         console.log(newResult);
         refreshData();//refresh data
-        handleToggle();
     }
 
     async function refreshData(){
@@ -107,8 +123,12 @@ export default function TraCuu (){
         <div>
              <div className="inputGroup">
                 <InputGroup>
-                    <Input className="input" id="input"/>
-                    <Button onClick={searchData}>Tìm kiếm</Button>
+                    <Input name="keyword" className="input" id="input" onChange={handleChange}/>
+                    <Button
+                        onClick={searchData}
+                        disabled={!inputs.keyword}
+                    >
+                    Search</Button>
                 </InputGroup>
             </div>
             <div>
@@ -119,9 +139,10 @@ export default function TraCuu (){
                                 <CardTitle tag="h5"> 
                                     {e.cachViet}
                                 </CardTitle>
-                                <CardSubtitle>Phiên âm: {e.phienAm}</CardSubtitle>
-                                <CardText>{e.nguNghia}</CardText>
-                                <Button size="sm" onClick={() => openUpdateToggle(e)}>Chỉnh sửa</Button>
+                                <CardSubtitle>Pronunciation: {e.phienAm}</CardSubtitle>
+                                <CardText>Meaning: {e.nguNghia}</CardText>
+                                <Button size="sm" onClick={() => openUpdateToggle(e)} className="edit-bt">Edit</Button>
+                                <Button size="sm" color="danger" onClick={handleDelete} className="delete-bt">Delete</Button>
                             </CardBody>
                         </Card>
                     ))
@@ -129,12 +150,12 @@ export default function TraCuu (){
 
                 {/* Modal for update Word */}
                 <Modal isOpen={toggle}>
-                    <ModalHeader>Chỉnh sửa</ModalHeader>
+                    <ModalHeader>Edit word</ModalHeader>
                     <ModalBody>
                         <div id="form">
                             <FormGroup>
                                 <Label for="cachViet">
-                                    Cách viết
+                                    Enter word
                                 </Label>
                                 <Input
                                 id="cachViet"
@@ -145,7 +166,7 @@ export default function TraCuu (){
                             </FormGroup>
                             <FormGroup>
                                 <Label for="phienAm">
-                                    Phiên âm
+                                    Pronunciation
                                 </Label>
                                 <Input
                                 id="phienAm"
@@ -156,7 +177,7 @@ export default function TraCuu (){
                             </FormGroup>
                             <FormGroup>
                                 <Label for="nguNghia">
-                                    Ngữ nghĩa
+                                    Meaning
                                 </Label>
                                 <Input
                                 id="nguNghia"
@@ -168,8 +189,8 @@ export default function TraCuu (){
                         </div>
                     </ModalBody>
                     <ModalFooter>
-                        <Button size="sm" onClick={() => handleDelete(updateWord)}>Xóa</Button>
-                        <Button size="sm" onClick={() => handleUpdate(updateWord)}>Chỉnh sửa</Button>
+                        <Button  size="sm" onClick={handleToggle}>Cancel</Button>
+                        <Button color="success" size="sm" onClick={() => handleUpdate(updateWord)}>Save</Button>
                     </ModalFooter>
                 </Modal>
             </div>

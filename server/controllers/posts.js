@@ -1,4 +1,4 @@
-import { PostModel } from '../models/PostModel.js';
+import { PostModel, SaveExam } from '../models/PostModel.js';
 
 export const getPosts = async (req,res) => {
     try {
@@ -47,6 +47,26 @@ export const deletePost = async (req, res) => {
         const deletePost = req.body;
         const post = await PostModel.deleteOne({ _id: deletePost._id});
     } catch (err){
+        res.status(500).json({error: err});
+    }
+};
+
+export const upResultExam = async (req,res) => {
+    try {
+        const result = req.body;
+        const upResult = new SaveExam(result);
+        await upResult.save();
+    } catch (err){
+        res.status(500).json({error: err});
+    }
+};
+
+export const getResultExam = async (req,res) => {
+    try {
+        const results = await SaveExam.find();
+        console.log('posts', results);
+        res.status(200).json(results);
+    } catch (err) {
         res.status(500).json({error: err});
     }
 };
